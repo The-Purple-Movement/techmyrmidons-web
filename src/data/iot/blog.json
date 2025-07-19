@@ -1,1 +1,37 @@
-{}
+{
+  "blog": [
+    {
+      "blog": "https://iotforall.com/",
+      "author": "IoT For All"
+    },
+    {
+      "blog": "https://staceyoniot.com/",
+      "author": "Stacey Higginbotham"
+    },
+    {
+      "blog": "https://www.postscapes.com/",
+      "author": "Postscapes"
+    },
+    {
+      "blog": "https://www.iotworldtoday.com/",
+      "author": "IoT World Today"
+    },
+    {
+      "blog": "https://blog.bosch-si.com/",
+      "author": "Bosch ConnectedWorld Blog"
+    },
+    {
+      "blog": "https://www.ibm.com/blogs/internet-of-things/",
+      "author": "IBM IoT Blog"
+    },
+    {
+      "blog": "https://www.iot-now.com/",
+      "author": "IoT Now"
+    },
+    {
+      "blog": "https://www.arm.com/company/news/blog",
+      "author": "Arm IoT Blog"
+    }
+  ]
+}
+

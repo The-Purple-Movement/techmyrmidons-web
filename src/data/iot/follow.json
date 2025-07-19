@@ -1,1 +1,23 @@
-{}
+{
+
+  "follow": [
+
+   {
+      "followLink":"https://twitter.com/petewarden",
+      "photo":"PeteWarden.jpg",
+      "name":"Pete Warden"
+    },
+
+    {
+      "followLink":"https://t.co/MvdeGm0ntr",
+      "photo":"StaceyHigginbotham.jpg",
+      "name":"Stacey Higginbotham"
+    },
+
+    {
+      "followLink":"https://twitter.com/alexwilliams",
+      "photo":"AlexWilliams.jpg",
+      "name":"Alex Williams"
+    }
+  ]
+}
