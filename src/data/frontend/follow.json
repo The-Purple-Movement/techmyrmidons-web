@@ -1,6 +1,7 @@
 {
 
   "follow": [
+    
 
    {
       "followLink":"https://addyosmani.com/",
@@ -28,13 +29,13 @@
 
     {
       "followLink":"http://getify.me/",
-      "photo":"js.jpg",
+      "photo":"Kyle.jpg",
       "name":"Kyle Simpson"
     },
 
     {
       "followLink":"https://johnresig.com/",
-      "photo":"js.jpg",
+      "photo":"npmohn.jpg",
       "name":"John Resig"
     },
 
