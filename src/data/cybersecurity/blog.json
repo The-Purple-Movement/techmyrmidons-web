@@ -55,6 +55,18 @@
     {
       "blog": "https://darknetdiaries.com/",
       "author": "Darknet Diaries (Jack Rhysider)"
+    },
+    {
+      "blog": "https://www.bleepingcomputer.com/",
+      "author": "Bleeping Computer"
+    },
+    {
+      "blog": "https://www.seqrite.com/blog/",
+      "author": "Seqrite"
+    },
+    {
+      "blog": "https://secureroot.co/Blog",
+      "author":"Secureroot"
     }
   ]
 }
