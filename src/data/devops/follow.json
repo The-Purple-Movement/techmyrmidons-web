@@ -10,13 +10,13 @@
 
     {
       "followLink":"https://twitter.com/allspaw",
-      "photo":"allspaw.jpg",
+      "photo":"John Allspaw.jpg",
       "name":"John Allspaw"
     },
 
     {
       "followLink":"https://twitter.com/joemckendrick",
-      "photo":"joemckendrick.jpg",
+      "photo":"Joe McKendrick.jpeg",
       "name":"Joe McKendrick"
     },
 
@@ -27,7 +27,7 @@
     },
     {
       "followLink":"https://twitter.com/RealGeneKim",
-      "photo":"GeneKim.jpg",
+      "photo":"Gene Kim.png",
       "name":"Gene Kim"
     },
     {
@@ -37,22 +37,22 @@
     },
     {
       "followLink":"https://twitter.com/mrhinkle",
-      "photo":"MarkR.Hinkle.jpg",
+      "photo":"Mark R. Hinkle.jpg",
       "name":"Mark R. Hinkle"
     },
     {
       "followLink":"https://twitter.com/damonedwards",
-      "photo":"DamonEdwards.jpg",
+      "photo":"Damon Edwards.jpg",
       "name":"Damon Edwards"
     },
     {
       "followLink":"https://twitter.com/MartenMickos",
-      "photo":"MartenMickos.jpg",
+      "photo":"Mårten Mickos.jpg",
       "name":"Mårten Mickos"
     },
     {
       "followLink":"https://twitter.com/Lordcope",
-      "photo":"StephenNelson-Smith.jpg",
+      "photo":"Stephen Nelson-Smith.jpg",
       "name":"Stephen Nelson-Smith"
     },
     {
@@ -62,28 +62,28 @@
     },
     {
       "followLink":"https://twitter.com/builddoctor",
-      "photo":"JulianSimpson.jpg",
+      "photo":"Julian Simpson.jpg",
       "name":"Julian Simpson"
     },
     {
       "followLink":"https://twitter.com/xamat",
-      "photo":"XavierAmatriain.jpg",
+      "photo":"Xavier Amatriain.jpg",
       "name":"Xavier Amatriain"
     },
     {
       "followLink":"http://ddegrandis.com/",
-      "photo":"DominicaDeGrandis.jpg",
+      "photo":"Dominica DeGrandis.jpg",
       "name":"Dominica DeGrandis"
     },
     {
       "followLink":"https://twitter.com/sascha_d",
-      "photo":"Sascha.jpg",
-      "name":"Sascha"
+      "photo":"Sascha Bates.jpg",
+      "name":"Sascha Bates"
     },
     {
       "followLink":"https://twitter.com/lnxchk",
-      "photo":"RedStateBlackSheep.jpg",
-      "name":"RedStateBlackSheep"
+      "photo":"Mandi Walls.jpg",
+      "name":"Mandi Walls"
     },
     {
       "followLink":"https://twitter.com/jezhumble",
@@ -92,12 +92,12 @@
     },
     {
       "followLink":"https://twitter.com/estherderby",
-      "photo":"estherderby.jpg",
-      "name":"Estherderby"
+      "photo":"Esther Derby.jpg",
+      "name":"Esther Derby"
     },
     {
       "followLink":"https://twitter.com/littleidea",
-      "photo":"AndrewClayShafer.jpg",
+      "photo":"Andrew Clay Shafer.jpg",
       "name":"Andrew Clay Shafer"
     },
     {
@@ -112,7 +112,7 @@
     },
     {
       "followLink":"https://twitter.com/courtneynash",
-      "photo":"CourtneyNash.jpg",
+      "photo":"Courtney Nash.jpeg",
       "name":"Courtney Nash"
     }
   ]

@@ -4,13 +4,13 @@
 
    {
       "followLink":"https://addyosmani.com/",
-      "photo":"addy.jpg",
+      "photo":"Addy Osmani.jpg",
       "name":"Addy Osmani"
     },
 
     {
       "followLink":"http://christianheilmann.com/",
-      "photo":"heilmann.jpg",
+      "photo":"Christian Heilmann.png",
       "name":"Christian Heilmann"
     },
 
@@ -28,13 +28,13 @@
 
     {
       "followLink":"http://getify.me/",
-      "photo":"js.jpg",
+      "photo":"Kyle Simpson.jpg",
       "name":"Kyle Simpson"
     },
 
     {
       "followLink":"https://johnresig.com/",
-      "photo":"js.jpg",
+      "photo":"John Resig.jpg",
       "name":"John Resig"
     },
 
@@ -46,7 +46,7 @@
 
     {
       "followLink":"http://lea.verou.me/",
-      "photo":"verou.jpg",
+      "photo":"Lea Verou.jpg",
       "name":"Lea Verou"
     },
 
@@ -58,7 +58,7 @@
 
     {
       "followLink":"https://twitter.com/sullivannicole",
-      "photo":"sullivan.jpg",
+      "photo":"Nicole Sullivan.jpg",
       "name":"Nicole Sullivan"
     }
   ]

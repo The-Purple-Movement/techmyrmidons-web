@@ -2,12 +2,12 @@
   "follow": [
     {
       "followLink": "https://twitter.com/cyanogen",
-      "photo": "cyanogen.jpg",
-      "name": "Steve Kondik "
+      "photo": "Steve Kondik.jpg",
+      "name": "Steve Kondik"
     },
     {
       "followLink": "https://twitter.com/Arubin",
-      "photo": "AndyRubin.jpg",
+      "photo": "Andy Rubin.jpg",
       "test": "android-follow",
       "name": "Andy Rubin"
     },
@@ -19,19 +19,19 @@
     },
     {
       "followLink": "https://twitter.com/lehtimaeki",
-      "photo": "JuhaniLehtimaki.jpg",
+      "photo": "Juhani Lehtimäki.jpg",
       "test": "android-follow",
       "name": "Juhani Lehtimäki"
     },
     {
       "followLink": "https://twitter.com/droidxav",
-      "photo": "XavierDucrohet.jpg",
+      "photo": "Xavier Ducrohet.jpg",
       "test": "android-follow",
       "name": "Xavier Ducrohet"
     },
     {
       "followLink": "https://twitter.com/ginatrapani",
-      "photo": "GinaTrapani.jpg",
+      "photo": "Gina Trapani.jpg",
       "test": "android-follow",
       "name": "Gina Trapani"
     },
@@ -49,13 +49,13 @@
     },
     {
       "followLink": "https://twitter.com/saschasegan",
-      "photo": "saschasegan.jpg",
+      "photo": "Sascha Segan.jpg",
       "test": "android-follow",
       "name": "Sascha Segan"
     },
     {
       "followLink": "https://twitter.com/MatiasDuarte",
-      "photo": "MatiasDuarte.jpg",
+      "photo": "Matias Duarte.jpg",
       "test": "android-follow",
       "name": "Matías Duarte"
     },
@@ -73,9 +73,9 @@
     },
     {
       "followLink": "https://twitter.com/devunwired",
-      "photo": "DroidSmith.jpg",
+      "photo": "Dave Smith.jpg",
       "test": "android-follow",
-      "name": "DroidSmith"
+      "name": "Dave Smith"
     },
     {
       "followLink": "https://twitter.com/joenrv",
