@@ -1,5 +1,10 @@
 {
   "follow": [
+     {
+      "followLink": "https://x.com/0dayctf",
+      "photo": "ryan.jpg",
+      "name": "Ryan M. Montgomery"
+    },
     
     {
       "followLink": "https://twitter.com/kimzetter",
