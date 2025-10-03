@@ -1,5 +1,11 @@
 {
   "2025": [
+     {
+      "title": "Burpsuite",
+      "description": "The essential free toolkit for hands-on web application security testing and analysis.",
+      "url": "https://portswigger.net/burp/documentation",
+      "morelink": "Burpsuite"
+    },
     {
       "title": "LlamaFirewall",
       "description": "LlamaFirewall is an open‑source guardrail framework introduced in mid‑2025 to mitigate security risks from AI agents—guarding prompt injection, misalignment, insecure code output, and jailbreaks.",
