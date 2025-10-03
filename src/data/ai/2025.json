@@ -1,6 +1,12 @@
 {
   "2025": [
     {
+      "title": "Inside the Google AI Blog: Where Research Meets Reality",
+      "description":"From breakthrough research to everyday applications, the Google AI Blog shows how AI moves from the lab to our lives.",
+      "url": "https://blog.google/technology/ai/",
+      "morelink": "Inside Google ai"
+    },
+    {
       "title": "AI Action Summit in Paris",
       "description": "Held on February 10–11, over 1,000 participants from 100+ countries—including Macron and Modi—gathered to set global AI investment (€200 B InvestAI), ethics, and regulation agendas.",
       "url": "https://en.wikipedia.org/wiki/AI_Action_Summit",
