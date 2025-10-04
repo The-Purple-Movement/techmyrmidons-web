@@ -1,0 +1,41 @@
+{
+    "2024": [
+      {
+        "title": "WAI-ARIA APG",
+        "description": "W3C Authoring Practices for accessible UI patterns and behaviors.",
+        "url": "https://www.w3.org/WAI/ARIA/apg/",
+        "morelink": "wai-aria-apg"
+      },
+      {
+        "title": "Inclusive Components",
+        "description": "Blog on accessibility and inclusive design patterns by Heydon Pickering.",
+        "url": "https://inclusive-components.design/",
+        "morelink": "inclusive-components"
+      },
+      {
+        "title": "A List Apart",
+        "description": "Explores design, development, and web standards in UX.",
+        "url": "https://alistapart.com/",
+        "morelink": "a-list-apart"
+      },
+      {
+        "title": "UX Movement",
+        "description": "Articles on design decisions backed by psychology and usability principles.",
+        "url": "https://uxmovement.com/",
+        "morelink": "ux-movement"
+      },
+      {
+        "title": "Baymard Institute",
+        "description": "Research-based UX guidelines and ecommerce usability studies.",
+        "url": "https://baymard.com/blog",
+        "morelink": "baymard"
+      },
+      {
+        "title": "WebAIM Blog",
+        "description": "Accessibility insights, WCAG updates, and inclusive design practices.",
+        "url": "https://webaim.org/blog/",
+        "morelink": "webaim"
+      }
+    ]
+  }
+  

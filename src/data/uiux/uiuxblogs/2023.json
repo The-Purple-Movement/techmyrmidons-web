@@ -1,0 +1,41 @@
+{
+    "2023": [
+      {
+        "title": "Nielsen Norman Group",
+        "description": "Authoritative UX research, usability heuristics, and best practices.",
+        "url": "https://www.nngroup.com/articles/",
+        "morelink": "nng"
+      },
+      {
+        "title": "Smashing Magazine – UX",
+        "description": "Practical UX design articles, patterns, and case studies.",
+        "url": "https://www.smashingmagazine.com/category/ux-design/",
+        "morelink": "smashing-ux"
+      },
+      {
+        "title": "UX Collective",
+        "description": "Medium’s largest design publication with stories on UX and product design.",
+        "url": "https://uxdesign.cc/",
+        "morelink": "ux-collective"
+      },
+      {
+        "title": "UX Matters",
+        "description": "In-depth UX articles and insights by industry leaders.",
+        "url": "https://www.uxmatters.com/",
+        "morelink": "ux-matters"
+      },
+      {
+        "title": "UX Booth",
+        "description": "User experience and usability articles for beginners and professionals.",
+        "url": "https://www.uxbooth.com/",
+        "morelink": "ux-booth"
+      },
+      {
+        "title": "Designmodo UX",
+        "description": "Practical guides and tutorials on UI/UX and product design.",
+        "url": "https://designmodo.com/articles/ux/",
+        "morelink": "designmodo-ux"
+      }
+    ]
+  }
+  

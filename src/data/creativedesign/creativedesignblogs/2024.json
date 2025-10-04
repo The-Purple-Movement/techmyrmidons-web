@@ -1,0 +1,41 @@
+{
+    "2024": [
+      {
+        "title": "Dribbble Blog",
+        "description": "Insights on design careers, portfolios, and the creative community.",
+        "url": "https://dribbble.com/stories",
+        "morelink": "dribbble-blog"
+      },
+      {
+        "title": "Behance Stories",
+        "description": "Creative stories, case studies, and interviews from top designers.",
+        "url": "https://www.behance.net/stories",
+        "morelink": "behance-stories"
+      },
+      {
+        "title": "The Dieline",
+        "description": "Industry-leading blog on packaging design and brand identity.",
+        "url": "https://thedieline.com/",
+        "morelink": "dieline"
+      },
+      {
+        "title": "We and The Color",
+        "description": "Curated blog showcasing graphic design, illustration, and photography.",
+        "url": "https://weandthecolor.com/",
+        "morelink": "weandthecolor"
+      },
+      {
+        "title": "Muzli by InVision",
+        "description": "Daily design inspiration and curated creative design articles.",
+        "url": "https://muz.li/",
+        "morelink": "muzli"
+      },
+      {
+        "title": "Creative Boom",
+        "description": "Covers art, design, photography, and tips for creative professionals.",
+        "url": "https://www.creativeboom.com/",
+        "morelink": "creativeboom"
+      }
+    ]
+  }
+  

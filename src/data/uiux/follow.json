@@ -1,9 +1,21 @@
 {
-    "follow" : [
-        {
-      "followLink":"https://heyfarai.com/",
-      "photo":"farai-madzima.jpg",
-      "name":"Farai Madzima"
-        }
-    ]
+  "follow": [
+    {
+      "followLink": "https://www.jnd.org/",
+      "photo": "don_norman.jpg",
+      "name": "Don Norman"
+    },
+    {
+      "followLink": "https://www.lukew.com/",
+      "photo": "luke_wroblewski.jpg",
+      "name": "Luke Wroblewski"
+    },
+    {
+      "followLink": "https://www.juliezhuo.com/",
+      "photo": "julie_zhuo.jpg",
+      "name": "Julie Zhuo"
+    }
+  ]
 }
+
+

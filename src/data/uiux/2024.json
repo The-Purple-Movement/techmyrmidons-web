@@ -1,0 +1,39 @@
+{"2024": [
+    {
+      "title": "Behance",
+      "description": "Showcase and discover creative work across graphic, motion, and product design.",
+      "url": "https://www.behance.net/",
+      "morelink": "behance"
+    },
+    {
+      "title": "Dribbble",
+      "description": "Community for sharing shots, finding inspiration, and hiring designers.",
+      "url": "https://dribbble.com/",
+      "morelink": "dribbble"
+    },
+    {
+      "title": "Blender",
+      "description": "Open-source 3D creation suite for modeling, animation, and rendering.",
+      "url": "https://www.blender.org/",
+      "morelink": "blender"
+    },
+    {
+      "title": "Procreate",
+      "description": "iPad digital illustration app used by professionals for concept art and design.",
+      "url": "https://procreate.com/",
+      "morelink": "procreate"
+    },
+    {
+      "title": "LottieFiles",
+      "description": "Lightweight animations for web and mobile; browse, edit, and export.",
+      "url": "https://lottiefiles.com/",
+      "morelink": "lottiefiles"
+    },
+    {
+      "title": "Unsplash",
+      "description": "High-quality free photos for creative projects and mockups.",
+      "url": "https://unsplash.com/",
+      "morelink": "unsplash"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+    "2023": [
+      {
+        "title": "Creative Bloq – Inspiration & How-Tos",
+        "description": "Covers design trends, tutorials, and creative workflows for designers.",
+        "url": "https://www.creativebloq.com/",
+        "morelink": "creativebloq"
+      },
+      {
+        "title": "99designs Blog",
+        "description": "Design inspiration, branding guides, and freelance design tips.",
+        "url": "https://99designs.com/blog/",
+        "morelink": "99designs"
+      },
+      {
+        "title": "Adobe Creative Cloud Blog",
+        "description": "Articles on creativity, design tools, and artist spotlights from Adobe.",
+        "url": "https://blog.adobe.com/en",
+        "morelink": "adobe-blog"
+      },
+      {
+        "title": "DesignTaxi",
+        "description": "Creative design news, trends, and inspiration across disciplines.",
+        "url": "https://designtaxi.com/",
+        "morelink": "designtaxi"
+      },
+      {
+        "title": "Envato Tuts+ Design",
+        "description": "Tutorials and resources for digital design, illustration, and graphics.",
+        "url": "https://design.tutsplus.com/",
+        "morelink": "tutsplus-design"
+      },
+      {
+        "title": "Abduzeedo",
+        "description": "Popular blog with daily design inspiration, tutorials, and features.",
+        "url": "https://abduzeedo.com/",
+        "morelink": "abduzeedo"
+      }
+    ]
+  }
+  

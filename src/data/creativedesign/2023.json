@@ -1,0 +1,34 @@
+{
+    "2023": [
+    {
+      "title": "Adobe Creative Cloud",
+      "description": "Suite for design: Photoshop, Illustrator, InDesign, After Effects, and more.",
+      "url": "https://www.adobe.com/creativecloud.html",
+      "morelink": "adobe-cc"
+    },
+    {
+      "title": "Affinity Suite",
+      "description": "Professional alternatives: Affinity Designer, Photo, and Publisher.",
+      "url": "https://affinity.serif.com/",
+      "morelink": "affinity"
+    },
+    {
+      "title": "Canva",
+      "description": "Template-driven design tool for quick marketing and social creatives.",
+      "url": "https://www.canva.com/",
+      "morelink": "canva"
+    },
+    {
+      "title": "Figma",
+      "description": "Collaborative interface design and prototyping platform for product teams.",
+      "url": "https://www.figma.com/",
+      "morelink": "figma"
+    },
+    {
+      "title": "Figma Community",
+      "description": "Free design files, UI kits, and plugins shared by the community.",
+      "url": "https://www.figma.com/community",
+      "morelink": "figma-community"
+    }
+  ]
+}

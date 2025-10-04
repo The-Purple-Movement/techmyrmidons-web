@@ -1,14 +1,68 @@
 {
-    "2025" : [
-        {
-        "title": "Your Color Palette Might Be Driving People Off",
-        "description": "What’s the first thing people notice when they land on your site? It’s not the layout or the typography. It’s the colors. Before users read a headline or click a button, they’ve already formed an opinion. The right palette builds trust. The wrong one pushes them away.",
-        "url": "https://uiverse.io/blog/your-color-palette-might-be-driving-people-off-choosing-colours-that-keep-users-around"
-        },
-        {
-        "title": "The Psychology Behind the New iOS Interface",
-        "description": "Apple has long been known not just for innovation in technology but also for how its products make people feel. The release of the new iOS interface is no exception. It’s not just a visual upgrade, it’s a psychological experience carefully crafted to shape user behavior, emotions, and attention.",
-        "url": "https://medium.com/@luckyekezie80/the-psychology-behind-the-new-ios-interface-why-apples-design-feels-so-right-e8c0bf377279"
-        }
-    ]
+  "2025": [
+    {
+      "title": "Material UI",
+      "description": "React UI components with Material Design, theming, and accessibility.",
+      "url": "https://mui.com/",
+      "morelink": "material-ui"
+    },
+    {
+      "title": "Tailwind UI",
+      "description": "Professionally designed, fully responsive UI components built with Tailwind CSS.",
+      "url": "https://tailwindui.com/",
+      "morelink": "tailwind-ui"
+    },
+    {
+      "title": "Radix UI",
+      "description": "Unstyled, accessible primitives for building high-quality design systems.",
+      "url": "https://www.radix-ui.com/",
+      "morelink": "radix-ui"
+    },
+    {
+      "title": "Framer",
+      "description": "High-fidelity prototyping and web builder with interactive components.",
+      "url": "https://www.framer.com/",
+      "morelink": "framer"
+    },
+    {
+      "title": "Storybook",
+      "description": "UI component workshop to build, document, and test components in isolation.",
+      "url": "https://storybook.js.org/",
+      "morelink": "storybook"
+    },
+    {
+      "title": "Nielsen Norman Group",
+      "description": "Authoritative UX research, heuristics, and best practices articles.",
+      "url": "https://www.nngroup.com/",
+      "morelink": "nng"
+    },
+    {
+      "title": "WAI-ARIA APG",
+      "description": "W3C Authoring Practices for accessible UI patterns and behaviors.",
+      "url": "https://www.w3.org/WAI/ARIA/apg/",
+      "morelink": "wai-aria-apg"
+    },
+    {
+      "title": "Smashing Magazine – UX",
+      "description": "Practical UX design articles, patterns, and case studies.",
+      "url": "https://www.smashingmagazine.com/category/ux-design/",
+      "morelink": "smashing-ux"
+    },
+    {
+      "title": "Lucide Icons",
+      "description": "Open-source SVG icon set for modern interfaces.",
+      "url": "https://lucide.dev/",
+      "morelink": "lucide"
+    },
+    {
+      "title": "Your Color Palette Might Be Driving People Off",
+      "description": "What’s the first thing people notice when they land on your site? It’s not the layout or the typography. It’s the colors. Before users read a headline or click a button, they’ve already formed an opinion. The right palette builds trust. The wrong one pushes them away.",
+      "url": "https://uiverse.io/blog/your-color-palette-might-be-driving-people-off-choosing-colours-that-keep-users-around"
+    },
+    {
+      "title": "The Psychology Behind the New iOS Interface",
+      "description": "Apple has long been known not just for innovation in technology but also for how its products make people feel. The release of the new iOS interface is no exception. It’s not just a visual upgrade, it’s a psychological experience carefully crafted to shape user behavior, emotions, and attention.",
+      "url": "https://medium.com/@luckyekezie80/the-psychology-behind-the-new-ios-interface-why-apples-design-feels-so-right-e8c0bf377279"
+    }
+  ]
 }
