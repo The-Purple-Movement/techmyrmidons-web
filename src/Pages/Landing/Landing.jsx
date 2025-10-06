@@ -127,7 +127,7 @@ const Landing = () => {
             <Card
               image="/assets/landing/cdesign.png"
               name="Creative Design"
-              link="/creative-design"
+              link="/creativedesign"
               description="Creative Design helps to portray ideas in the best fashion and requires an expertise in designing and a certain level of creativity. "
             />
             <Card
