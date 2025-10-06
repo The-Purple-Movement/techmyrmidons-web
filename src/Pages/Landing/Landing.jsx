@@ -61,11 +61,23 @@ const Landing = () => {
               description="DevOps is a set of practices that combines software development and IT operations."
             />
             <Card
+              image="/assets/landing/web.png"
+              name="Web"
+              link="/web"
+              description="Web refers to the interconnected system of information and resources accessed through the internet using browsers."
+            />
+            <Card
               image="/assets/landing/frontend.png"
               name="Front-End"
               link="/frontend"
               description="
             The term Front-End mainly referes to the User Interface which an user view and interacts with and its working"
+            />
+            <Card 
+              image="/assets/landing/backend.png" 
+              name="Back-End" 
+              link="/backend"
+              description="Backend development refers to the server-side aspect of web development, focusing on creating and managing the server logic, databases, and APIs"
             />
             <Card
               image="/assets/landing/blockchain.png"

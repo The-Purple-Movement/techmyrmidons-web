@@ -1,0 +1,16 @@
+{
+  "blog": [
+    {
+      "blog": "http://highscalability.com/",
+      "author": "High Scalability"
+    },
+    {
+      "blog": "https://www.infoq.com/",
+      "author": "InfoQ"
+    },
+    {
+      "blog": "https://blog.acolyer.org/",
+      "author": "The Morning Paper"
+    }
+  ]
+}

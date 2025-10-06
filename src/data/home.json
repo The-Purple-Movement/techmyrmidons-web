@@ -16,6 +16,11 @@
       "folderName": "frontend"
     },
     {
+      "technology": "Backend",
+      "logo": "backend-logo.png",
+      "folderName": "backend"
+    },
+    {
       "technology": "Web",
       "logo": "web-logo.png",
       "folderName": "web"
