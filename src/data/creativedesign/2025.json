@@ -1,0 +1,16 @@
+{
+    "2025": [
+    {
+      "title": "Blender",
+      "description": "Open-source 3D creation suite for modeling, animation, and rendering.",
+      "url": "https://www.blender.org/",
+      "morelink": "blender"
+    },
+    {
+      "title": "Procreate",
+      "description": "iPad digital illustration app used by professionals for concept art and design.",
+      "url": "https://procreate.com/",
+      "morelink": "procreate"
+    }
+  ]
+}

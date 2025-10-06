@@ -1,0 +1,14 @@
+{
+  "2025": [
+    {
+      "title" : "Strawberry Fields",
+      "description" : "Strawberry Fields is a full-stack Python library for constructing, simulating, and executing programs on photonic quantum computers. Design quantum algorithms and execute them directly on Xanadu's next-generation quantum hardware.",
+      "url" : "https://www.xanadu.ai/products/strawberry-fields/"
+    },
+    {
+      "title" : "Entropica labs",
+      "description" : "Entropica brings deep, targeted expertise in quantum error correction—one of the most critical challenges in realising scalable quantum computing. Their integration with PennyLane and Catalyst enhances practical fault-tolerant workflows.",
+      "url" : "https://entropicalabs.com/"
+    }
+  ]
+}

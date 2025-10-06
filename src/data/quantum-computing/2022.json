@@ -1,0 +1,9 @@
+{
+  "2022": [
+    {
+      "title" : "Mitiq",
+      "description" : "Mitiq is an extensible toolkit of different error mitigation methods, including zero-noise extrapolation, probabilistic error cancellation, and Clifford data regression. The library is designed to be compatible with generic backends and interfaces with different quantum software frameworks. ",
+      "url" : "https://arxiv.org/abs/2009.04417"
+    }
+  ]
+}

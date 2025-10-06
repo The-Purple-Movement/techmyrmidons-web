@@ -1,0 +1,14 @@
+{
+  "2024": [
+    {
+      "title" : "Qiskit 1.0",
+      "description" : "Qiskit is used to program, simulate, and execute quantum algorithms on quantum computers by providing an open-source Python-based framework for creating quantum circuits, running them on real hardware or simulators, and developing quantum applications.",
+      "url" : "https://quantum.cloud.ibm.com/docs/en/api/qiskit/release-notes/1.0"
+    },
+    {
+      "title" : "Qiskit 2.0",
+      "description" : "he Qiskit v2 release introduces several important enhancements in key areas including the C API, transpiler capabilities and quantum circuit usability. In addition, it includes many general improvements and bug fixes.",
+      "url" : "https://quantum.cloud.ibm.com/docs/en/api/qiskit/release-notes/2.0"
+    }
+  ]
+}

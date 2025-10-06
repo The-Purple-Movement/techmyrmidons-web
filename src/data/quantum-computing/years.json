@@ -1,3 +1,41 @@
 {
-  "years": []
+  "years": [
+    {
+      "year" : "2025",
+      "url" : "/data/quantum-computing/2025.json"
+    },
+    {
+      "year" : "2024",
+      "url" : "/data/quantum-computing/2024.json"
+    },
+    {
+      "year" : "2023",
+      "url" : "/data/quantum-computing/2023.json"
+    },
+    {
+      "year" : "2022",
+      "url" : "/data/quantum-computing/2022.json"
+    },
+
+    {
+      "year" : "2021",
+      "url" : "/data/quantum-computing/2021.json"
+    },
+    {
+      "year" : "2020",
+      "url" : "/data/quantum-computing/2020.json"
+    },
+    {
+      "year" : "2019",
+      "url" : "/data/quantum-computing/2019.json"
+    },
+    {
+      "year" : "2018",
+      "url" : "/data/quantum-computing/2018.json"
+    },
+     {
+      "year" : "2017",
+      "url" : "/data/quantum-computing/2017.json"
+    }
+  ]
 }

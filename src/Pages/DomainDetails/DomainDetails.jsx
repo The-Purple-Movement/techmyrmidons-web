@@ -48,9 +48,13 @@ const DomainDetails = () => {
       });
     }
 
-    import(`../../data/${id}/blog.json`).then((response) => {
-      setBlogs(response.blog);
-    });
+    if (id !== "uiux" && id !== "creativedesign") {
+      import(`../../data/${id}/blog.json`).then((response) => {
+        setBlogs(response.blog);
+      });
+    } else {
+      setBlogs([]);
+    }
 
     import(`../../data/${id}/follow.json`).then((response) => {
       setPeople(response.follow);
@@ -87,6 +91,20 @@ const DomainDetails = () => {
       import(`../../data/${id}/${year}.json`).then((response) =>
         setLocalTools(response[year])
       );
+
+      if (id === "uiux") {
+        import(`../../data/uiux/uiuxblogs/${year}.json`).then((response) => {
+          const items = response && response[year] ? response[year] : [];
+          const mapped = items.map((item) => ({ author: item.title, blog: item.url }));
+          setBlogs(mapped);
+        });
+      } else if (id === "creativedesign") {
+        import(`../../data/creativedesign/creativedesignblogs/${year}.json`).then((response) => {
+          const items = response && response[year] ? response[year] : [];
+          const mapped = items.map((item) => ({ author: item.title, blog: item.url }));
+          setBlogs(mapped);
+        });
+      }
     }
   }, [year, id]);
 

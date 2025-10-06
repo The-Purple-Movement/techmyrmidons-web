@@ -61,6 +61,16 @@
       "folderName": "iot"
     },
     {
+      "technology": "UI/UX",
+      "logo": "uiux.png",
+      "folderName": "uiux"
+    },
+    {
+      "technology": "Cyber Security",
+      "logo": "cybersec.png",
+      "folderName": "cybersecurity"
+    },
+    {
       "technology": "Marketing",
       "logo": "marketing.png",
       "folderName": "marketing"
@@ -69,6 +79,22 @@
       "technology": "foss",
       "logo": "foss.png",
       "folderName": "foss"
+    },
+    {
+      "technology": "Creative Design",
+      "logo": "cdesign.png",
+      "folderName": "creative-design"
+    }
+    ,{
+      "technology": "UI/UX",
+      "logo": "uiux.png",
+      "folderName": "uiux"
+    }
+    ,{
+      "technology": "Creative Design",
+      "logo": "cdesign.png",
+      "folderName": "creativedesign"
+
     }
   ]
 }

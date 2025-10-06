@@ -1,0 +1,24 @@
+{
+  "2021": [
+    {
+      "title" : "TKET",
+      "description" : "TKET, or tket, is a hardware-agnostic, open-source quantum software development toolkit developed by Quantinuum that includes a powerful optimizing compiler for creating and running programs on various quantum devices and simulators. ",
+      "url" : "https://www.quantinuum.com/glossary-item/tket"
+    },
+    {
+      "title" : "InQuanto",
+      "description" : "InQuanto is our state-of-the-art quantum chemistry platform for complex molecular and materials simulations. We are working with industry partners to accelerate the advent of useful quantum computational chemistry, which has the potential to revolutionize areas such as drug discovery and next-generation material design ",
+      "url" : "https://www.quantinuum.com/products-solutions/inquanto"
+    },
+    {
+      "title" : "Lambeq",
+      "description" : "lambeq [KFY+21] is an open-source, modular, extensible high-level Python library for experimental Quantum Natural Language Processing (QNLP), created by Quantinuum's QNLP team.",
+      "url" : "https://github.com/CQCL/lambeq"
+    },
+    {
+      "title" : "Quantum Origin",
+      "description" : "A quantum-enhanced cryptographic key generation platform to protect data from advancing threats.",
+      "url" : "https://www.quantinuum.com/products-solutions/quantum-origin"
+    }
+  ]
+}

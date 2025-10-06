@@ -1,0 +1,41 @@
+{
+    "2025": [
+      {
+        "title": "Storybook Blog",
+        "description": "Guides and case studies on component-driven UI development and design systems.",
+        "url": "https://storybook.js.org/blog/",
+        "morelink": "storybook-blog"
+      },
+      {
+        "title": "Framer Blog",
+        "description": "Articles on prototyping, product design trends, and design-to-code workflows.",
+        "url": "https://www.framer.com/blog/",
+        "morelink": "framer-blog"
+      },
+      {
+        "title": "UX Planet",
+        "description": "Practical UX tutorials, trends, and career advice.",
+        "url": "https://uxplanet.org/",
+        "morelink": "ux-planet"
+      },
+      {
+        "title": "UX Studio Blog",
+        "description": "Design thinking, UX case studies, and product design insights.",
+        "url": "https://uxstudioteam.com/ux-blog/",
+        "morelink": "ux-studio"
+      },
+      {
+        "title": "Adobe XD Ideas",
+        "description": "Stories and resources about UX, creativity, and product design.",
+        "url": "https://xd.adobe.com/ideas/",
+        "morelink": "adobe-xd-ideas"
+      },
+      {
+        "title": "UX Design.cc – Trends",
+        "description": "Latest UX trends, design systems, and future design insights.",
+        "url": "https://uxdesign.cc/trending",
+        "morelink": "ux-trends"
+      }
+    ]
+  }
+  

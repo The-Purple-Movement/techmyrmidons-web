@@ -127,7 +127,7 @@ const Landing = () => {
             <Card
               image="/assets/landing/cdesign.png"
               name="Creative Design"
-              link="/creativedesgin"
+              link="/creative-design"
               description="Creative Design helps to portray ideas in the best fashion and requires an expertise in designing and a certain level of creativity. "
             />
             <Card
@@ -136,7 +136,7 @@ const Landing = () => {
               link="/marketing"
               description="Marketing is the process of promoting and selling goods and services. It involves understanding the product, target audience, and making plans to promote it. "
             />
-          <Card
+            <Card
               image="/assets/landing/foss.png"
               name="Foss"
               link="/foss"

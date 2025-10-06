@@ -1,0 +1,41 @@
+{
+    "2025": [
+      {
+        "title": "Canva Design Blog",
+        "description": "Tips, trends, and tutorials for creative design using Canva and beyond.",
+        "url": "https://www.canva.com/learn/",
+        "morelink": "canva-blog"
+      },
+      {
+        "title": "Smashing Magazine – Graphics",
+        "description": "Deep articles on visual design, illustration, and creative workflows.",
+        "url": "https://www.smashingmagazine.com/category/graphics/",
+        "morelink": "smashing-graphics"
+      },
+      {
+        "title": "Design Shack",
+        "description": "Resources, articles, and inspiration for modern digital design.",
+        "url": "https://designshack.net/",
+        "morelink": "designshack"
+      },
+      {
+        "title": "Made by Folk",
+        "description": "Creative showcase and blog featuring talented designers worldwide.",
+        "url": "https://madebyfolk.com/",
+        "morelink": "madebyfolk"
+      },
+      {
+        "title": "Logo Design Love",
+        "description": "Blog dedicated to brand identity, logos, and visual storytelling.",
+        "url": "https://www.logodesignlove.com/",
+        "morelink": "logo-design-love"
+      },
+      {
+        "title": "Eye on Design (AIGA)",
+        "description": "Explores contemporary design culture and creative practice.",
+        "url": "https://eyeondesign.aiga.org/",
+        "morelink": "eyeondesign"
+      }
+    ]
+  }
+  

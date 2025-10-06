@@ -1,0 +1,24 @@
+{
+  "2018": [
+    {
+      "title" : "Cirq",
+      "description" : "Cirq is a Python software library for writing, manipulating, and optimizing quantum circuits, and then running them on quantum computers and quantum simulators. Cirq provides useful abstractions for dealing with today’s noisy intermediate-scale quantum computers, where details of the hardware are vital to achieving state-of-the-art results.",
+      "url" : "https://quantumai.google/cirq" 
+    },
+    {
+      "title" : "PyQuill",
+      "description" : "PyQuil is a Python library for quantum programming using Quil, the quantum instruction language developed at Rigetti Computing. PyQuil serves three main functions: Easily generating Quil programs from quantum gates and classical operations.",
+      "url" : "https://pyquil-docs.rigetti.com"
+    },
+    {
+      "title" : "Leap",
+      "description" : "The Leap™ quantum cloud service provides real-time access to the world's largest quantum computers and powerful hybrid solvers while offering production-grade accessibility, reliability, and security.",
+      "url" : "https://cloud.dwavesys.com"
+    },
+    {
+      "title" : "ProjectQ",
+      "description" : "ProjectQ is an open-source Python framework for quantum computing started at ETH Zurich. The ProjectQ framework combines a highly customizable compiler engine with an abstracted backend model, allowing authors to build quantum circuits that can be run on a variety of simulators, emulators, and real quantum hardware.",
+      "url" : "https://projectq.ch"
+    }
+  ]
+}

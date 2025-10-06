@@ -1,0 +1,9 @@
+{
+  "2019": [
+    {
+      "title" : "Pennylane",
+      "description" : "PennyLane connects quantum computing with powerful machine learning frameworks like NumPy's autograd, JAX, PyTorch, and TensorFlow, making them quantum-aware. Its central job is to manage the execution of quantum computations, including the evaluation of circuits and the computation of their gradients.",
+      "url" : "https://pennylane.ai"
+    }
+  ]
+}

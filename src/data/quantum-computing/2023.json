@@ -1,0 +1,9 @@
+{
+  "2023": [
+    {
+      "title" : "Azure Quantum Elements",
+      "description" : "Microsoft Azure Quantum is a public cloud-based quantum computing platform developed by Microsoft, that offers quantum hardware, software, and solutions for developers to build quantum applications.",
+      "url" : "https://quantum.microsoft.com"
+    } 
+  ]
+}

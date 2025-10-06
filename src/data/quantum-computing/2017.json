@@ -1,0 +1,14 @@
+{
+  "2017": [
+    {
+      "title" : "Qiskit",
+      "description" : "Qiskit is an open-source software stack, primarily a Python-based SDK, for quantum computing that provides tools to build, optimize, and execute quantum programs on both quantum computers and classical simulators.",
+      "url" : "https://www.ibm.com/quantum/qiskit"
+    },
+    {
+      "title" : "Q-Sharp",
+      "description" : "Q# is a high-level, open-source programming language developed by Microsoft for writing quantum programs. Q# is included in the Quantum Development Kit (QDK)",
+      "url" : "https://learn.microsoft.com/en-us/azure/quantum/qsharp-overview"
+    }
+  ]
+}

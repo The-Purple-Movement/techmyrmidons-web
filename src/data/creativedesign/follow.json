@@ -1,0 +1,19 @@
+{
+  "follow": [
+    {
+      "followLink": "https://www.logodesignlove.com/",
+      "photo": "david_airey.jpg",
+      "name": "David Airey"
+    },
+    {
+      "followLink": "https://www.pentagram.com/about/paula-scher",
+      "photo": "paula_scher.jpg",
+      "name": "Paula Scher"
+    },
+    {
+      "followLink": "https://www.behance.net/sagmeisterwalsh",
+      "photo": "sagmeister_walsh.jpg",
+      "name": "Sagmeister & Walsh"
+    }
+  ]
+}

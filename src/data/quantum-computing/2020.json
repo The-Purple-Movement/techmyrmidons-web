@@ -1,0 +1,34 @@
+{
+  "2020": [
+    {
+      "title" : "Amazon Bracket",
+      "description" : "Braket handles all the underlying software components and Amazon Elastic Compute Cloud (Amazon EC2) clusters to take away the burden of simulating quantum circuits on classical high performance computing (HPC) infrastructure. Run - Braket provides secure, on-demand access to different types of quantum computers.",
+      "url" : "https://docs.aws.amazon.com/braket/latest/developerguide/what-is-braket.html"
+    },
+    {
+      "title" : "TensorFlow Quantum",
+      "description" : "tensorflow quantum (tfq) is a quantum machine learning library for rapid prototyping of hybrid quantum-classical ml models. research in quantum algorithms and applications can leverage google's quantum computing frameworks, all from within tensorflow.",
+      "url" : "https://www.tensorflow.org/quantum"
+    },
+    {
+      "title" : "Qiskit Pulse",
+      "description" : "Qiskit-Pulse is a pulse-level quantum programming kit. This lower level of programming offers the user more control than programming with QuantumCircuit s. Extracting the greatest performance from quantum hardware requires real-time pulse-level instructions.",
+      "url" : "https://arxiv.org/abs/2004.06755"
+    },
+    {
+      "title" : "OpenQL",
+      "description" : "OpenQL (Open Quantum Library) is open source software for using quantum computer. OpenQL specifications and libraries based on OpenQL is released based on Apache License 2.0 and hence free for both academic and commercial use.",
+      "url" : "https://openql.org/"
+    },
+{
+      "title" : "Silq",
+      "description" : "Silq is a new high-level programming language for quantum computing with a strong static type system, developed at ETH Zürich. Silq was originally published at PLDI'20.",
+      "url" : "https://silq.ethz.ch/"
+    },
+{
+      "title" : "Qulacs",
+      "description" : "Qulacs is a fast quantum circuit simulator for simulating large, noisy, or parametric quantum circuits. Implemented in C/C++ and with Python interface, Qulacs achieved both high speed circuit simulation and high usability.",
+      "url" : "http://docs.qulacs.org/en/latest/"
+    }
+  ]
+}
