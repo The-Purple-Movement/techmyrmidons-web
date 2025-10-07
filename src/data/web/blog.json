@@ -72,7 +72,12 @@
   {
     "blog": "https://www.youtube.com/user/JakeDayWilliams",
    "author": "Jake Day Williams"
-  }
+  }, 
+
+  {
+    "blog": "https://css-tricks.com/",
+    "author": "CSS-Tricks"
+  } 
 
   ]
 }
