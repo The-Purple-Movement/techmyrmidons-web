@@ -16,9 +16,9 @@
       "folderName": "frontend"
     },
     {
-      "technology": "Web",
-      "logo": "web-logo.png",
-      "folderName": "web"
+      "technology": "Backend",
+      "logo": "backend-logo.png",
+      "folderName": "backend"
     },
     {
       "technology": "DevOps",
