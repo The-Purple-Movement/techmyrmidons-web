@@ -68,6 +68,13 @@ const Landing = () => {
             The term Front-End mainly referes to the User Interface which an user view and interacts with and its working"
             />
             <Card
+              image="/assets/landing/backend.png"
+              name="Back-End"
+              link="/backend"
+              description="
+            The term Back-End mainly referes to the server-side which a user doesn't see and handles the website's logic and data."
+            />
+            <Card
               image="/assets/landing/blockchain.png"
               name="Blockchain"
               link="/blockchain"
