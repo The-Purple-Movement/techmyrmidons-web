@@ -18,13 +18,13 @@ In case you are not familiar with JSON format, you can learn it real quick with 
 ### Adding new Technologies
 - Fork this repository to your own account.
 - Inside `src/data` , there are folders which are named corresponding to the technology for which they contain the data.
-- For Eg. the folder `/src/data/web` has `{year}.json`, `years.json`, `blog.json` and `follow.json`.
+- For Eg. the folder `/src/data/backend` has `{year}.json`, `years.json`, `blog.json` and `follow.json`.
 - If in the year 2025 there is a new technology. First you will be creating `2025.json` following the format of the previous years.
 - Then you will be updating `years.json` 
      ```
      {
       "year": "2025",
-      "url": "/data/web/2025.json"
+      "url": "/data/backend/2025.json"
     },
      ```
 - To add the new technology, update the `{year}.json` with required data in the given format.
