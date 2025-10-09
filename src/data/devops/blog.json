@@ -7,13 +7,13 @@
     },
 
     {
-      "blog": "https://www.devopsguys.com/blog/",
-      "author":"DevOpsGuys"
+      "blog": "https://devops.com/",
+      "author":"DevOps.com"
     },
 
     {
-      "blog": "https://lonesysadmin.net/",
-      "author":"The Lone Sysadmin"
+      "blog": "https://aws.amazon.com/blogs/devops/",
+      "author":"AWS DevOps"
     },
 
     {
@@ -22,16 +22,16 @@
     },
 
     {
-      "blog": "http://www.andrewhay.ca/",
-      "author":"Andrew Hay"
+      "blog": "https://newsletter.devopscube.com/",
+      "author":"DevOpsCube"
     },
 
     {
-      "blog": "http://dev2ops.org/",
-      "author":"dev2ops"
+      "blog": "https://www.atlassian.com/blog/devops",
+      "author":"ATLASSIAN"
     },
     {
-      "blog": "https://medium.com/netflix-techblog",
+      "blog": "https://netflixtechblog.com/all?topic=devops",
       "author":"Netflix"
     },
     {
@@ -40,7 +40,7 @@
     },
     {
       "blog": "https://medium.com/airbnb-engineering",
-      "author":"airbnb/"
+      "author":"Airbnb"
     },
     {
       "blog": "https://kickstarter.engineering/",

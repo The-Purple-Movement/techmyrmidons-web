@@ -1,8 +1,8 @@
 {
   "blog": [
     {
-      "blog": "https://aitrends.com/",
-      "author": "AiTrends"
+      "blog": "https://www.uipath.com/blog/ai",
+      "author": "AI Trends - UiPath"
     },
     {
       "blog": "https://machinelearningmastery.com/blog/",
@@ -13,8 +13,8 @@
       "author": "Algorithmia"
     },
     {
-      "blog": "https://aitopics.org/search",
-      "author": "AITopics"
+      "blog": "https://bair.berkeley.edu/blog/",
+      "author": "Berkeley AI Research (BAIR) Blog"
     },
     {
       "blog": "https://chatbotsmagazine.com/",
@@ -41,15 +41,15 @@
       "author": "Hugging Face"
     },
     {
-      "blog": "https://ai.googleblog.com/",
-      "author": "Google AI Blog"
+      "blog": "https://ai.meta.com/blog/",
+      "author": "AI at Meta Blog"
     },
     {
       "blog": "https://blog.research.google/",
       "author": "Google Research"
     },
     {
-      "blog": "https://blog.mistral.ai/",
+      "blog": "https://mistral.ai/news",
       "author": "Mistral AI"
     },
     {

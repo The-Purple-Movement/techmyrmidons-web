@@ -19,8 +19,26 @@
         "blog":"https://storylab.ai/how-boost-customer-loyalty-cloud-pos-smart-marketing/",
         "author":" StoryLab.ai  "
 
+    },
+    {
+    "blog":"https://blog.hubspot.com/marketing",
+    "author":"HubSpot "
+    },
+    {
+    "blog":"https://neilpatel.com/blog/",
+    "author":"Neil Patel’s Blog"
+    },
+    {
+    "blog":"https://www.marketingprofs.com/",
+    "author":"MarketingProfs"
+    },
+    {
+    "blog":"https://www.linkedin.com/business/marketing/blog",
+    "author":"LinkedIn for Marketing Blog"
+    },
+    {
+    "blog":"https://ahrefs.com/blog/",
+    "author":"Ahrefs Blog"
     }
-
-   
   ]
 }

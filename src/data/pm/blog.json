@@ -9,12 +9,12 @@
       "author": "ProductPlan"
     },
     {
-      "blog": "https://quantum.country/",
-      "author": "Growth.Design"
+      "blog": "https://www.lennysnewsletter.com/",
+      "author": "Lenny’s Newsletter by Lenny Rachitsky"
     },
     {
-      "blog": "https://growth.design",
-      "author": "Quantum Machine Learning MOOC "
+      "blog": "https://www.theproductfolks.com/product-management-blog",
+      "author": "The Product Folks "
     },
     {
       "blog": "https://amplitude.com/blog",
@@ -22,7 +22,19 @@
     },
     {
       "blog": "https://bestpracticer.com/topic/product-management",
-      "author": "Best Practicer"
+      "author": "Practica"
+    },
+    {
+      "blog": "https://www.airtable.com/articles/product-management-trends",
+      "author": "Airtable"
+    },
+    {
+      "blog": "https://productschool.com/blog",
+      "author": "Product School"
+    },
+    {
+      "blog": "https://tpgblog.com/",
+      "author": "The Product Guy"
     }
   ]
 }

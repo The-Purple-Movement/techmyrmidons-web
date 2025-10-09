@@ -1,3 +1,36 @@
 {
-  "blog": []
+  "blog": [
+  {
+    "blog": "https://www.creativebloq.com/",
+    "author": "Creative Bloq"
+  },
+  {
+    "blog": "https://blog.adobe.com/",
+    "author": "Adobe Creative Cloud "
+  },
+  {
+    "blog": "https://www.figma.com/blog/",
+    "author": "Figma"
+  },
+  {
+    "blog": "https://www.youtube.com/@Figma",
+    "author": "Figma Youtube"
+  },
+  {
+    "blog": "https://fiveelements.org.in/",
+    "author": "FiveElements"
+  },
+  {
+    "blog": "https://www.creativereview.co.uk/",
+    "author": "Creative Review"
+  },
+  {
+    "blog": "https://eyeondesign.aiga.org/",
+    "author": "AIGA: Eye on Design"
+  },
+  {
+    "blog": "https://www.madebyfolk.com/",
+    "author": "Made by Folk"
+  }
+  ]
 }

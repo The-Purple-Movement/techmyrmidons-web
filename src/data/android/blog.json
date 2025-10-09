@@ -27,18 +27,18 @@
     },
 
     {
-      "blog": "https://android-arsenal.com/",
-      "author":"Android Arsenal"
+      "blog": "https://www.androidcentral.com/",
+      "author":"Android Central"
     },
 
     {
-      "blog": "https://newcircle.com/s/post/1017/android_bootcamp_series_2012_video_tutorial",
-      "author":"Newcircle"
+      "blog": "https://www.androidauthority.com/",
+      "author":"Android Authority"
     },
 
     {
-      "blog": "https://www.lynda.com/Mobile-training-tutorials/55-0.html?utm_medium=ldc-partner&utm_source=SSPRC&utm_content=10848&utm_campaign=CD15021&bid=10848&aid=CD15021",
-      "author":"Lynda.com"
+      "blog": "https://blog.aritraroy.in/50-ultimate-resources-to-master-android-development-15165d6bc376",
+      "author":"Learn Android"
     },
 
     {
@@ -47,13 +47,13 @@
     },
     
     {
-      "blog": "https://developer.android.com/topic/libraries/support-library/index.html",
+      "blog": "https://developer.android.com/",
       "author":"Developers"
     },
 
     {
-      "blog": "http://programmerguru.com/android-tutorial/",
-      "author":"Programmer Guru"
+      "blog": "https://blog.mindorks.com/blogs/android/",
+      "author":"MindOrks"
     },
 
     {

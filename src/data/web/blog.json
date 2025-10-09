@@ -7,23 +7,23 @@
   },
 
   {
-    "blog": "https://philsturgeon.uk/",
-    "author": "Phil Sturgeon"
+    "blog": "https://www.bacancytechnology.com/blog/full-stack",
+    "author": "BACANCY"
   },
 
   {
-    "blog": "http://taylorotwell.com/",
-    "author": "Taylor Otwell"
+    "blog": "https://web.dev/blog",
+    "author": "Web.dev by Google"
   },
 
   {
-    "blog": "http://alanstorm.com/",
-    "author": "Alan Storm"
+    "blog": "https://chrisfrew.in",
+    "author": "Chris' Full Stack Blog"
   },
 
   {
-    "blog": "https://alexbilbie.com/",
-    "author": "Alex Bilbie"
+    "blog": "https://fullstackopen.com/en/",
+    "author": "Full Stack Open by University of Helsinki"
   },
 
   {
@@ -46,8 +46,8 @@
     "author": "github"
   },
   {
-    "blog": "https://gjcampbell.co.uk/",
-    "author": "Graham Campbell"
+    "blog": "https://www.digitalocean.com/community/tutorials/",
+    "author": "DigitalOcean"
   },
   {
     "blog": "https://mattstauffer.co/",
@@ -60,18 +60,18 @@
   },
 
   {
-    "blog": "http://blog.stuartherbert.com/php/",
-    "author": "Stuart on PHP"
+    "blog": "https://www.smashingmagazine.com/",
+    "author": "Smashing Magazine"
   },
 
   {
-    "blog": "http://www.web-development-blog.com/",
-    "author": "Web Development Blog"
+    "blog": "https://stackoverflow.blog/web-development//",
+    "author": "Stack Overflow"
   },
 
   {
-    "blog": "https://www.youtube.com/user/JakeDayWilliams",
-   "author": "Jake Day Williams"
+    "blog": "https://dev.to/t/fullstack",
+   "author": "Dev.to"
   }
 
   ]

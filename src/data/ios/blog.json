@@ -17,13 +17,13 @@
     },
 
     {
-      "blog": "https://www.bignerdranch.com/blog/",
-      "author":"Big Nerd Ranch"
+      "blog": "https://nshipster.com/",
+      "author":"NSHipster"
     },
 
     {
-      "blog": "http://www.cocoawithlove.com/",
-      "author":"Cocoa with Love"
+      "blog": "https://www.youtube.com/codewithchris",
+      "author":"CodeWithChris"
     },
 
     {
@@ -32,12 +32,12 @@
     },
 
     {
-      "blog": "https://www.raywenderlich.com/",
-      "author":"raywenderlich"
+      "blog": "https://developer.apple.com/whats-new/",
+      "author":"Apple Developer"
     },
 
     {
-      "blog": "http://stackoverflow.com/",
+      "blog": "https://stackoverflow.com/questions/tagged/ios",
       "author":"stackoverflow"
     },
 
