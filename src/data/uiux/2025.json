@@ -13,12 +13,6 @@
       "morelink": "tailwind-ui"
     },
     {
-      "title": "Radix UI",
-      "description": "Unstyled, accessible primitives for building high-quality design systems.",
-      "url": "https://www.radix-ui.com/",
-      "morelink": "radix-ui"
-    },
-    {
       "title": "Framer",
       "description": "High-fidelity prototyping and web builder with interactive components.",
       "url": "https://www.framer.com/",

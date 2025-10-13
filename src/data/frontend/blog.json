@@ -3,7 +3,7 @@
 
     {
       "blog": "https://code.tutsplus.com/",
-      "author":"Nettuts+"
+      "author":"Net Tuts+"
     },
 
     {
@@ -32,13 +32,13 @@
     },
 
     {
-      "blog": "https://webplatform.github.io/blog/",
-      "author":"Web Platform"
+      "blog": "https://developer.mozilla.org/en-US/",
+      "author":"MDN Web Docs"
     },
 
     {
-      "blog": "https://www.html5rocks.com/en/",
-      "author":"HTML5 ROCKS"
+      "blog": "https://www.theodinproject.com/",
+      "author":"The Odin Project"
     },
 
     {
@@ -47,7 +47,7 @@
     },
 
     {
-      "blog": "https://twitter.com/dailyjs",
+      "blog": "https://medium.com/dailyjs",
       "author":"DailyJS"
     }
 

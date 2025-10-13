@@ -1,78 +1,16 @@
-  {
-    "blog": [
-
-  {
-    "blog": "https://blog.phpdeveloper.org/",
-    "author": "BLOG.PHPDEV"
-  },
-
-  {
-    "blog": "https://philsturgeon.uk/",
-    "author": "Phil Sturgeon"
-  },
-
-  {
-    "blog": "http://taylorotwell.com/",
-    "author": "Taylor Otwell"
-  },
-
-  {
-    "blog": "http://alanstorm.com/",
-    "author": "Alan Storm"
-  },
-
-  {
-    "blog": "https://alexbilbie.com/",
-    "author": "Alex Bilbie"
-  },
-
-  {
-    "blog": "http://fabien.potencier.org/",
-    "author": "Fabien Potencier"
-  },
-
-  {
-    "blog": "https://laravel-news.com/",
-    "author": "Laravel News"
-  },
-
-  {
-    "blog": "https://www.colinodell.com/",
-    "author": "Colin O'Dell"
-  },
-
-  {
-    "blog": "https://github.com/php",
-    "author": "github"
-  },
-  {
-    "blog": "https://gjcampbell.co.uk/",
-    "author": "Graham Campbell"
-  },
-  {
-    "blog": "https://mattstauffer.co/",
-    "author": "Matt Stauffer"
-  },
-
-  {
-    "blog": "https://davidwalsh.name/",
-    "author": "David Walsh Blog"
-  },
-
-  {
-    "blog": "http://blog.stuartherbert.com/php/",
-    "author": "Stuart on PHP"
-  },
-
-  {
-    "blog": "http://www.web-development-blog.com/",
-    "author": "Web Development Blog"
-  },
-
-  {
-    "blog": "https://www.youtube.com/user/JakeDayWilliams",
-   "author": "Jake Day Williams"
-  }
-
+{
+  "blog": [
+    {
+      "blog": "http://highscalability.com/",
+      "author": "High Scalability"
+    },
+    {
+      "blog": "https://www.infoq.com/",
+      "author": "InfoQ"
+    },
+    {
+      "blog": "https://blog.acolyer.org/",
+      "author": "The Morning Paper"
+    }
   ]
 }

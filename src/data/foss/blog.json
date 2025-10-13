@@ -13,7 +13,7 @@
       "author": "Phoronix"
     },
     {
-      "blog": "https://itsfoss.com/news/",
+      "blog": "https://news.itsfoss.com/",
       "author": "It's FOSS News"
     },
     {
@@ -37,11 +37,11 @@
       "author": "Unixmen"
     },
     {
-      "blog": "https://www.linuxmint.com/blog/",
+      "blog": "https://blog.linuxmint.com/",
       "author": "Linux Mint Team"
     },
     {
-      "blog": "https://blog.suse.com/",
+      "blog": "https://www.suse.com/c/blog/",
       "author": "SUSE"
     },
     {
@@ -57,7 +57,7 @@
       "author": "Red Hat"
     },
     {
-      "blog": "https://www.debian.org/News/",
+      "blog": "https://bits.debian.org/",
       "author": "Debian Project"
     },
     {
@@ -81,7 +81,7 @@
       "author": "9to5Linux"
     },
     {
-      "blog": "https://nixcraft.com/blog/",
+      "blog": "https://www.cyberciti.biz/",
       "author": "nixCraft"
     },
     {
@@ -101,10 +101,6 @@
       "author": "Linux Journal"
     },
     {
-      "blog": "https://www.linuxandubuntu.com/",
-      "author": "LinuxAndUbuntu"
-    },
-    {
       "blog": "https://www.xmodulo.com/",
       "author": "Xmodulo"
     },
@@ -117,12 +113,8 @@
       "author": "FOSS Force"
     },
     {
-      "blog": "https://www.linux.com/news/",
+      "blog": "https://www.linux.com/",
       "author": "Linux.com"
-    },
-    {
-      "blog": "https://www.fossmint.com/",
-      "author": "FOSSMint"
     },
     {
       "blog": "https://www.linuxlinks.com/",
@@ -133,8 +125,8 @@
       "author": "LinuxBabe"
     },
     {
-      "blog": "https://www.linuxshelltips.com/",
-      "author": "LinuxShellTips"
+      "blog": "https://www.ubuntumint.com/",
+      "author": "UbuntuMint"
     },
     {
       "blog": "https://www.debugpoint.com/",
@@ -143,10 +135,6 @@
     {
       "blog": "https://www.fossbytes.com/",
       "author": "Fossbytes"
-    },
-    {
-      "blog": "https://www.cyberciti.biz/tips/",
-      "author": "nixCraft"
     },
     {
       "blog": "https://www.linux-magazine.com/Online/News",

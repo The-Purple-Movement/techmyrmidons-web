@@ -17,7 +17,7 @@
       "author": "Quantum Machine Learning MOOC "
     },
     {
-      "blog": "https://www.qmunity.tech/",
+      "blog": "https://qmunity.thequantuminsider.com/blog/",
       "author": "Q-munity"
     },
     {
@@ -27,6 +27,14 @@
     {
       "blog": "https://www.quantumgrad.com/",
       "author": "Quantum Grad"
+    },
+    {
+      "blog": "https://thequantuminsider.com/category/daily/",
+      "author": "The Quantum Insider"
+    },
+    {
+      "blog": "https://www.quera.com/blog",
+      "author": "QuEra"
     }
   ]
 }

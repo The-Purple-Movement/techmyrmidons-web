@@ -1,0 +1,11 @@
+{
+  "2025": [
+    {
+      "title": "WebAssembly (Wasm) on the Server",
+      "description": "Originally built for browsers, WebAssembly is now a first-class server compilation target for Rust, Go, and C++. Server-side Wasm delivers fast startup, language portability, and secure sandboxed execution—making it an attractive alternative to containers for microservices and edge workloads.",
+      "url": "https://thenewstack.io/see-what-webassembly-can-do-in-2025/",
+      "morelink": "The New Stack"
+    }
+  ]
+}
+

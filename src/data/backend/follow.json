@@ -1,82 +1,14 @@
 {
   "follow": [
-
     {
-      "followLink":"https://twitter.com/brad_frost",
-      "photo":"BradFrost.jpg",
-      "name":"Brad Frost"
+      "followLink": "https://x.com/kelseyhightower",
+      "photo": "KelseyHightower.png",
+      "name": "Kelsey Hightower"
     },
-
     {
-      "followLink":"https://twitter.com/lukew",
-      "photo":"LukeWroblewski.jpg",
-      "name":"Luke Wroblewski"
-    },
-
-    {
-      "followLink":"https://twitter.com/akrabat",
-      "photo":"RobAllen.jpg",
-      "name":"Rob Allen"
-    },
-
-    {
-      "followLink":"https://twitter.com/s_bergmann",
-      "photo":"SebastianBergmann.jpg",
-      "name":"Sebastian Bergmann"
-    },
-
-    {
-      "followLink":"https://twitter.com/seldaek",
-      "photo":"JordiBoggiano.jpg",
-      "name":"Jordi Boggiano"
-    },
-
-    {
-      "followLink":"https://twitter.com/ircmaxell",
-      "photo":"Anthony.jpg",
-      "name":"Anthony"
-    },
-
-    {
-      "followLink":"https://twitter.com/andigutmans",
-      "photo":"AndiGutmans.jpg",
-      "name":"Andi Gutmans"
-    },
-
-    {
-      "followLink":"https://twitter.com/mwop",
-      "photo":"weierophinney.jpg",
-      "name":"weierophinney"
-    },
-
-    {
-      "followLink":"https://twitter.com/taylorotwell",
-      "photo":"TaylorOtwell.jpg",
-      "name":"Taylor Otwell"
-    },
-
-    {
-      "followLink":"https://twitter.com/derickr",
-      "photo":"DerickRethans.jpg",
-      "name":"Derick Rethans"
-    },
-
-    {
-      "followLink":"https://twitter.com/lsmith",
-      "photo":"LukasKahweSmith.jpg",
-      "name":"Lukas KahweSmith"
-    },
-
-    {
-      "followLink":"https://twitter.com/davidwalshblog",
-      "photo":"DavidWalsh.jpg",
-      "name":"David Walsh"
-    },
-
-    {
-      "followLink":"https://twitter.com/juantreminio",
-      "photo":"JuanTreminio.jpg",
-      "name":"Juan Treminio"
+      "followLink": "https://x.com/martinkl",
+      "photo": "MartinKleppmann.jpg",
+      "name": "Martin Kleppmann"
     }
   ]
 }

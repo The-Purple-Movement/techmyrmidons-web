@@ -1,5 +1,5 @@
 {
-    "2023": [
+  "2023": [
     {
       "title": "Adobe Creative Cloud",
       "description": "Suite for design: Photoshop, Illustrator, InDesign, After Effects, and more.",
@@ -29,6 +29,48 @@
       "description": "Template-driven design tool for quick marketing and social creatives.",
       "url": "https://www.canva.com/",
       "morelink": "canva"
+    },
+    {
+      "title": "Aceternity UI",
+      "description": "Modern React component library featuring motion, 3D effects, and sleek UI animations.",
+      "url": "https://ui.aceternity.com/",
+      "morelink": "aceternity-ui"
+    },
+    {
+      "title": "Framer Motion 7",
+      "description": "A major 2023 update to Framer Motion, enabling smoother React animations and layout transitions.",
+      "url": "https://www.framer.com/motion/",
+      "morelink": "framer-motion"
+    },
+    {
+      "title": "ShadCN/UI",
+      "description": "A 2023 hit — beautifully styled, copy-paste components for React + Tailwind, perfect for modern dashboards.",
+      "url": "https://ui.shadcn.com/",
+      "morelink": "shadcn-ui"
+    },
+    {
+      "title": "Radix UI",
+      "description": "Accessible, unstyled primitives for building high-quality design systems in React.",
+      "url": "https://www.radix-ui.com/",
+      "morelink": "radix-ui"
+    },
+    {
+      "title": "Locofy.ai",
+      "description": "AI-powered Figma-to-code tool launched in 2023, turning designs into production-ready React/Next.js code.",
+      "url": "https://www.locofy.ai/",
+      "morelink": "locofy-ai"
+    },
+    {
+      "title": "Penpot",
+      "description": "Open-source design and prototyping platform for teams, gaining major traction in 2023.",
+      "url": "https://penpot.app/",
+      "morelink": "penpot"
+    },
+    {
+      "title": "Motion Canvas",
+      "description": "A new way to create programmatic animations and videos using TypeScript and code timelines.",
+      "url": "https://motioncanvas.io/",
+      "morelink": "motion-canvas"
     }
   ]
 }

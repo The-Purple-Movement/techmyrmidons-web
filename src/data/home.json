@@ -21,6 +21,11 @@
       "folderName": "backend"
     },
     {
+      "technology": "Web",
+      "logo": "web-logo.png",
+      "folderName": "web"
+    },
+    {
       "technology": "DevOps",
       "logo": "security-logo.png",
       "folderName": "devops"
@@ -88,7 +93,7 @@
     {
       "technology": "Creative Design",
       "logo": "cdesign.png",
-      "folderName": "creative-design"
+      "folderName": "creativedesign"
     }
     ,{
       "technology": "UI/UX",
