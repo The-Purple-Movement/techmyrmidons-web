@@ -1,0 +1,34 @@
+{
+  "2025": [
+    {
+      "title": "Notion",
+      "description": "An all-in-one workspace for notes, docs, wikis, and project management.",
+      "url": "https://www.notion.so/",
+      "morelink": ""
+    },
+    {
+      "title": "Jira",
+      "description": "Atlassian’s agile project management tool for software teams.",
+      "url": "https://www.atlassian.com/software/jira",
+      "morelink": ""
+    },
+    {
+      "title": "Trello",
+      "description": "A visual project management and collaboration tool based on Kanban boards.",
+      "url": "https://trello.com/",
+      "morelink": ""
+    },
+    {
+      "title": "Asana",
+      "description": "Work management platform helping teams organize, track, and manage their work.",
+      "url": "https://asana.com/",
+      "morelink": ""
+    },
+    {
+      "title": "Linear",
+      "description": "Modern issue tracking and product management tool for high-performance teams.",
+      "url": "https://linear.app/",
+      "morelink": ""
+    }
+  ]
+}

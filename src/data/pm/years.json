@@ -1,3 +1,8 @@
 {
-  "years": []
+  "years": [
+    {
+      "year": "2025",
+      "url": "/data/pm/2025.json"
+    }
+  ]
 }

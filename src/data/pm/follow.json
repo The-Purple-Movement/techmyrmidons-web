@@ -1,44 +1,19 @@
 {
   "follow": [
     {
-      "followLink": "https://twitter.com/lennysan",
-      "photo": "lenny_rachitsky.jpg",
-      "name": "Lenny Rachitsky"
-    },
-    {
-      "followLink": "https://twitter.com/shreyas",
-      "photo": "shreyas_doshi.jpg",
-      "name": "Shreyas Doshi"
-    },
-    {
       "followLink": "https://twitter.com/cagan",
-      "photo": "cagan.jpg",
+      "photo": "MartyCagan.jpg",
       "name": "Marty Cagan"
     },
     {
-      "followLink": "https://twitter.com/TrungTPhan",
-      "photo": "trung_phan.jpg",
-      "name": "Trung Phan"
+      "followLink": "https://twitter.com/lissijean",
+      "photo": "MelissaPerri.jpg",
+      "name": "Melissa Perri"
     },
     {
-      "followLink": "https://twitter.com/bandanjot",
-      "photo": "bandan.jpg",
-      "name": "Bandan"
-    },
-    {
-      "followLink": "https://twitter.com/tobiasrogers",
-      "photo": "toby_rogers.jpg",
-      "name": "Toby Rogers"
-    },
-    {
-      "followLink": "https://twitter.com/Jenyangwong",
-      "photo": "jen_yang_wong.jpg",
-      "name": "Jen Yang-Wong"
-    },
-    {
-      "followLink": "https://twitter.com/ChrisJBakke",
-      "photo": "chris_bakke.jpg",
-      "name": "Chris Bakke"
+      "followLink": "https://twitter.com/gibsonbiddle",
+      "photo": "GibsonBiddle.jpg",
+      "name": "Gibson Biddle"
     }
   ]
 }
