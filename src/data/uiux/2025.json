@@ -57,6 +57,11 @@
       "title": "The Psychology Behind the New iOS Interface",
       "description": "Apple has long been known not just for innovation in technology but also for how its products make people feel. The release of the new iOS interface is no exception. It’s not just a visual upgrade, it’s a psychological experience carefully crafted to shape user behavior, emotions, and attention.",
       "url": "https://medium.com/@luckyekezie80/the-psychology-behind-the-new-ios-interface-why-apples-design-feels-so-right-e8c0bf377279"
+    },
+    {
+      "title": "Chakra UI",
+      "description": "Chakra UI is a component system for building products with speed. Accessible React components for building high-quality web apps and design systems.",
+      "url": "https://chakra-ui.com/"
     }
   ]
 }
