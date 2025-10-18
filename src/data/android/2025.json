@@ -49,6 +49,56 @@
       "title": "OpenAI Whisper Integration for Voice UX",
       "description": "Whisper by OpenAI is now being used in Android apps for real-time transcription and speech-to-text in accessibility, podcasting, and language learning apps.",
       "url": "https://openai.com/research/whisper"
+    },
+    {
+      "title": "Android 15 Release",
+      "description": "Android 15 emphasizes privacy, on-device AI, and power efficiency. It introduces 'Private Space', system-level Gemini integration, improved thermal management APIs, and adaptive refresh rate controls.",
+      "url": "https://developer.android.com/about/versions/15"
+    },
+    {
+      "title": "Compose Multiplatform 1.7",
+      "description": "JetBrains’ Compose Multiplatform 1.7 brings unified UI code for Android, Desktop, iOS, and Web, now production-ready with advanced layout APIs and Material 3 design components.",
+      "url": "https://www.jetbrains.com/lp/compose-multiplatform/"
+    },
+    {
+      "title": "Material You 3.2",
+      "description": "Material You evolves with new adaptive color theming APIs, extended typography scaling, and accessibility-driven layout guidance, aligning Android design with inclusive UI trends.",
+      "url": "https://m3.material.io/"
+    },
+    {
+      "title": "Android Performance SDK",
+      "description": "A new SDK offering profiling libraries for developers to track frame rendering, CPU usage, and startup times programmatically — part of the broader Android Performance initiative.",
+      "url": "https://developer.android.com/topic/performance"
+    },
+    {
+      "title": "Google Play Integrity API v2",
+      "description": "The Play Integrity API v2 strengthens app security against tampering and piracy, now offering real-time Play Protect attestation and hardware-backed integrity verification.",
+      "url": "https://developer.android.com/google/play/integrity"
+    },
+    {
+      "title": "Wear OS 5",
+      "description": "Wear OS 5 in 2025 introduces adaptive tiles, health service APIs powered by Fitbit AI, and improved performance with reduced power drain for continuous heart rate tracking.",
+      "url": "https://developer.android.com/wear"
+    },
+    {
+      "title": "Gemini Nano on Device",
+      "description": "Gemini Nano, a lightweight LLM variant, is now available on select Android 15+ devices for offline summarization, message replies, and smart text generation without cloud dependency.",
+      "url": "https://blog.google/products/android/gemini-nano/"
+    },
+    {
+      "title": "ARCore 3.0",
+      "description": "ARCore 3.0 enhances augmented reality on Android with real-world occlusion accuracy, light estimation 2.0, and integration with the Sceneform Jetpack library for AR composables.",
+      "url": "https://developers.google.com/ar"
+    },
+    {
+      "title": "LlamaFirewall",
+      "description": "LlamaFirewall is an open-source guardrail framework introduced in mid-2025 to mitigate security risks from AI-driven Android apps, ensuring safe and ethical LLM integration.",
+      "url": "https://github.com/meta-llama/LlamaFirewall"
+    },
+    {
+      "title": "Android for Cars SDK 2.1",
+      "description": "Android Auto and Android Automotive SDK 2.1 focus on driver safety and multi-screen UI support, enabling new apps for EV management and in-car voice assistants powered by Gemini.",
+      "url": "https://developer.android.com/cars"
     }
   ]
 }
