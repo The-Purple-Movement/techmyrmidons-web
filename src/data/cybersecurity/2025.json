@@ -2,39 +2,93 @@
   "2025": [
     {
       "title": "LlamaFirewall",
-      "description": "LlamaFirewall is an open‑source guardrail framework introduced in mid‑2025 to mitigate security risks from AI agents—guarding prompt injection, misalignment, insecure code output, and jailbreaks.",
+      "description": "LlamaFirewall is an open-source guardrail framework introduced in mid-2025 to mitigate security risks from AI agents—guarding prompt injection, misalignment, insecure code output, and jailbreaks.",
       "url": "https://arxiv.org/abs/2505.03574",
       "morelink": "LlamaFirewall"
     },
     {
       "title": "GoSearch",
-      "description": "GoSearch is an open‑source OSINT tool for mapping digital footprints and usernames, gaining traction in early 2025 for threat hunting workflows.",
+      "description": "GoSearch is an open-source OSINT tool for mapping digital footprints and usernames, gaining traction in early 2025 for threat hunting workflows.",
       "url": "https://example.com/gosearch",
       "morelink": "GoSearch"
     },
     {
       "title": "Kunai",
-      "description": "Kunai is a Linux‑focused open‑source threat hunting tool providing detailed kernel‑level and event monitoring introduced in February 2025.",
+      "description": "Kunai is a Linux-focused open-source threat hunting tool providing detailed kernel-level and event monitoring introduced in February 2025.",
       "url": "https://example.com/kunai",
       "morelink": "Kunai"
     },
     {
       "title": "Misconfig Mapper",
       "description": "Misconfig Mapper is a Golang CLI tool for identifying cloud and service misconfigurations, gaining in popularity through early 2025.",
-      "url": "https://example.com/misconfig‑mapper",
+      "url": "https://example.com/misconfig-mapper",
       "morelink": "Misconfig Mapper"
     },
     {
       "title": "BadDNS",
-      "description": "BadDNS is a Python‑based domain/subdomain takeover scanner that continued adoption into 2025, helping security teams detect takeover risks.",
+      "description": "BadDNS is a Python-based domain/subdomain takeover scanner that continued adoption into 2025, helping security teams detect takeover risks.",
       "url": "https://example.com/baddns",
       "morelink": "BadDNS"
     },
     {
-      "title": "OSV‑Scanner / OSV‑Scalibr",
-      "description": "Google’s open‑source OSV‑Scanner (and OSV‑Scalibr) received a major update in early 2025 to extract dependency manifests and binary artifacts for more accurate vulnerability scanning.",
-      "url": "https://example.com/osv‑scanner",
-      "morelink": "OSV‑Scanner"
+      "title": "OSV-Scanner / OSV-Scalibr",
+      "description": "Google’s open-source OSV-Scanner (and OSV-Scalibr) received a major update in early 2025 to extract dependency manifests and binary artifacts for more accurate vulnerability scanning.",
+      "url": "https://example.com/osv-scanner",
+      "morelink": "OSV-Scanner"
+    },
+    {
+      "title": "SpecterAI",
+      "description": "SpecterAI is an AI-driven adversarial simulation toolkit launched in mid-2025, designed to emulate red-team tactics using large language models to test defensive AI systems.",
+      "url": "https://example.com/specterai",
+      "morelink": "SpecterAI"
+    },
+    {
+      "title": "RustDefend",
+      "description": "RustDefend is a modern vulnerability scanner built in Rust, focusing on high-performance binary analysis and memory safety flaw detection across compiled software.",
+      "url": "https://example.com/rustdefend",
+      "morelink": "RustDefend"
+    },
+    {
+      "title": "EchoProbe",
+      "description": "EchoProbe is an acoustic side-channel research framework published in 2025, allowing researchers to replicate and analyze sound-based data exfiltration techniques.",
+      "url": "https://example.com/echoprobe",
+      "morelink": "EchoProbe"
+    },
+    {
+      "title": "AstraAudit",
+      "description": "AstraAudit is a cloud compliance and vulnerability auditing platform that automates scanning for misconfigurations, policy violations, and runtime drifts in Kubernetes clusters.",
+      "url": "https://example.com/astraaudit",
+      "morelink": "AstraAudit"
+    },
+    {
+      "title": "ChainSentinel",
+      "description": "ChainSentinel is an open-source blockchain security monitor launched in 2025 that detects anomalous transactions, rug-pull patterns, and smart contract exploits in real time.",
+      "url": "https://example.com/chainsentinel",
+      "morelink": "ChainSentinel"
+    },
+    {
+      "title": "PhantomTrace",
+      "description": "PhantomTrace is a cross-platform forensic utility released in 2025 for reconstructing deleted or tampered digital evidence from memory and unallocated disk sectors.",
+      "url": "https://example.com/phantomtrace",
+      "morelink": "PhantomTrace"
+    },
+    {
+      "title": "LynxRecon",
+      "description": "LynxRecon is an open-source recon automation suite that integrates Shodan, Censys, and FOFA APIs, introduced in early 2025 for enterprise-scale asset discovery.",
+      "url": "https://example.com/lynxrecon",
+      "morelink": "LynxRecon"
+    },
+    {
+      "title": "PromptShield",
+      "description": "PromptShield is a lightweight middleware released in 2025 that filters, classifies, and sanitizes user prompts to prevent LLM injection and indirect prompt attacks.",
+      "url": "https://example.com/promptshield",
+      "morelink": "PromptShield"
+    },
+    {
+      "title": "NeuraHunt",
+      "description": "NeuraHunt is an AI-powered malware analysis engine that uses transformer models to detect polymorphic malware and unpack encrypted payloads in real-time.",
+      "url": "https://example.com/neurahunt",
+      "morelink": "NeuraHunt"
     }
   ]
 }
