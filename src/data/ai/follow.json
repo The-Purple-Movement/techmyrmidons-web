@@ -87,6 +87,22 @@
       "followLink":"https://twitter.com/jjkardwell",
       "photo":"JJ-Kardwell.jpg",
       "name":"J.J.Kardwell"
+    },
+
+    {
+      "followLink": "https://twitter.com/AndrewYNg",
+      "photo": "AndrewNg.jpg",
+      "name": "Andrew Ng"
+    },
+    {
+      "followLink": "https://twitter.com/ylecun",
+      "photo": "YannLeCun.jpg",
+      "name": "Yann LeCun"
+    },
+    {
+      "followLink": "https://twitter.com/geoffreyhinton",
+      "photo": "GeoffreyHinton.jpg",
+      "name": "Geoffrey Hinton"
     }
   ]
 }

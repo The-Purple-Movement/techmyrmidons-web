@@ -10,6 +10,21 @@
       "followLink":"https://twitter.com/MaverickNY",
       "photo":"sally.jpg",
       "name":"Sally Church"
+    },
+    {
+      "followLink": "https://twitter.com/adamfeuerstein",
+      "photo": "adam.jpg",
+      "name": "Adam Feuerstein"
+    },
+    {
+      "followLink": "https://twitter.com/megtirrell",
+      "photo": "meg.jpg",
+      "name": "Meg Tirrell"
+    },
+    {
+      "followLink": "https://twitter.com/matthewherper",
+      "photo": "matthew.jpg",
+      "name": "Matthew Herper"
     }
 
   ]
