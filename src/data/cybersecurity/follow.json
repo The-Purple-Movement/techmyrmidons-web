@@ -49,6 +49,11 @@
       "followLink": "https://twitter.com/MikkoHypponen",
       "photo": "mikko.jpg",
       "name": "Mikko Hyppönen"
+    },
+    {
+      "followLink": "https://x.com/LowLevelTweets",
+      "photo": "Low-Level.jpg",
+      "name": "Low Level"
     }
   ]
 }
