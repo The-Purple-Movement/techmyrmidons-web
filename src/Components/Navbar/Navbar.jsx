@@ -2,6 +2,7 @@ import React, { useRef } from "react";
 import "./Navbar.css";
 import { Link, useParams, useLocation } from "react-router-dom";
 import { FaBars, FaTimes } from "react-icons/fa";
+import ThemeToggle from "../ThemeToggle"; // 👈 import the toggle
 
 function Navbar() {
   const { id } = useParams();
@@ -21,8 +22,9 @@ function Navbar() {
           src="/assets/tm-logo.png"
           className="Navbar_image"
           alt="logo"
-        ></img>
+        />
       </Link>
+
       <nav ref={navRef} id="ll">
         {location.pathname === "/" ? (
           <>
@@ -55,9 +57,14 @@ function Navbar() {
           </>
         )}
       </nav>
-      <button className="nav-btn">
-        <FaBars onClick={showNavBar} />
-      </button>
+
+      {/* Right side buttons */}
+      <div style={{ display: "flex", alignItems: "center", gap: "12px" }}>
+        <ThemeToggle /> {/* 👈 the sun/moon toggle */}
+        <button className="nav-btn">
+          <FaBars onClick={showNavBar} />
+        </button>
+      </div>
     </header>
   );
 }

@@ -4,7 +4,9 @@
   align-items: flex-start;
   padding: 1rem;
   gap: 0.93rem;
-  background: #ffffff;
+  background: var(--card);
+  color: var(--text);          
+  border: 1px solid var(--elev); 
   box-shadow: 8px 8px 28px rgb(0 0 0 / 12%);
   border-radius: 0.8rem;
   max-width: 20rem;

@@ -17,10 +17,10 @@ body {
   width: 100%;
   min-height: 100vh;
 
-  background-color: #ffffff;
+  background-color: var(--bg);
   opacity: 1;
-  background-image: linear-gradient(#f9f9f9 3.1px, transparent 3.1px),
-    linear-gradient(to right, #f9f9f9 3.1px, #ffffff 3.1px);
+  background-image: linear-gradient(var(--card) 3.1px, transparent 3.1px),
+     linear-gradient(to right, var(--card) 3.1px, var(--bg) 3.1px);
   background-size: 62px 62px;
 }
 

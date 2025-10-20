@@ -44,7 +44,9 @@ a p.link {
   left: 50%;
   transform: translate(-50%, -50%);
   line-height: 1.4;
-  background: #f1f1f1;
+  background: var(--card);
+  color: var(--text);
+  border: 1px solid var(--elev);  /* remove if you don’t want a border */
   padding: 14px 28px;
   border-radius: 3px;
   width: 350px;

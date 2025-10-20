@@ -1,0 +1,84 @@
+/* Light defaults */
+:root {
+    --bg: #ffffff;
+    --text: #111111;
+    --muted: #6b7280;
+    --card: #f6f6f6;
+    --elev: #e5e7eb;
+    --link: #2563eb;
+    color-scheme: light dark; /* helps native controls */
+  }
+  
+  /* Dark overrides */
+  :root[data-theme="dark"] {
+    --bg: #0b0f19;
+    --text: #e5e7eb;
+    --muted: #9aa4b2;
+    --card: #111827;
+    --elev: #1f2937;
+    --link: #60a5fa;
+  }
+  
+  /* Base page styles */
+  html, body, #root { height: 100%; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+  }
+  
+  /* Helpful utilities you can reuse */
+  a { color: var(--link); }
+  .card { background: var(--card); border: 1px solid var(--elev); border-radius: 12px; }
+  .navbar { background: var(--card); border-bottom: 1px solid var(--elev); }
+  
+  .theme-toggle {
+    position: relative;
+    width: 52px;
+    height: 28px;
+    border-radius: 9999px;
+    background: var(--card);
+    border: 1px solid var(--elev);
+    cursor: pointer;
+    padding: 0;
+    outline: none;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    transition: background 180ms ease, border-color 180ms ease;
+  }
+  
+  /* moving thumb */
+  .theme-toggle::before {
+    content: "";
+    position: absolute;
+    top: 3px;
+    left: 3px;
+    width: 22px;
+    height: 22px;
+    border-radius: 9999px;
+    background: var(--bg);
+    box-shadow: 0 1px 2px rgba(0,0,0,.15);
+    transition: left 180ms ease, background 180ms ease;
+  }
+  
+  /* icons */
+  .theme-toggle .icon {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    line-height: 0;
+    transition: opacity 180ms ease, transform 180ms ease;
+    color: var(--text);
+    stroke: currentColor;
+    fill: none;
+  }
+  .theme-toggle .icon svg * { stroke-width: 1.5; }
+  .theme-toggle .sun { left: 8px; opacity: 1; }
+  .theme-toggle .moon { right: 8px; opacity: 0; }
+  
+  /* dark state */
+  :root[data-theme="dark"] .theme-toggle::before { left: 27px; }
+  :root[data-theme="dark"] .theme-toggle .sun { opacity: 0; transform: translateY(-50%) scale(.9); }
+  :root[data-theme="dark"] .theme-toggle .moon { opacity: 1; transform: translateY(-50%) scale(1); }
+  
