@@ -103,8 +103,11 @@ nav a:hover {
   }
 }
 
-@media only screen and (max-width: 500px) {
-  nav {
-    width: 60%;
-  }
+.header a {
+  color: var(--text);
+  text-decoration: none;
+}
+
+.header a:hover {
+  color: var(--link);
 }
