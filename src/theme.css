@@ -82,3 +82,32 @@
   :root[data-theme="dark"] .theme-toggle .sun { opacity: 0; transform: translateY(-50%) scale(.9); }
   :root[data-theme="dark"] .theme-toggle .moon { opacity: 1; transform: translateY(-50%) scale(1); }
   
+  /* === Safety net: make common cards/boxes obey the theme === */
+.card,
+.box,
+.tile,
+.panel,
+.section,
+[class*="card"],
+[class*="Card"],
+[class*="box"],
+[class*="Box"],
+[class*="tile"],
+[class*="Tile"],
+[class*="panel"],
+[class*="Panel"] {
+  background: var(--card) !important;
+  color: var(--text) !important;
+  border-color: var(--elev) !important;
+}
+
+/* generic borders that were black/white */
+[class*="border"],
+[class*="Border"] {
+  border-color: var(--elev) !important;
+}
+
+/* links inside those blocks */
+.card a, .box a, .tile a, .panel a {
+  color: var(--link);
+}
