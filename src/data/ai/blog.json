@@ -79,6 +79,45 @@
     {
       "blog": "https://blogs.nvidia.com/",
       "author": "NVIDIA Blog"
+    },
+     "blog": "https://kdnuggets.com/",
+      "author": "KDnuggets"
+    },
+    {
+      "blog": "https://fastml.com/",
+      "author": "FastML"
+    },
+    {
+      "blog": "https://www.analyticsvidhya.com/blog/",
+      "author": "Analytics Vidhya Team" 
+    },
+    {
+      "blog": "https://towardsai.net/",
+      "author": "Towards AI (Inc.)"
+    },
+    {
+      "blog": "https://aws.amazon.com/blogs/machine-learning/",
+      "author": "Amazon Web Services (Machine Learning Blog)"
+    },
+    {
+      "blog": "https://cloud.google.com/blog/products/ai-machine-learning",
+      "author": "Google Cloud (AI & ML Blog)"
+    },
+    {
+      "blog": "https://blogs.cisco.com/tag/machine-learning-operations",
+      "author": "Cisco Blog – MLOps"
+    },
+    {
+      "blog": "https://www.c3.ai/blog/",
+      "author": "C3 AI Team"
+    },
+    {
+      "blog": "https://www.copy.ai/blog",
+      "author": "Copy.ai Team"
+    },
+    {
+      "blog": "https://artificial-intelligence.blog/",
+      "author": "The AI Blog (by artificial-intelligence.blog)"
     }
   ]
 }
