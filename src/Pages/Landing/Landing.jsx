@@ -160,6 +160,7 @@ const Landing = () => {
               name="Database"
               link="/database"
               description="Databases are the backbone of modern applications, providing structured ways to store, retrieve, and manage data. From SQL to NoSQL, they power everything from social media to financial systems."
+            />
             <Card
               image="/assets/landing/embedded-system.png"
               name="Embedded Systems"
