@@ -79,6 +79,15 @@
     {
       "blog": "https://blogs.nvidia.com/",
       "author": "NVIDIA Blog"
-    }
-  ]
+    },
+    { "blog": "https://www.kdnuggets.com/",
+      "author": "KDnuggets"
+    }, 
+    { "blog": 
+"https://fastml.com/",
+      "author": "FastML" 
+    },
+    { "blog": "https://www.analyticsvidhya.com/blog/",                    
+      "author": "Analytics Vidhya Team" 
+    } ] 
 }
