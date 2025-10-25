@@ -1,0 +1,49 @@
+{
+    "2023": [
+        {
+            "title": "PostgreSQL 15 Performance Gains",
+            "description": "PostgreSQL 15 brought significant improvements in query performance, particularly with parallel query execution, improved UNIQUE and PRIMARY KEY index creation, and enhanced logical replication.",
+            "url": "https://www.postgresql.org/about/news/postgresql-15-released-2526/"
+        },
+        {
+            "title": "MongoDB 7.0 Atlas Search",
+            "description": "MongoDB enhanced Atlas Search with vector search capabilities and improved text analysis, making it easier to build AI-powered search experiences and semantic search applications.",
+            "url": "https://www.mongodb.com/atlas/search"
+        },
+        {
+            "title": "Redis Stack and Vector Similarity",
+            "description": "Redis introduced vector similarity search capabilities through RediSearch 2.6, enabling AI-powered search and recommendations directly within Redis, plus enhanced JSON support.",
+            "url": "https://redis.com/blog/introducing-redis-vector-similarity/"
+        },
+        {
+            "title": "Neo4j 5.0 for Graph Analytics",
+            "description": "Neo4j 5.0 delivered major performance improvements for graph analytics and pattern matching, with new indexing capabilities and Cypher language enhancements.",
+            "url": "https://neo4j.com/product/"
+        },
+        {
+            "title": "Vector Databases Emerge",
+            "description": "2023 saw the rise of specialized vector databases like Pinecone, Weaviate, and Milvus, optimized for AI embeddings and similarity search as AI applications became mainstream.",
+            "url": "https://www.pinecone.io/"
+        },
+        {
+            "title": "MySQL 8.0 HeatWave ML",
+            "description": "MySQL HeatWave introduced machine learning capabilities, allowing in-database ML training and inference while maintaining ACID properties and SQL compatibility.",
+            "url": "https://www.mysql.com/products/heatwave/"
+        },
+        {
+            "title": "CockroachDB 23.1",
+            "description": "CockroachDB 23.1 released with improved spatial data support, enhanced JSON capabilities, and better compatibility with PostgreSQL ecosystem tools.",
+            "url": "https://www.cockroachlabs.com/"
+        },
+        {
+            "title": "Time-Series DB Evolution",
+            "description": "TimescaleDB and InfluxDB enhanced their platforms with better compression, query performance, and ML integration features for IoT and observability use cases.",
+            "url": "https://www.timescale.com/"
+        },
+        {
+            "title": "Supabase Database Platform",
+            "description": "Supabase gained popularity as an open-source Firebase alternative, offering PostgreSQL backend with real-time capabilities and enhanced developer experience.",
+            "url": "https://supabase.com/"
+        }
+    ]
+}

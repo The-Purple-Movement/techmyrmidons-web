@@ -1,0 +1,40 @@
+{
+  "2023": [
+    {
+      "title": "Towards Data Science",
+      "description": "A Medium publication sharing tutorials, guides, and insights from data professionals.",
+      "url": "https://towardsdatascience.com/",
+      "morelink": "towards-data-science"
+    },
+    {
+      "title": "KDnuggets",
+      "description": "Leading blog featuring articles on data mining, analytics, and machine learning.",
+      "url": "https://www.kdnuggets.com/",
+      "morelink": "kdnuggets"
+    },
+    {
+      "title": "Analytics Vidhya",
+      "description": "Community-driven platform offering tutorials, competitions, and learning resources.",
+      "url": "https://www.analyticsvidhya.com/blog/",
+      "morelink": "analytics-vidhya"
+    },
+    {
+      "title": "Real Python – Data Science Tutorials",
+      "description": "Hands-on Python guides focusing on pandas, NumPy, and visualization libraries.",
+      "url": "https://realpython.com/tutorials/data-science/",
+      "morelink": "realpython-data-science"
+    },
+    {
+      "title": "DataCamp Blog",
+      "description": "Practical insights and guides on data manipulation, visualization, and statistics.",
+      "url": "https://www.datacamp.com/blog",
+      "morelink": "datacamp"
+    },
+    {
+      "title": "IBM Data Science Blog",
+      "description": "Industry updates and applied use cases from IBM’s data and AI experts.",
+      "url": "https://www.ibm.com/blogs/research/tag/data-science/",
+      "morelink": "ibm-data-science"
+    }
+  ]
+}

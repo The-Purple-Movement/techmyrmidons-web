@@ -1,0 +1,40 @@
+{
+  "2025": [
+    {
+      "title": "Polars",
+      "description": "Lightning-fast DataFrame library written in Rust for efficient data manipulation in Python.",
+      "url": "https://pola.rs/",
+      "morelink": "polars"
+    },
+    {
+      "title": "DuckDB",
+      "description": "In-process SQL OLAP database optimized for analytical queries on local data files.",
+      "url": "https://duckdb.org/",
+      "morelink": "duckdb"
+    },
+    {
+      "title": "LangChain",
+      "description": "Framework for developing data-aware and LLM-powered applications using Python.",
+      "url": "https://www.langchain.com/",
+      "morelink": "langchain"
+    },
+    {
+      "title": "RAPIDS AI",
+      "description": "GPU-accelerated data science framework enabling pandas-like workflows on NVIDIA hardware.",
+      "url": "https://rapids.ai/",
+      "morelink": "rapids-ai"
+    },
+    {
+      "title": "Databricks Lakehouse",
+      "description": "Unified platform combining data engineering, analytics, and machine learning in the cloud.",
+      "url": "https://www.databricks.com/",
+      "morelink": "databricks"
+    },
+    {
+      "title": "Deepnote",
+      "description": "Collaborative notebook platform designed for data teams to share and build analyses together.",
+      "url": "https://deepnote.com/",
+      "morelink": "deepnote"
+    }
+  ]
+}

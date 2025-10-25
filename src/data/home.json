@@ -88,7 +88,13 @@
     {
       "technology": "Creative Design",
       "logo": "cdesign.png",
-      "folderName": "creative-design"
+      "folderName": "creativedesign"
+    }
+    ,
+    {
+      "technology": "Data Science",
+      "logo": "datascience.png",
+      "folderName": "DataScience"
     },
     {
       "technology": "Database",

@@ -5,7 +5,23 @@
       "description": "Originally built for browsers, WebAssembly is now a first-class server compilation target for Rust, Go, and C++. Server-side Wasm delivers fast startup, language portability, and secure sandboxed execution—making it an attractive alternative to containers for microservices and edge workloads.",
       "url": "https://thenewstack.io/see-what-webassembly-can-do-in-2025/",
       "morelink": "The New Stack"
+    },
+
+    {
+      "title": "Laravel",
+      "description": "A powerful backend web framework built on PHP, designed for developing modern, secure, and scalable web applications. It provides elegant syntax and built-in tools for routing, authentication, database management, and API development, enabling efficient and structured backend development.",
+      "url": "https://laravel.com/",
+      "morelink": "The New Stack"
+    },
+
+     {
+      "title": " Backend as Service( BaaS)",
+      "description": "A cloud computing model that provides ready-made backend infrastructure and tools so developers can focus on building the frontend (UI/UX) instead of managing servers, databases, and APIs.",
+      "url": "https://www.freecodecamp.org/news/backend-as-a-service-beginners-guide/",
+      "morelink": "The New Stack"
     }
+
+
   ]
 }
 

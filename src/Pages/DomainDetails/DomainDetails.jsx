@@ -35,12 +35,16 @@ const DomainDetails = () => {
       })
     );
 
-    import(`../../data/${id}/years.json`).then((response) =>
+    // canonical folder name from home.json (handles casing/placement differences)
+    const domainEntry = Domains.home.find((d) => d.folderName === id) || { folderName: id };
+    const folder = domainEntry.folderName;
+
+    import(`../../data/${folder}/years.json`).then((response) =>
       setYears(response.years)
     );
 
     if (id === "ai") {
-      import(`../../data/${id}/categories.json`).then((response) => {
+      import(`../../data/${folder}/categories.json`).then((response) => {
         setCategories(response.categories);
         setUniqueCategories([
           ...new Set(response.categories.map((obj) => obj.category)),
@@ -48,15 +52,15 @@ const DomainDetails = () => {
       });
     }
 
-    if (id !== "uiux" && id !== "creativedesign" && id !== "pm") {
-      import(`../../data/${id}/blog.json`).then((response) => {
+    if (id !== "uiux" && id !== "creativedesign" && id !== "pm" && id.toLowerCase() !== "datascience") {
+      import(`../../data/${folder}/blog.json`).then((response) => {
         setBlogs(response.blog);
       });
     } else {
       setBlogs([]);
     }
 
-    import(`../../data/${id}/follow.json`).then((response) => {
+    import(`../../data/${folder}/follow.json`).then((response) => {
       setPeople(response.follow);
     });
   }, [id]);
@@ -111,6 +115,12 @@ const DomainDetails = () => {
             author: item.author ?? item.title,
             blog: item.blog ?? item.url,
           }));
+          setBlogs(mapped);
+        });
+      } else if (id === "DataScience") {
+        import(`../../data/DataScience/datascience_blogs/${year}.json`).then((response) => {
+          const items = response && response[year] ? response[year] : [];
+          const mapped = items.map((item) => ({ author: item.title, blog: item.url }));
           setBlogs(mapped);
         });
       }

@@ -11,6 +11,14 @@
     {
       "blog": "https://blog.acolyer.org/",
       "author": "The Morning Paper"
+    },
+    {
+       "blog": "https://djangostars.com/blog/tag/backend/",
+      "author": "Djangostars"
+    },
+    {
+      "blog":"https://blog.quastor.org/",
+      "author":"Quastor"
     }
   ]
 }

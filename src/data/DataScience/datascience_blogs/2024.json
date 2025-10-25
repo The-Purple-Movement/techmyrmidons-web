@@ -1,0 +1,40 @@
+{
+  "2024": [
+    {
+      "title": "Data Science Central",
+      "description": "Comprehensive community site for big data, analytics, and data engineering.",
+      "url": "https://www.datasciencecentral.com/",
+      "morelink": "data-science-central"
+    },
+    {
+      "title": "Neptune.ai Blog",
+      "description": "Covers MLOps, experiment tracking, and reproducible data science workflows.",
+      "url": "https://neptune.ai/blog",
+      "morelink": "neptune-ai"
+    },
+    {
+      "title": "Databricks Blog",
+      "description": "Articles on data lakehouses, Spark, and enterprise data architecture trends.",
+      "url": "https://www.databricks.com/blog",
+      "morelink": "databricks"
+    },
+    {
+      "title": "R-Bloggers",
+      "description": "Curated articles and tutorials on R programming and statistical analysis.",
+      "url": "https://www.r-bloggers.com/",
+      "morelink": "r-bloggers"
+    },
+    {
+      "title": "Mode Blog – SQL and Data Analytics",
+      "description": "Educational content on data visualization, SQL queries, and business intelligence.",
+      "url": "https://mode.com/blog/",
+      "morelink": "mode-blog"
+    },
+    {
+      "title": "Dataquest Blog",
+      "description": "Beginner-friendly guides to data cleaning, visualization, and analysis in Python.",
+      "url": "https://www.dataquest.io/blog/",
+      "morelink": "dataquest"
+    }
+  ]
+}

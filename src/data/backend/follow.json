@@ -9,6 +9,18 @@
       "followLink": "https://x.com/martinkl",
       "photo": "MartinKleppmann.jpg",
       "name": "Martin Kleppmann"
+    },
+
+    {
+      "followLink": "https://x.com/alexxubyte?lang=en",
+      "photo": "Alex_xu.jpg",
+      "name": "Alex Xu"
+    },
+    {
+      
+      "followLink": "https://www.husseinnasser.com/p/about-hussein.html",
+      "photo": "Hussein_Nasser.jpg",
+      "name": "Hussein Nasser"
     }
   ]
 }

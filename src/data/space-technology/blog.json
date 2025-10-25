@@ -29,6 +29,10 @@
     {
       "blog": "https://nss.org/category/blog/",
       "author":"NSS"
+    },
+    {
+      "blog": "https://cosmicfrontiers.org/",
+      "author":"Cosmic Frontiers"
     }
   ]
 }

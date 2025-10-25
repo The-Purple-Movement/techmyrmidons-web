@@ -1,0 +1,40 @@
+{
+  "2025": [
+    {
+      "title": "OpenAI Data Science Insights",
+      "description": "Exploring how LLMs are reshaping data workflows and automated analysis.",
+      "url": "https://openai.com/research",
+      "morelink": "openai-data-insights"
+    },
+    {
+      "title": "Deepnote Blog",
+      "description": "Collaborative notebooks, modern data science workflows, and reproducibility best practices.",
+      "url": "https://deepnote.com/blog",
+      "morelink": "deepnote"
+    },
+    {
+      "title": "Hex Blog – Modern Analytics",
+      "description": "Practical posts on data storytelling, visualization, and cloud-native analytics tools.",
+      "url": "https://hex.tech/blog/",
+      "morelink": "hex-blog"
+    },
+    {
+      "title": "Polars Blog",
+      "description": "Official Polars blog covering high-performance data processing and Rust-Python integration.",
+      "url": "https://pola.rs/posts/",
+      "morelink": "polars-blog"
+    },
+    {
+      "title": "DuckDB News & Updates",
+      "description": "Latest features, case studies, and tutorials for the in-process analytical database.",
+      "url": "https://duckdb.org/news/",
+      "morelink": "duckdb-news"
+    },
+    {
+      "title": "Google Cloud Data Science Blog",
+      "description": "AI, analytics, and data pipeline best practices from Google Cloud engineers.",
+      "url": "https://cloud.google.com/blog/topics/data-analytics",
+      "morelink": "google-cloud-data-science"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "2024": [
+    {
+      "title": "PyTorch Lightning",
+      "description": "High-level PyTorch framework that simplifies model training, scaling, and reproducibility.",
+      "url": "https://lightning.ai/pytorch-lightning",
+      "morelink": "pytorch-lightning"
+    },
+    {
+      "title": "Hugging Face Transformers",
+      "description": "Extensive library of pre-trained NLP and generative models for Python and PyTorch.",
+      "url": "https://huggingface.co/transformers/",
+      "morelink": "huggingface-transformers"
+    },
+    {
+      "title": "Weights & Biases (W&B)",
+      "description": "Experiment tracking and model management platform for reproducible machine learning workflows.",
+      "url": "https://wandb.ai/",
+      "morelink": "wandb"
+    },
+    {
+      "title": "DVC (Data Version Control)",
+      "description": "Version control system for datasets and machine learning models built on Git principles.",
+      "url": "https://dvc.org/",
+      "morelink": "dvc"
+    },
+    {
+      "title": "Streamlit",
+      "description": "Framework for turning Python scripts into interactive web apps for data visualization and ML demos.",
+      "url": "https://streamlit.io/",
+      "morelink": "streamlit"
+    },
+    {
+      "title": "Plotly",
+      "description": "Interactive graphing and analytics library for Python, R, and JavaScript.",
+      "url": "https://plotly.com/python/",
+      "morelink": "plotly"
+    }
+  ]
+}

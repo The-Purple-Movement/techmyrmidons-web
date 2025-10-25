@@ -1,65 +1,54 @@
 {
-
   "follow": [
-
-   {
-      "followLink":"https://addyosmani.com/",
-      "photo":"addy.jpg",
-      "name":"Addy Osmani"
-    },
-
     {
-      "followLink":"http://christianheilmann.com/",
-      "photo":"heilmann.jpg",
-      "name":"Christian Heilmann"
+      "followLink": "https://addyosmani.com/",
+      "photo": "addy.jpg",
+      "name": "Addy Osmani"
     },
-
     {
-      "followLink":"https://www.paulirish.com/",
-      "photo":"irish.jpg",
-      "name":"Paul Irish"
+      "followLink": "http://christianheilmann.com/",
+      "photo": "heilmann.jpg",
+      "name": "Christian Heilmann"
     },
-
     {
-      "followLink":"http://stevesouders.com/",
-      "photo":"souders.jpg",
-      "name":"Steve Souders"
+      "followLink": "https://www.paulirish.com/",
+      "photo": "irish.jpg",
+      "name": "Paul Irish"
     },
-
+    {
+      "followLink": "http://stevesouders.com/",
+      "photo": "souders.jpg",
+      "name": "Steve Souders"
+    },
     {
       "followLink":"http://getify.me/",
-      "photo":"KyleSimpson.jpg",
+      "photo":"KyleSimpson.jpeg",
       "name":"Kyle Simpson"
     },
-
     {
       "followLink":"https://johnresig.com/",
       "photo":"JohnResig.jpg",
       "name":"John Resig"
     },
-
     {
-      "followLink":"https://www.igvita.com/",
-      "photo":"grigorik.jpg",
-      "name":"Ilya Grigorik"
+      "followLink": "https://www.igvita.com/",
+      "photo": "grigorik.jpg",
+      "name": "Ilya Grigorik"
     },
-
     {
-      "followLink":"http://lea.verou.me/",
-      "photo":"verou.jpg",
-      "name":"Lea Verou"
+      "followLink": "http://lea.verou.me/",
+      "photo": "verou.jpg",
+      "name": "Lea Verou"
     },
-
     {
-      "followLink":"https://twitter.com/slicknet",
-      "photo":"nicholas.jpg",
-      "name":"Nicholas C. Zakas"
+      "followLink": "https://twitter.com/slicknet",
+      "photo": "nicholas.jpg",
+      "name": "Nicholas C. Zakas"
     },
-
     {
-      "followLink":"https://twitter.com/sullivannicole",
-      "photo":"sullivan.jpg",
-      "name":"Nicole Sullivan"
+      "followLink": "https://twitter.com/sullivannicole",
+      "photo": "sullivan.jpg",
+      "name": "Nicole Sullivan"
     }
   ]
 }

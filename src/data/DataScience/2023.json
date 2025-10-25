@@ -1,0 +1,40 @@
+{
+  "2023": [
+    {
+      "title": "Pandas",
+      "description": "Essential Python library for data manipulation and analysis with flexible DataFrame structures.",
+      "url": "https://pandas.pydata.org/",
+      "morelink": "pandas"
+    },
+    {
+      "title": "Scikit-learn",
+      "description": "Machine learning toolkit for Python offering algorithms for classification, regression, and clustering.",
+      "url": "https://scikit-learn.org/",
+      "morelink": "scikit-learn"
+    },
+    {
+      "title": "TensorFlow",
+      "description": "Open-source platform by Google for large-scale machine learning and deep neural networks.",
+      "url": "https://www.tensorflow.org/",
+      "morelink": "tensorflow"
+    },
+    {
+      "title": "Jupyter Notebook",
+      "description": "Interactive environment for writing, running, and visualizing Python code and data workflows.",
+      "url": "https://jupyter.org/",
+      "morelink": "jupyter"
+    },
+    {
+      "title": "Matplotlib",
+      "description": "Comprehensive plotting library for creating static, animated, and interactive visualizations in Python.",
+      "url": "https://matplotlib.org/",
+      "morelink": "matplotlib"
+    },
+    {
+      "title": "Kaggle",
+      "description": "Data science platform for datasets, competitions, and community-driven machine learning projects.",
+      "url": "https://www.kaggle.com/",
+      "morelink": "kaggle"
+    }
+  ]
+}

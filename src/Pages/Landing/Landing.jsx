@@ -92,6 +92,12 @@ const Landing = () => {
               description="AI which stands for artificial intelligence refers to systems or machines that mimic human intelligence to perform tasks."
             />
             <Card
+              image="/assets/landing/ai.png"
+              name="Data Science"
+              link="/DataScience"
+              description="Data Science combines statistics, programming, and domain knowledge to extract insights from data."
+            />
+            <Card
               image="/assets/landing/arvr.png"
               name="AR/VR"
               link="/arvr"

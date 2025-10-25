@@ -1,0 +1,19 @@
+{
+  "follow": [
+    {
+      "followLink": "https://twitter.com/quaesita",
+      "photo": "cassie_kozyrkov.jpg",
+      "name": "Cassie Kozyrkov"
+    },
+    {
+      "followLink": "https://twitter.com/jeremyphoward",
+      "photo": "jeremy_howard.jpg",
+      "name": "Jeremy Howard"
+    },
+    {
+      "followLink": "https://twitter.com/fchollet",
+      "photo": "francois_chollet.jpg",
+      "name": "François Chollet"
+    }
+  ]
+}
