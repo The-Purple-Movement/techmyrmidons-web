@@ -10,8 +10,17 @@
       "photo": "MartinKleppmann.jpg",
       "name": "Martin Kleppmann"
     },
-
     {
+      "followLink": "https://x.com/charitymajors",
+      "photo": "CharityMajors.png",
+      "name": "Charity Majors"
+    },
+    {
+      "followLink": "https://x.com/bensigelman",
+      "photo": "BenSigelman.png",
+      "name": "Ben Sigelman"
+
+    },{
       "followLink": "https://x.com/alexxubyte?lang=en",
       "photo": "Alex_xu.jpg",
       "name": "Alex Xu"

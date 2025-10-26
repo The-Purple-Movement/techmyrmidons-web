@@ -1,0 +1,31 @@
+{
+    "2023": [
+    {
+      "title": "20 Web Development Trends to Try in 2023",
+      "description": "A broad web-dev trends article including backend aspects (APIs, microservices). ",
+      "url": "https://www.devstars.com/blog/20-web-development-trends-to-try-in-2023/"
+    },
+    {
+      "title": "Top Back-End Developer Framework Trends for 2023",
+      "description": "Covers tools and frameworks for backend developers in 2023 (Ruby on Rails, Node.js, microservices). ",
+      "url": "https://pesto.tech/resources/top-back-end-developer-framework-trends-for-202-3"
+    }
+  ],
+  "2024": [
+    {
+      "title": "Back-End & Web Development: Trends in 2024",
+      "description": "Article identifying backend & web-dev trends for 2024: AI/ML, serverless, edge, zero-trust. ",
+      "url": "https://hiretop.com/blog2/back-end-web-development-trends-2024/"
+    },
+    {
+      "title": "Back-End Development: Definition, Stats, & Trends to Follow in 2024",
+      "description": "Dedicated blog on backend development trends for 2024. ",
+      "url": "https://dev.to/angelinajasper/back-end-development-definition-stats-trends-to-follow-in-2024-4f13"
+    },
+    {
+      "title": "Top 5 Languages for Backend Development in 2024",
+      "description": "Discusses backend languages (Python, Java, JavaScript/Node.js, Go, Ruby) relevant in 2024. ",
+      "url": "https://codefinity.com/blog/Top-5-Languages-for-Backend-Development-in-2024"
+    }
+  ]
+}

@@ -13,6 +13,32 @@
       "author": "The Morning Paper"
     },
     {
+      "blog": "https://engineering.fb.com/",
+      "author": "Facebook Engineering"
+    },
+    {
+      "blog": "https://netflixtechblog.com/",
+      "author": "Netflix Tech Blog"
+    },
+    {
+      "blog": "https://aws.amazon.com/blogs/architecture/",
+      "author": "AWS Architecture Blog"
+    },
+    {
+      "blog": "https://martinfowler.com/articles.html",
+      "author": "Martin Fowler"
+    },
+    {
+      "blog": "https://developers.google.com/blog",
+      "author": "Google Developers Blog"
+    },
+    {
+      "blog": "https://www.cockroachlabs.com/blog/",
+      "author": "Cockroach Labs Blog"
+    },
+    {
+      "blog": "https://engineering.atspotify.com/",
+      "author": "Spotify Engineering",
        "blog": "https://djangostars.com/blog/tag/backend/",
       "author": "Djangostars"
     },

@@ -3,6 +3,14 @@
     {
       "year": "2025",
       "url": "data/backend/2025.json"
+    },
+    {
+      "year": "2024",
+      "url": "data/backend/2024.json"
+    },
+    {
+      "year": "2023",
+      "url": "data/backend/2023.json"
     }
   ]
 }

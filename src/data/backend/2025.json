@@ -1,10 +1,48 @@
-{
+ {
   "2025": [
+    { "title": "WebAssembly (Wasm) on the Server", 
+    "description": "Originally built for browsers, WebAssembly is now a first-class server compilation target for Rust, Go, and C++. Server-side Wasm delivers fast startup, language portability, and secure sandboxed execution—making it an attractive alternative to containers for microservices and edge workloads.", 
+    "url": "https://thenewstack.io/see-what-webassembly-can-do-in-2025/",
+    "morelink": "The New Stack" },
     {
-      "title": "WebAssembly (Wasm) on the Server",
-      "description": "Originally built for browsers, WebAssembly is now a first-class server compilation target for Rust, Go, and C++. Server-side Wasm delivers fast startup, language portability, and secure sandboxed execution—making it an attractive alternative to containers for microservices and edge workloads.",
-      "url": "https://thenewstack.io/see-what-webassembly-can-do-in-2025/",
-      "morelink": "The New Stack"
+      "title": "Top 6 Trends in Backend Development Services in 2025",
+      "description": "Lists major backend development service trends for 2025: serverless, Wasm, GitOps, edge computing, zero trust.",
+      "url": "https://dev.to/ronasit/top-6-trends-in-backend-development-services-in-2025-1pij"
+    },
+    {
+      "title": "The Future of Backend Development:",
+      "description": "Looks ahead to 2025 focusing on microservices, serverless, AI.",
+      "url": "https://medium.com/@yusufeminirki/the-future-of-backend-development-emerging-technologies-to-watch-in-2025-13bb7f91dea7"
+    },
+    {
+      "title": "Top 10 Backend Development Trends Driving Innovation in 2025",
+      "description": "In-depth look at backend development trends for 2025 including microservices architecture, serverless computing, edge, AI. ",
+      "url": "https://citrusbug.com/blog/backend-development-trends/"
+    },
+    {
+      "title": "Backend Development in 2025",
+      "description": "Blog exploring backend technologies, tools and what developers need to know in 2025. ",
+      "url": "https://medium.com/@nnannamari/backend-development-in-2025-75018c3f122c?sk=a93ac83e7bdc3dc207fd0920a9d3f"
+    },
+    {
+      "title": "Backend Development Trends and Core Concepts in 2025",
+      "description": "Covers APIs, databases, microservices, AI, serverless in 2025 backend dev. ",
+      "url": "https://talent500.com/blog/backend-development-2025-trends/"
+    },
+    {
+      "title": "Top Back-End Technologies & Trends You Should Know in 2025",
+      "description": "Overview of backend technologies and trends developers should grasp in 2025. ",
+      "url": "https://reliasoftware.com/blog/back-end-technologies"
+    },
+    {
+      "title": "Revolutionizing Development: The Ultimate Guide to Backend Tools in 2025",
+      "description": "Guide to backend tools and trends for 2025: microservices, serverless, cloud, AI, DevOps.",
+      "url": "https://jetthoughts.com/blog/revolutionizing-development-ultimate-guide-backend-tools-in-2025/"
+    },
+    {
+      "title": "Top Backend Skills to Learn in 2025",
+      "description": "Focuses on the skills backend developers will need in 2025 (polyglot languages, frameworks). ",
+      "url": "https://www.refontelearning.com/blog/top-backend-skills-to-learn-in-2025"
     },
 
     {
@@ -23,5 +61,4 @@
 
 
   ]
-}
-
+ }

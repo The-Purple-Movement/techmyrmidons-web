@@ -1,0 +1,19 @@
+{
+    "2022": [
+    {
+      "title": "7 Most Popular Backend Frameworks in 2022",
+      "description": "A blog exploring what backend frameworks (e.g., Spring Boot, Django, Express) were trending in 2022. ",
+      "url": "https://www.timepad.rs/blog/7-most-popular-backend-frameworks-in-2022-what-are-they-and-which-one-to-choose"
+    },
+    {
+      "title": "10 Web Development Trends in 2022 – The Future of Web Development",
+      "description": "Discusses various web-development trends including backend relevant items like serverless, headless CMS, PWAs. ",
+      "url": "https://www.vardot.com/en/ideas/blog/10-web-development-trends-2022-future-web-development"
+    },
+    {
+      "title": "3 Top Picks for Backend Development in 2022",
+      "description": "Focuses on backend tech choices (Node.js, Python, Kotlin) and microservices architecture for 2022. ",
+      "url": "https://www.merixstudio.com/blog/backend-development"
+    }
+  ]
+}
