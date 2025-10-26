@@ -39,6 +39,46 @@
     {
       "blog": "https://gigantico.squarespace.com/",
       "author": "Gigantico"
+    },
+     {
+      "blog": "https://arinsider.co/",
+      "author": "AR Insider"
+    },
+    {
+      "blog": "https://arvrjourney.com/",
+      "author": "AR/VR Journey"
+    },
+    {
+      "blog": "https://vrscout.com/",
+      "author": "VRScout"
+    },
+    {
+      "blog": "https://arpost.co/",
+      "author": "AR Post"
+    },
+    {
+      "blog": "https://euphoriaxr.com/exr-blogs/",
+      "author": "Euphoria XR"
+    },
+    {
+      "blog": "https://onix-systems.com/blogs/virtual-and-augmented-reality",
+      "author": "Onix Systems"
+    },
+    {
+      "blog": "https://www.onirix.com/blog/",
+      "author": "Onirix"
+    },
+    {
+      "blog": "https://www.immersivelearning.news/",
+      "author": "Immersive Learning News"
+    },
+    {
+      "blog": "https://www.worldviz.com/virtual-reality-blog/",
+      "author": "WorldViz"
+    },
+    {
+      "blog": "https://www.takeaway-reality.com/blog",
+      "author": "Takeaway Reality"
     }
   ]
 }
