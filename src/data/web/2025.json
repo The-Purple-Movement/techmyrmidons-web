@@ -1,34 +1,18 @@
+,
+{
+  "title": "Astro.js",
+  "description": "A modern static site generator designed for building fast, content-focused websites with minimal JavaScript.",
+  "url": "https://astro.build",
+  "morelink": ""
+}
 {
    "2025": [
+      { ...existing entries... },
       {
-        "title": "Generative UX Components",
-        "description": "On-demand generation of UI components (layouts, icons, copy) using large models tailored to product data and brand tokens.",
-        "url": "https://ai.google/",
-        "morelink": "GenUX"
-      },
-      {
-        "title": "Progressive Hydration",
-        "description": "Fine-grained hydration strategies that progressively activate interactivity to minimize JS and speed up Time to Interactive.",
-        "url": "https://web.dev/progressive-hydration/",
-        "morelink": "Hydration"
-      },
-      {
-        "title": "Composable Data Mesh for Frontend",
-        "description": "Decoupled data products and contract-driven APIs that enable teams to compose complex UIs from reusable data services.",
-        "url": "https://martinfowler.com/articles/data-mesh-principles.html",
-        "morelink": "DataMesh"
-      },
-      {
-        "title": "Zero-trust Web Authentication",
-        "description": "Stronger, passwordless authentication patterns (WebAuthn, passkeys) combined with continuous risk signals for secure sessions.",
-        "url": "https://webauthn.guide/",
-        "morelink": "WebAuthn"
-      },
-      {
-        "title": "Sustainable Web Practices",
-        "description": "Design and engineering patterns focused on energy-efficient web apps, lower carbon footprints, and measurable sustainability metrics.",
-        "url": "https://www.w3.org/",
-        "morelink": "Sustainability"
+        "title": "Astro.js",
+        "description": "A modern static site generator designed for building fast, content-focused websites with minimal JavaScript.",
+        "url": "https://astro.build",
+        "morelink": ""
       }
    ]
 }
