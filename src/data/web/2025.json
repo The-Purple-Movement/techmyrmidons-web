@@ -29,29 +29,11 @@
         "description": "Design and engineering patterns focused on energy-efficient web apps, lower carbon footprints, and measurable sustainability metrics.",
         "url": "https://www.w3.org/",
         "morelink": "Sustainability"
-      },
-      {
-        "title": "Astro.js",
-        "description": "A modern static site generator designed for building fast, content-focused websites with minimal JavaScript.",
-        "url": "https://astro.build",
-        "morelink": ""
       }
-   ]
-}
+,
 {
-   "2025": [
-      {
-        "title": "Generative UX Components",
-        "description": "...",
-        "url": "...",
-        "morelink": "..."
-      },
-      {
-        "title": "Progressive Hydration",
-        "description": "...",
-        "url": "...",
-        "morelink": "..."
-      }
-      // <-- add new entries here
-   ]
+  "title": "Astro.js",
+  "description": "A modern static site generator that allows developers to build fast, content-focused websites using minimal JavaScript. Astro supports multiple frameworks (React, Svelte, Vue) and optimizes performance by only loading necessary JavaScript on the client.",
+  "url": "https://astro.build",
+  "morelink": "Astro Official"
 }
