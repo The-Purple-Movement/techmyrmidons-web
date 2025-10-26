@@ -38,3 +38,20 @@
       }
    ]
 }
+{
+   "2025": [
+      {
+        "title": "Generative UX Components",
+        "description": "...",
+        "url": "...",
+        "morelink": "..."
+      },
+      {
+        "title": "Progressive Hydration",
+        "description": "...",
+        "url": "...",
+        "morelink": "..."
+      }
+      // <-- add new entries here
+   ]
+}
