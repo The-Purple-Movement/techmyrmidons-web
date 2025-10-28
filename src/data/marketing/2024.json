@@ -1,0 +1,40 @@
+{ 
+     "2024": [
+    {
+      "title": "Google Trends",
+      "description": "Free tool to explore trending search topics and keywords across regions and time periods.",
+      "url": "https://trends.google.com/",
+      "note": "Listed in 2024 small-business marketing tools roundup (MailerLite)."
+    },
+    {
+      "title": "SparkToro",
+      "description": "Audience research tool to understand where your target audience reads, listens, and engages.",
+      "url": "https://sparktoro.com/",
+      "note": "Mentioned in 2024 list for audience insights and targeting."
+    },
+    {
+      "title": "MailerLite",
+      "description": "Affordable email marketing platform for newsletters, automation and small business campaigns.",
+      "url": "https://www.mailerlite.com/",
+      "note": "Included in 2024 best marketing tools for growing brands."
+    },
+    {
+      "title": "Hootsuite",
+      "description": "Social media scheduling and analytics platform for managing multiple platforms efficiently.",
+      "url": "https://www.hootsuite.com/",
+      "note": "Reappears in 2024 tool lists for social marketing automation."
+    },
+    {
+      "title": "Canva",
+      "description": "Design and content creation tool used widely by marketers for visuals and social posts.",
+      "url": "https://www.canva.com/",
+      "note": "Featured in 2024 best marketing tool lists."
+    },
+    {
+      "title": "Mailchimp",
+      "description": "Email marketing and automation tool that remains popular in 2024 for digital campaigns.",
+      "url": "https://mailchimp.com/",
+      "note": "Listed among essential tools for 2024 marketers."
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+    "2024": [
+    {
+      "title": "Top 5 Robot Trends 2024 – International Federation of Robotics",
+      "description": "Major trends: AI & ML, cobots in new applications, mobile manipulators, digital twins. :contentReference[oaicite:6]{index=6}",
+      "url": "https://ifr.org/ifr-press-releases/news/top-5-robot-trends-2024"
+    },
+    {
+      "title": "From AI to Humanoids: Top Robotics Trends of 2024",
+      "description": "An overview of 2024 including humanoids, foundation models, robot-sales dynamics and key sector shifts. :contentReference[oaicite:7]{index=7}",
+      "url": "https://www.therobotreport.com/from-ai-to-humanoids-top-robotics-trends-of-2024/"
+    },
+    {
+      "title": "16 Warehouse Automation Trends for 2024",
+      "description": "Detailed dive into warehouse automation in 2024: AI-powered robotics, sustainable logistics, operations efficiency. :contentReference[oaicite:8]{index=8}",
+      "url": "https://www.cyngn.com/blog/16-warehouse-automation-trends-for-2024"
+    },
+    {
+      "title": "Industrial Robot Landscape 2024 – Qviro Blog",
+      "description": "Examines 2024 industrial-robot market: vision systems, motion control, robot software and growth outlook. :contentReference[oaicite:9]{index=9}",
+      "url": "https://qviro.com/blog/industrial-robot-landscape-2024/"
+    },
+    {
+      "title": "Robotic Trends 2024: Simple and Flexible Applications are Essential",
+      "description": "Argues that future robots must be simpler, adaptable, human-centric, not just high-end automation. :contentReference[oaicite:10]{index=10}",
+      "url": "https://industrial.omron.eu/en/news-discover/blog/robotic-trends-2024-simple-and-flexible-application-essential-to-reach-full-potential"
+    },
+    {
+      "title": "Robotics & Automation Investment Trends Emerging in 2024",
+      "description": "Covers investment trends in robotics/automation: AMRs, financing, startups, growth markets. :contentReference[oaicite:11]{index=11}",
+      "url": "https://www.automate.org/market-intelligence/insights/insights-into-robotics-and-automation-investment-trends-emerging-in-2024"
+    }
+  ]
+
+}

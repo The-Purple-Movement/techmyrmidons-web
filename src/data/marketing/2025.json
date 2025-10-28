@@ -1,54 +1,40 @@
  {
-  "2025": [
+   "2025": [
     {
-      "title": "Examining large and complex dataset structured and unstructured",
-      "description": "Proceedings of the 4th International Conference on Economic Development and Business Culture ",
-      "url": " https://www.atlantis-press.com/proceedings/icedbc-24/126003844 ",
-      "morelink": "Atlantis Press "
-    } ,{
-
-      "title": "  Marketing information  ",
-      "description": " Marketing information refers to data and insights that organizations gather, analyze, and utilize to make informed marketing decisions.",
-      "url": " https://www.smartsheet.com/marketing-information ",
-      "morelink": "  Smartsheet "
-}
-,
-     {
-      "title": " Competitive Intelligence: Definition, Purpose, and How It Works   ",
-      "description": " Competitive intelligence (CI) is the process of systematically gathering, analyzing, and using information about competitors, customers, and the broader market environment to gain a business advantage. ",
-      "url": "  https://www.investopedia.com/terms/c/competitive-intelligence.asp ",
-      "morelink" :"Investopedia  "
-
-      },
-
-      
-
-       {
-      "title": "  Essential Marketing Skills Every Startup Founder Should Learn ",
-      "description": " For startup founders, mastering marketing is crucial to building brand awareness, attracting customers, and driving growth. Key marketing skills include understanding your target audience, creating compelling content, leveraging digital channels (such as social media and SEO), and analyzing campaign performance. ",
-      "url": " https://www.hypergrowth.io/blog/growth-skills-founders ",
-      "morelink" :" Hypergrowth  "
-
-      },
-
-       {
-      "title": " Growth marketing ",
-      "description": " Growth marketing is a data-driven, experimental approach focused on achieving scalable and sustainable business growth by optimizing every stage of the customer journey ",
-      "url": " https://builtin.com/articles/marketing-growth-strategy ",
-      "morelink" :" Builtin  "
-
-      },
-
-       {
-      "title": " Data analytics is becoming the backbone of decision-making in marketing ",
-      "description": " Data analytics involves a process of collecting, analysing, and interpreting data to uncover patterns, trends, and insights that can inform business decisions.  ",
-      "url": " https://www.codetru.com/blog/data-analytics-informed-decision-making/ ",
-      "morelink" :"  Codetru "
-
-      }
-
-
-
-
-]
-}
+      "title": "HubSpot Marketing Hub",
+      "description": "All-in-one inbound marketing, automation, and CRM platform with AI-driven personalization features.",
+      "url": "https://www.hubspot.com/products/marketing",
+      "note": "Featured among top 2025 marketing tools (Ironhack, Landingi)."
+    },
+    {
+      "title": "Semrush",
+      "description": "SEO and content-marketing platform for keyword research, site audits, and competitive intelligence.",
+      "url": "https://www.semrush.com/",
+      "note": "Listed among best tools in 2025 digital marketing reports."
+    },
+    {
+      "title": "Canva",
+      "description": "Visual content creation tool still dominant in 2025 for marketing teams and social campaigns.",
+      "url": "https://www.canva.com/",
+      "note": "Included in 2025 tool lists for visual design."
+    },
+    {
+      "title": "Mailchimp",
+      "description": "Email marketing and automation platform continuing strong presence in 2025.",
+      "url": "https://mailchimp.com/",
+      "note": "Highlighted as a top tool for email automation in 2025."
+    },
+    {
+      "title": "Google Analytics 4",
+      "description": "Next-gen web analytics platform to measure website and app behaviour with privacy-focused tracking.",
+      "url": "https://marketingplatform.google.com/about/analytics/",
+      "note": "Adopted widely in 2025 for insights and conversion tracking."
+    },
+    {
+      "title": "Ahrefs",
+      "description": "SEO research and backlink analysis tool for improving website visibility and keyword performance.",
+      "url": "https://ahrefs.com/",
+      "note": "Included in 2025 SEO and marketing tool guides."
+    }
+  ]
+ }
