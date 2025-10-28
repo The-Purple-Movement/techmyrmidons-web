@@ -1,7 +1,20 @@
 {
-
   "follow": [
-
+   {
+      "followLink": "https://twitter.com/AndrewYNg",
+      "photo": "andrew.jpg",
+      "name": "Andrew Ng"
+    },
+    {
+      "followLink": "https://twitter.com/ylecun",
+      "photo": "yann-lecun.jpg",
+      "name": "Yann LeCun"
+    },
+    {
+      "followLink": "https://twitter.com/fchollet",
+      "photo": "Fchollet.jpg",
+      "name": "François Chollet"
+    },
    {
       "followLink":"https://twitter.com/NathanBenaich",
       "photo":"Nathan.jpg",

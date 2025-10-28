@@ -1,6 +1,96 @@
 {
   "categories": [
     {
+      "title": "PyTorch",
+      "description": "An open source machine learning framework that accelerates the path from research prototyping to production deployment",
+      "url": "https://pytorch.org/",
+      "category": "Deep Learning"
+    },
+    {
+      "title": "TensorFlow",
+      "description": "An end-to-end open source platform for machine learning with comprehensive ecosystem of tools",
+      "url": "https://www.tensorflow.org/",
+      "category": "Deep Learning"
+    },
+    {
+      "title": "Hugging Face Transformers",
+      "description": "State-of-the-art Natural Language Processing for PyTorch and TensorFlow 2.0",
+      "url": "https://huggingface.co/transformers/",
+      "category": "Deep Learning"
+    },
+    {
+      "title": "JAX",
+      "description": "Autograd and XLA for high-performance machine learning research",
+      "url": "https://github.com/google/jax",
+      "category": "Deep Learning"
+    },
+    {
+      "title": "FastAI",
+      "description": "A deep learning library which provides high-level components for training fast and accurate neural nets",
+      "url": "https://www.fast.ai/",
+      "category": "Deep Learning"
+    },
+    {
+      "title": "PyTorch Lightning",
+      "description": "The lightweight PyTorch wrapper for high-performance AI research. Scale your models without boilerplate",
+      "url": "https://www.pytorchlightning.ai/",
+      "category": "Deep Learning"
+    },
+    {
+      "title": "Keras-CV",
+      "description": "Industry-grade computer vision workflows with state-of-the-art model implementations",
+      "url": "https://keras.io/keras_cv/",
+      "category": "Deep Learning"
+    },
+    {
+      "title": "Transformers.js",
+      "description": "State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser",
+      "url": "https://huggingface.co/docs/transformers.js/",
+      "category": "Deep Learning"
+    },
+    {
+      "title": "ONNX Runtime",
+      "description": "Cross-platform, high performance ML inferencing and training accelerator",
+      "url": "https://onnxruntime.ai/",
+      "category": "Deep Learning"
+    },
+    {
+      "title": "Stable Diffusion",
+      "description": "A deep learning text-to-image model capable of generating creative art and imagery from natural language descriptions",
+      "url": "https://stability.ai/",
+      "category": "Deep Learning"
+    },
+    {
+      "title": "DeepSpeed",
+      "description": "Microsoft's deep learning optimization library for distributed training of large models",
+      "url": "https://www.deepspeed.ai/",
+      "category": "Deep Learning"
+    },
+    {
+      "title": "TensorRT",
+      "description": "NVIDIA's SDK for high-performance deep learning inference optimization and deployment",
+      "url": "https://developer.nvidia.com/tensorrt",
+      "category": "Deep Learning"
+    },
+    {
+      "title": "MXNet",
+      "description": "A flexible and efficient library for deep learning used by AWS and others",
+      "url": "https://mxnet.apache.org/",
+      "category": "Deep Learning"
+    },
+    {
+      "title": "Paddle Paddle",
+      "description": "Baidu's deep learning platform with strong distributed training capabilities",
+      "url": "https://www.paddlepaddle.org.cn/",
+      "category": "Deep Learning"
+    },
+    {
+      "title": "Triton",
+      "description": "Open-source GPU programming language for deep learning and high-performance computing",
+      "url": "https://openai.com/research/triton",
+      "category": "Deep Learning"
+    },
+    {
       "title": "AI-responder for HostAway",
       "description": "Chrome extension that cuts your writing time by 98% with AI-powered responses.",
       "url": "https://aiduh.com",
