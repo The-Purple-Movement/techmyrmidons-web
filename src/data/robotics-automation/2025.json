@@ -1,19 +1,34 @@
-{
+ {
   "2025": [
     {
-      "title": "PAL Robotics and NVIDIA",
-      "description": "At the core of this transformation lies the power of NVIDIA. From GPU computing to simulation environments, NVIDIA provides the tools that make it possible for PAL Robotics to develop AI-powered humanoid platforms; robots that learn, adapt, and operate in the real world. ",
-      "url": "https://pal-robotics.com/blog/pal-robotics-and-nvidia-shaping-the-next-generation-of-robotics/"
+      "title": "OpenAI Robotics API ",
+      "description": "Experimental API designed for integrating foundation models into robotics control and perception workflows.",
+      "url": "https://openai.com/research"
     },
     {
-      "title": "Humanoids vs Advanced Robotics",
-      "description": "Manufacturers are facing mounting pressure: labor shortages, skill gaps, and aging workforces, while responding to fast-changing market conditions. In many environments, traditional automation is approaching its limits. What will it take to build a future-ready industry?",
-      "url": "https://www.universal-robots.com/blog/humanoids-vs-advanced-robotics-whats-best-for-your-factory/"
+      "title": "PAL Robotics TIAGo Base",
+      "description": "Modular mobile platform for research and automation with ROS 2 support, ideal for logistics and service applications.",
+      "url": "https://pal-robotics.com/robots/tiago-base/"
     },
     {
-      "title": "Unlock Faster, Smarter Edge Models",
-      "description": " In August, NVIDIA Jetson AGX Thor launched, with up to a 5x boost in generative AI performance over NVIDIA Jetson AGX Orin. Through software updates since the release, Jetson Thor now powers a 7x increase in generative AI throughput.",
-      "url": "https://developer.nvidia.com/blog/unlock-faster-smarter-edge-models-with-7x-gen-ai-performance-on-nvidia-jetson-agx-thor/"
+      "title": "Intrinsic Flowstate",
+      "description": "Google’s robotics software platform focused on simplifying industrial robot programming using AI and motion learning.",
+      "url": "https://intrinsic.ai/"
+    },
+    {
+      "title": "NVIDIA Project GR00T",
+      "description": "Foundation model initiative for general-purpose humanoid and embodied robotics unveiled in 2025.",
+      "url": "https://developer.nvidia.com/"
+    },
+    {
+      "title": "Agility Robotics Digit API",
+      "description": "Developer platform enabling control and task automation for Digit, a humanoid robot designed for logistics and warehouse automation.",
+      "url": "https://www.agilityrobotics.com/"
+    },
+    {
+      "title": "OSRF Cloud",
+      "description": "Cloud-hosted simulation and testing platform for collaborative robotics development and deployment in 2025.",
+      "url": "https://www.openrobotics.org/"
     }
   ]
-}
+ }

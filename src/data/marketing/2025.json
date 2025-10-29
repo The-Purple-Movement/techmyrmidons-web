@@ -1,40 +1,40 @@
- {
-   "2025": [
+{
+  "2025": [
     {
       "title": "HubSpot Marketing Hub",
       "description": "All-in-one inbound marketing, automation, and CRM platform with AI-driven personalization features.",
-      "url": "https://www.hubspot.com/products/marketing",
-      "note": "Featured among top 2025 marketing tools (Ironhack, Landingi)."
-    },
-    {
-      "title": "Semrush",
-      "description": "SEO and content-marketing platform for keyword research, site audits, and competitive intelligence.",
-      "url": "https://www.semrush.com/",
-      "note": "Listed among best tools in 2025 digital marketing reports."
-    },
-    {
-      "title": "Canva",
-      "description": "Visual content creation tool still dominant in 2025 for marketing teams and social campaigns.",
-      "url": "https://www.canva.com/",
-      "note": "Included in 2025 tool lists for visual design."
-    },
-    {
-      "title": "Mailchimp",
-      "description": "Email marketing and automation platform continuing strong presence in 2025.",
-      "url": "https://mailchimp.com/",
-      "note": "Highlighted as a top tool for email automation in 2025."
-    },
-    {
-      "title": "Google Analytics 4",
-      "description": "Next-gen web analytics platform to measure website and app behaviour with privacy-focused tracking.",
-      "url": "https://marketingplatform.google.com/about/analytics/",
-      "note": "Adopted widely in 2025 for insights and conversion tracking."
+      "url": "https://www.hubspot.com/",
+      "note": "Enterprise-grade marketing automation for 2025 strategies."
     },
     {
       "title": "Ahrefs",
-      "description": "SEO research and backlink analysis tool for improving website visibility and keyword performance.",
+      "description": "Powerful SEO research tool for backlink analysis, keyword research and competitive insights.",
       "url": "https://ahrefs.com/",
-      "note": "Included in 2025 SEO and marketing tool guides."
+      "note": "Used by SEO teams for deep research in 2025."
+    },
+    {
+      "title": "Zapier",
+      "description": "Automation platform to connect apps and automate repetitive marketing workflows without code.",
+      "url": "https://zapier.com/",
+      "note": "Helps marketing teams automate data flows and integrations in 2025."
+    },
+    {
+      "title": "Hotjar",
+      "description": "Behavior analytics tool for heatmaps, session recordings and conversion funnels.",
+      "url": "https://www.hotjar.com/",
+      "note": "Provides qualitative insights for conversion optimization in 2025."
+    },
+    {
+      "title": "Moz",
+      "description": "SEO toolset for tracking rankings, on-page optimization and site audits.",
+      "url": "https://moz.com/",
+      "note": "Useful alongside other SEO platforms for 2025 audits."
+    },
+    {
+      "title": "Klaviyo",
+      "description": "Email and SMS marketing platform optimized for e-commerce segmentation and lifecycle campaigns.",
+      "url": "https://www.klaviyo.com/",
+      "note": "Popular with direct-to-consumer brands in 2025."
     }
   ]
- }
+}
