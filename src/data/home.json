@@ -115,6 +115,11 @@
       "technology": "Space Technology",
       "logo": "space-technology.png",
       "folderName": "space-technology"
+    },
+    {
+      "technology": "Bioinformatics",
+      "logo": "bioinformatics.png",
+      "folderName": "bioinformatics"
     }
   ]
 }

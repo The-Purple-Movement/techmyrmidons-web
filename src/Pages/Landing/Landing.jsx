@@ -188,6 +188,13 @@ const Landing = () => {
               description="Space technology is the collection of advanced engineering systems, tools, and methods developed to explore Earth’s atmosphere—including satellites, spacecraft, launch vehicles."
               
             />
+            <Card
+              image="/assets/landing/bioinformatics.png"
+              name="Bioinformatics"
+              link="/bioinformatics"
+              description="Bioinformatics is an interdisciplinary field of science that develops methods and software tools for understanding biological data that is large and complex."
+              
+            />
           </div>
         </div>
 

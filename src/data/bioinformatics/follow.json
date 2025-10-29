@@ -1,0 +1,28 @@
+{
+  "follow": [
+    
+    {
+      "followLink":"https://x.com/zhangf",
+      "photo":"Feng Zhang.jpg",
+      "name":"Feng Zhang"
+    },
+    
+    {
+      "followLink":"https://x.com/manoliskellis",
+      "photo":"Manolis Kellis.jpg",
+      "name":"Manolis Kellis"
+    },
+    
+    {
+      "followLink":"https://x.com/davidrliu",
+      "photo":"David R. Liu.jpg",
+      "name":"David R. Liu"
+    },
+    
+    {
+      "followLink":"https://x.com/StevenSalzberg1",
+      "photo":"Steven Salzberg.jpg",
+      "name":"Steven Salzberg"
+    }
+  ]
+}

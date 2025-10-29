@@ -1,0 +1,33 @@
+{
+   "2024": [
+      {
+        "title": "RosettaFold All-Atom",
+        "description":"RoseTTAFold All-Atom is a biomolecular structure prediction neural network that can predict a broad range of biomolecular assemblies including proteins, nucleic acids, small molecules, covalent modifications and metals.",
+        "url": "https://github.com/baker-laboratory/RoseTTAFold-All-Atom"
+      },
+      
+      {
+        "title": "PMIpred",
+        "description":"PMIpred is a web server for quantitative protein–membrane interaction prediction.",
+        "url": "https://pmipred.fkt.physik.tu-dortmund.de/"
+      },
+      
+      {
+        "title": "pycofitness",
+        "description":"pycofitness is a standalone Python-based software package for the in silico mutagenesis of protein and RNA sequences.",
+        "url": "https://github.com/KIT-MBS/pycofitness"
+      },
+      
+      {
+        "title": "HiPhase",
+        "description":"HiPhase is the first phasing tool to jointly phase SNVs, indels, structural, and tandem repeat variants.",
+        "url": "https://github.com/PacificBiosciences/HiPhase"
+      },
+      
+      {
+        "title": "Bioframe",
+        "description":"Bioframe is a library to enable flexible and performant operations on genomic interval dataframes in Python.",
+        "url": "https://github.com/open2c/bioframe"
+      }
+   ]
+}

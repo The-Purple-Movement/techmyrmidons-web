@@ -1,0 +1,33 @@
+{
+   "2020": [
+      {
+        "title": "NPClassifier",
+        "description":"NPClassifier is the first deep-learning tool for the automated structural classification of NPs.",
+        "url": "https://npclassifier.ucsd.edu/"
+      },
+      
+      {
+        "title": "Deep Docking",
+        "description":"Deep Docking is a deep learning-based approach which is suited for docking billions of molecular structures.",
+        "url": "https://github.com/vibudh2209/D2"
+      },
+      
+      {
+        "title": "Pangolin",
+        "description":"Pangolin allows a user to assign a SARS-CoV-2 genome sequence the most likely lineage (Pango lineage) to SARS-CoV-2 query sequences.",
+        "url": "https://cov-lineages.org/resources/pangolin.html"
+      },
+      
+      {
+        "title": "Somalier",
+        "description":"Somalier is a tool that can rapidly evaluate relatedness from sequencing data.",
+        "url": "https://github.com/brentp/somalier"
+      },
+      
+      {
+        "title": "RRE-finder",
+        "description":"RRE-finder identifies RRE domains, which are present in a majority of prokaryotic RiPP biosynthetic gene clusters (BGCs).",
+        "url": "https://github.com/Alexamk/RREFinder"
+      }
+   ]
+}

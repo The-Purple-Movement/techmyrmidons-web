@@ -1,0 +1,22 @@
+{
+   "2025": [
+      {
+        "title": "OLAF",
+        "description":"OLAF (Open Life Science Analysis Framework) is an open-source platform that enables researchers to perform bioinformatics analyses using natural language.",
+        "url": "https://github.com/OpenTechBio/Olaf"
+      },
+      
+      {
+        "title": "BioPIM",
+        "description":"BioPIM leverages the emerging processing-in-memory (PIM) technologies to enable powerful edge computing. ",
+        "url": "https://biopim.eu/"
+      },
+      
+      {
+        "title": "XenoBug",
+        "description":"XenoBug can predict the bacterial metabolism and biotransformation of enviornmental pollutants and contaminants, predicting all possible reactions, corresponding enzymes and their sequences from different metagenomic sources.",
+        "url": "https://metabiosys.iiserb.ac.in/xenobug/"
+      }
+   ]
+
+}
