@@ -70,8 +70,7 @@ const Landing = () => {
               image="/assets/landing/frontend.png"
               name="Front-End"
               link="/frontend"
-              description="
-            The term Front-End mainly referes to the User Interface which an user view and interacts with and its working"
+              description="The term Front-End mainly referes to the User Interface which an user view and interacts with and its working"
             />
             <Card 
               image="/assets/landing/backend.png" 
