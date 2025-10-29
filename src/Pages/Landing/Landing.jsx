@@ -70,8 +70,7 @@ const Landing = () => {
               image="/assets/landing/frontend.png"
               name="Front-End"
               link="/frontend"
-              description="
-            The term Front-End mainly referes to the User Interface which an user view and interacts with and its working"
+              description="The term Front-End mainly referes to the User Interface which an user view and interacts with and its working"
             />
             <Card 
               image="/assets/landing/backend.png" 
@@ -186,6 +185,13 @@ const Landing = () => {
               name="Space Technology"
               link="/space-technology"
               description="Space technology is the collection of advanced engineering systems, tools, and methods developed to explore Earth’s atmosphere—including satellites, spacecraft, launch vehicles."
+              
+            />
+            <Card
+              image="/assets/landing/bioinformatics.png"
+              name="Bioinformatics"
+              link="/bioinformatics"
+              description="Bioinformatics is an interdisciplinary field of science that develops methods and software tools for understanding biological data that is large and complex."
               
             />
           </div>

@@ -1,54 +1,40 @@
- {
+{
   "2025": [
     {
-      "title": "Examining large and complex dataset structured and unstructured",
-      "description": "Proceedings of the 4th International Conference on Economic Development and Business Culture ",
-      "url": " https://www.atlantis-press.com/proceedings/icedbc-24/126003844 ",
-      "morelink": "Atlantis Press "
-    } ,{
-
-      "title": "  Marketing information  ",
-      "description": " Marketing information refers to data and insights that organizations gather, analyze, and utilize to make informed marketing decisions.",
-      "url": " https://www.smartsheet.com/marketing-information ",
-      "morelink": "  Smartsheet "
-}
-,
-     {
-      "title": " Competitive Intelligence: Definition, Purpose, and How It Works   ",
-      "description": " Competitive intelligence (CI) is the process of systematically gathering, analyzing, and using information about competitors, customers, and the broader market environment to gain a business advantage. ",
-      "url": "  https://www.investopedia.com/terms/c/competitive-intelligence.asp ",
-      "morelink" :"Investopedia  "
-
-      },
-
-      
-
-       {
-      "title": "  Essential Marketing Skills Every Startup Founder Should Learn ",
-      "description": " For startup founders, mastering marketing is crucial to building brand awareness, attracting customers, and driving growth. Key marketing skills include understanding your target audience, creating compelling content, leveraging digital channels (such as social media and SEO), and analyzing campaign performance. ",
-      "url": " https://www.hypergrowth.io/blog/growth-skills-founders ",
-      "morelink" :" Hypergrowth  "
-
-      },
-
-       {
-      "title": " Growth marketing ",
-      "description": " Growth marketing is a data-driven, experimental approach focused on achieving scalable and sustainable business growth by optimizing every stage of the customer journey ",
-      "url": " https://builtin.com/articles/marketing-growth-strategy ",
-      "morelink" :" Builtin  "
-
-      },
-
-       {
-      "title": " Data analytics is becoming the backbone of decision-making in marketing ",
-      "description": " Data analytics involves a process of collecting, analysing, and interpreting data to uncover patterns, trends, and insights that can inform business decisions.  ",
-      "url": " https://www.codetru.com/blog/data-analytics-informed-decision-making/ ",
-      "morelink" :"  Codetru "
-
-      }
-
-
-
-
-]
+      "title": "HubSpot Marketing Hub",
+      "description": "All-in-one inbound marketing, automation, and CRM platform with AI-driven personalization features.",
+      "url": "https://www.hubspot.com/",
+      "note": "Enterprise-grade marketing automation for 2025 strategies."
+    },
+    {
+      "title": "Ahrefs",
+      "description": "Powerful SEO research tool for backlink analysis, keyword research and competitive insights.",
+      "url": "https://ahrefs.com/",
+      "note": "Used by SEO teams for deep research in 2025."
+    },
+    {
+      "title": "Zapier",
+      "description": "Automation platform to connect apps and automate repetitive marketing workflows without code.",
+      "url": "https://zapier.com/",
+      "note": "Helps marketing teams automate data flows and integrations in 2025."
+    },
+    {
+      "title": "Hotjar",
+      "description": "Behavior analytics tool for heatmaps, session recordings and conversion funnels.",
+      "url": "https://www.hotjar.com/",
+      "note": "Provides qualitative insights for conversion optimization in 2025."
+    },
+    {
+      "title": "Moz",
+      "description": "SEO toolset for tracking rankings, on-page optimization and site audits.",
+      "url": "https://moz.com/",
+      "note": "Useful alongside other SEO platforms for 2025 audits."
+    },
+    {
+      "title": "Klaviyo",
+      "description": "Email and SMS marketing platform optimized for e-commerce segmentation and lifecycle campaigns.",
+      "url": "https://www.klaviyo.com/",
+      "note": "Popular with direct-to-consumer brands in 2025."
+    }
+  ]
 }

@@ -1,0 +1,33 @@
+{
+   "2018": [
+      {
+        "title": "Single Cell Expression Atlas",
+        "description":"The Single Cell Expression Atlas knowledge-base contains eligible single-cell and single-nucleus RNA-seq experiments from a range of diverse species, these data have been re-analysed by SCEA using standardised analysis pipeline and periodically updated against new Ensembl genome releases.",
+        "url": "https://www.ebi.ac.uk/gxa/sc/home"
+      },
+      
+      {
+        "title": "TBtools",
+        "description":"TBtools is a Toolkit for Biologists integrating various biological data handling tools with a user-friendly interface.",
+        "url": "https://github.com/CJ-Chen/TBtools-II"
+      },
+      
+      {
+        "title": "BioJava 5",
+        "description":"BioJava is an open-source project that provides a Java library for processing biological data.",
+        "url": "https://biojava.org/"
+      },
+      
+      {
+        "title": "Squiggle",
+        "description":"Squiggle is a two-dimensional DNA sequence visualization library that can turn FASTA sequence files.",
+        "url": "https://squiggle.readthedocs.io/en/latest/"
+      }, 
+      
+      {
+        "title": "bioSyntax",
+        "description":"bioSyntax makes data intuitive for scientists and helps to navigate and comprehend its significance by syntax highlighting.",
+        "url": "https://biosyntax.org/"
+      }  
+   ]
+}

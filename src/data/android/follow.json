@@ -125,6 +125,16 @@
       "photo": "ClementDelangue.jpg",
       "test": "ai-follow",
       "name": "Clément Delangue"
+    },
+    {
+      "followLink": "https://twitter.com/chethaase",
+      "photo": "ChetHaase.jpg",
+      "name": "Chet Haase"
+    },
+    {
+    "followLink": "https://twitter.com/retomeier",
+    "photo": "RetoMeier.jpg",
+    "name": "Reto Meier"
     }
   ]
 }
