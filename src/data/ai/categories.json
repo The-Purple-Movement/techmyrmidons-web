@@ -91,6 +91,66 @@
       "category": "Deep Learning"
     },
     {
+      "title": "Weights & Biases",
+      "description": "Experiment tracking, model and dataset versioning, and collaboration tools for ML teams",
+      "url": "https://wandb.ai/",
+      "category": "Deep Learning"
+    },
+    {
+      "title": "MLflow",
+      "description": "Open source platform for managing the ML lifecycle: experimentation, reproducibility and deployment",
+      "url": "https://mlflow.org/",
+      "category": "Deep Learning"
+    },
+    {
+      "title": "Albumentations",
+      "description": "A fast and flexible image augmentation library for deep learning practitioners",
+      "url": "https://albumentations.ai/",
+      "category": "Deep Learning"
+    },
+    {
+      "title": "Detectron2",
+      "description": "Facebook AI Research's next-generation library that provides state-of-the-art detection and segmentation algorithms",
+      "url": "https://github.com/facebookresearch/detectron2",
+      "category": "Deep Learning"
+    },
+    {
+      "title": "MMDetection",
+      "description": "A toolbox from OpenMMLab for object detection and instance segmentation research",
+      "url": "https://github.com/open-mmlab/mmdetection",
+      "category": "Deep Learning"
+    },
+    {
+      "title": "Horovod",
+      "description": "Distributed training framework for TensorFlow, Keras, PyTorch, and MXNet to scale deep learning training",
+      "url": "https://horovod.ai/",
+      "category": "Deep Learning"
+    },
+    {
+      "title": "Ray Train",
+      "description": "A scalable training library built on Ray for distributed model training and hyperparameter tuning",
+      "url": "https://docs.ray.io/en/latest/train/index.html",
+      "category": "Deep Learning"
+    },
+    {
+      "title": "Optuna",
+      "description": "An automatic hyperparameter optimization framework, particularly useful for tuning deep learning models",
+      "url": "https://optuna.org/",
+      "category": "Deep Learning"
+    },
+    {
+      "title": "AutoKeras",
+      "description": "An AutoML system designed to automate deep learning model search and training",
+      "url": "https://autokeras.com/",
+      "category": "Deep Learning"
+    },
+    {
+      "title": "Captum",
+      "description": "Model interpretability library for PyTorch to explain predictions of deep learning models",
+      "url": "https://captum.ai/",
+      "category": "Deep Learning"
+    },
+    {
       "title": "AI-responder for HostAway",
       "description": "Chrome extension that cuts your writing time by 98% with AI-powered responses.",
       "url": "https://aiduh.com",
