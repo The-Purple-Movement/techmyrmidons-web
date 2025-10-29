@@ -91,6 +91,26 @@
     {
       "blog": "https://blogs.nvidia.com/",
       "author": "NVIDIA Blog"
+    },
+    {
+      "blog": "https://www.fast.ai/",
+      "author": "Fast.ai Blog"
+    },
+    {
+      "blog": "https://thegradient.pub/",
+      "author": "The Gradient"
+    },
+    {
+      "blog": "https://colah.github.io/",
+      "author": "Christopher Olah's Blog"
+    },
+    {
+      "blog": "https://blog.paperswithcode.com/",
+      "author": "Papers With Code"
+    },
+    {
+      "blog": "https://www.deeplearning.ai/blog/",
+      "author": "DeepLearning.AI"
     }
   ]
 }
