@@ -1,0 +1,33 @@
+{
+   "2023": [
+      {
+        "title": "Human Pangenome Reference",
+        "description":"First draft of the human pangenome reference is published by Human Pangenome Reference Consortium, incorporating DNA data from 47 individuals.",
+        "url": "https://humanpangenome.org/"
+      },
+      
+      {
+        "title": "Sturgeon",
+        "description":"Sturgeon is a CNS neural network classifier that can make decisions about the status of cells while surgery is ongoing, to help give surgeons the information they need about what tissue to cut away, and what to leave alone.",
+        "url": "https://github.com/UMCUGenetics/sturgeon"
+      },
+      
+      {
+        "title": "CAPLA",
+        "description":"CAPLA a new deep learning approach improves prediction of protein–ligand binding affinity by learning features from sequence-level information of both protein and ligand.",
+        "url": "https://github.com/lennylv/CAPLA"
+      },
+      
+      {
+        "title": "DeepTraSynergy",
+        "description":"DeepTraSynergy utilizes multimodal input including drug–target interaction, protein–protein interaction, and cell–target interaction to predict drug combination synergy.",
+        "url": "https://github.com/fatemeh-rafiei/DeepTraSynergy"
+      },
+      
+      {
+        "title": "MFR-DTA",
+        "description":"MFR-DTA (Multi-Functional and Robust Drug–Target binding Affinity prediction) is a multi-functional and robust model for predicting drug–target binding affinity and region",
+        "url": "https://github.com/JU-HuaY/MFR"
+      }
+   ]
+}

@@ -1,0 +1,33 @@
+{
+   "2017": [
+      {
+        "title": "Zenome",
+        "description":"Zenome is a blockchain-based genomic ecosystem built on the interaction between three different types of information: genomic, personal, and financial data.",
+        "url": "https://zenome.io/"
+      },
+      
+      {
+        "title": "EDGE",
+        "description":"Empowering the Development of Genomics Expertise (EDGE) democratize the genomics revolution by helping biologists process Next Generation Sequencing data even if they have little to no bioinformatics expertise.",
+        "url": "https://edgebioinformatics.org/"
+      },
+      
+      {
+        "title": "ViPTree",
+        "description":"The ViPTree server generates a proteomic tree of viral genome sequences based on genome-wide sequence similarities computed by tBLASTx.",
+        "url": "https://www.genome.jp/viptree/"
+      },
+      
+      {
+        "title": "CircPro",
+        "description":"CircPro enables users to detect circRNAs, predicting their protein-coding potential and discovering junction reads from Ribo-Seq data.",
+        "url": "https://bis.zju.edu.cn/CircPro/"
+      },
+      
+      {
+        "title": "Mammalian Transcriptomic Database",
+        "description":"MTD browses genes based on their neighboring genomic coordinates or joint KEGG pathway and provides expression information on exons, transcripts, and genes by integrating them into a genome browser.",
+        "url": "https://ngdc.cncb.ac.cn/mtd/"
+      }
+   ]
+}

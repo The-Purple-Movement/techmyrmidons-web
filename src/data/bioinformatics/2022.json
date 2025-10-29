@@ -1,0 +1,39 @@
+{
+  "2022": [
+    {
+      "title": "T2T-CHM13",
+      "description": "Telomere-to-Telomere Consortium delivers a complete human genome, filling in the missing pieces and correcting the errors present in the previous reference genomes.",
+      "url": "https://www.genome.gov/about-genomics/telomere-to-telomere"
+    },
+
+    {
+      "title": "ESMFold",
+      "description": "Meta AI publishes Evolutionary Scale Modeling ESMFold – a model that predicts protein structure from amino acid sequences.",
+      "url": "https://esmatlas.com/"
+    },
+
+    {
+      "title": "JCVI-syn3A computer-simulation",
+      "description": "Scientists develop a computer model of the minimized synthetic cell, JCVI-syn3A, that accurately predicts the growth and molecular structure of its real-life analog.",
+      "url": "https://www.jcvi.org/media-center/scientists-develop-most-complete-whole-cell-computer-simulation-model-cell-date"
+    },
+
+    {
+      "title": "CROPSR",
+      "description": "The first open-source software tool for genome-wide design and evaluation of gRNA sequences for CRISPR experiments.",
+      "url": "https://cabbi.bio/publications/cropsr-an-automated-platform-for-complex-genome-wide-crispr-grna-design-and-validation/"
+    },
+
+    {
+      "title": "AnVIL",
+      "description": "Johns Hopkins University creates a cloud-based platform known as AnVIL (Genomic Data Science Analysis, Visualization, and Informatics Lab-space), that gives any researcher with an Internet connection access to thousands of analysis tools, patient records, and more than 300,000 genomes.",
+      "url": "https://anvilproject.org/"
+    },
+        
+    {
+      "title": "REFLECT",
+      "description": "The University of Texas MD Anderson Cancer Centre develops REcurrent Features LEveraged for Combination Therapy (REFLECT), which integrates machine learning and cancer informatics algorithms. ",
+      "url": "https://bioinformatics.mdanderson.org/reflect/"
+    }
+  ]
+}
