@@ -1,0 +1,34 @@
+ {
+  "2023": [
+    {
+      "title": "ROS 2 ",
+      "description": "Open-source middleware framework for developing and controlling robots with modular nodes, real-time support, and cross-platform compatibility.",
+      "url": "https://docs.ros.org/en/foxy/index.html"
+    },
+    {
+      "title": "NVIDIA Isaac Sim",
+      "description": "Simulation platform built on Omniverse for training and testing robots in photorealistic, physics-accurate virtual environments.",
+      "url": "https://developer.nvidia.com/isaac-sim"
+    },
+    {
+      "title": "CoppeliaSim ",
+      "description": "Comprehensive robot simulator supporting remote APIs, ROS integration, and multi-robot environments.",
+      "url": "https://www.coppeliarobotics.com/"
+    },
+    {
+      "title": "Gazebo Classic",
+      "description": "Popular open-source robot simulator for testing algorithms in dynamic environments with realistic physics.",
+      "url": "https://gazebosim.org/home"
+    },
+    {
+      "title": "ABB RobotStudio",
+      "description": "Offline programming and 3D simulation tool for ABB industrial robots used for programming, optimization, and testing.",
+      "url": "https://new.abb.com/products/robotics/robotstudio"
+    },
+    {
+      "title": "NVIDIA Jetson Nano",
+      "description": "Compact AI computing platform for deploying real-time computer vision and robotics applications at the edge.",
+      "url": "https://developer.nvidia.com/embedded/jetson-nano-developer-kit"
+    }
+  ]
+ }

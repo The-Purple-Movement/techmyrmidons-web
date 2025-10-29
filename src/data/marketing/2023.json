@@ -1,0 +1,40 @@
+ {
+    "2023": [
+    {
+      "title": "Google Analytics",
+      "description": "Web analytics platform to track website traffic and user behaviour.",
+      "url": "https://marketingplatform.google.com/about/analytics/",
+      "note": "Listed among best tools in 2023 (TextMaster Digital Marketing Tools List)."
+    },
+    {
+      "title": "SEMrush",
+      "description": "Comprehensive SEO and content-marketing toolkit for keyword research, site audits and competitor analysis.",
+      "url": "https://www.semrush.com/",
+      "note": "Included in 2023 marketing tool lists."
+    },
+    {
+      "title": "Mailchimp",
+      "description": "Email-marketing platform for campaigns, list management, automation and reporting.",
+      "url": "https://mailchimp.com/",
+      "note": "Mentioned as a key tool for 2023 marketing strategies."
+    },
+    {
+      "title": "Canva",
+      "description": "Design tool to create social graphics, marketing visuals, posters and simple videos.",
+      "url": "https://www.canva.com/",
+      "note": "Listed among best digital-marketing tools in 2023."
+    },
+    {
+      "title": "Hootsuite",
+      "description": "Social-media management platform to schedule posts, monitor channels, and analyse social engagement.",
+      "url": "https://www.hootsuite.com/",
+      "note": "Included in 2023 tools list for social media management."
+    },
+    {
+      "title": "ActiveCampaign",
+      "description": "Marketing automation and CRM tool to nurture leads, automate email workflows and integrate marketing with sales.",
+      "url": "https://www.activecampaign.com/",
+      "note": "Mentioned in 2023 tool recap as a key automation solution."
+    }
+  ]
+ }
