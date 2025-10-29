@@ -30,55 +30,29 @@
          "url": "https://www.w3.org/",
          "morelink": "Sustainability"
       },
-      {
-         "title": "Astro.js",
-         "description": "A modern static site generator that allows developers to build fast, content-focused websites using minimal JavaScript. Astro supports multiple frameworks (React, Svelte, Vue) and optimizes performance by only loading necessary JavaScript on the client.",
-         "url": "https://astro.build",
-         "morelink": "Astro Official"
-      },
-      {
-         "title": "Qwik Framework",
-         "description": "A next-generation frontend framework designed for instant loading web apps by delivering resumable JavaScript.",
-         "url": "https://qwik.builder.io/",
-         "morelink": "Qwik"
-      },
-      {
-         "title": "Bun Runtime",
-         "description": "A fast, modern JavaScript runtime built from scratch to replace Node.js, offering built-in bundler, transpiler, and package manager.",
-         "url": "https://bun.sh/",
-         "morelink": "Bun"
-      },
-      {
-         "title": "Tauri",
-         "description": "A lightweight framework for building secure, cross-platform desktop applications using web technologies and Rust.",
-         "url": "https://tauri.app/",
-         "morelink": "Tauri"
-      }
-   ]
-}
-{
-         "title": "Astro.js",
-         "description": "A modern static site generator that allows developers to build fast, content-focused websites using minimal JavaScript. Astro supports multiple frameworks (React, Svelte, Vue) and optimizes performance by only loading necessary JavaScript on the client.",
-         "url": "https://astro.build",
-         "morelink": "Astro Official"
-      },
-      {
-         "title": "Qwik Framework",
-         "description": "A next-generation frontend framework designed for instant loading web apps by delivering resumable JavaScript.",
-         "url": "https://qwik.builder.io/",
-         "morelink": "Qwik"
-      },
-      {
-         "title": "Bun Runtime",
-         "description": "A fast, modern JavaScript runtime built from scratch to replace Node.js, offering built-in bundler, transpiler, and package manager.",
-         "url": "https://bun.sh/",
-         "morelink": "Bun"
-      },
-      {
-         "title": "Tauri",
-         "description": "A lightweight framework for building secure, cross-platform desktop applications using web technologies and Rust.",
-         "url": "https://tauri.app/",
-         "morelink": "Tauri"
-      }
-   ]
-}
+      -}
+-{
+-         "title": "Astro.js",
+-         "description": "A modern static site generator that allows developers to build fast, content-focused websites using minimal JavaScript. Astro supports multiple frameworks (React, Svelte, Vue) and optimizes performance by only loading necessary JavaScript on the client.",
+-         "url": "https://astro.build",
+-         "morelink": "Astro Official"
+-      },
+-      {
+-         "title": "Qwik Framework",
+-         "description": "A next-generation frontend framework designed for instant loading web apps by delivering resumable JavaScript.",
+-         "url": "https://qwik.builder.io/",
+-         "morelink": "Qwik"
+-      },
+-      {
+-         "title": "Bun Runtime",
+-         "description": "A fast, modern JavaScript runtime built from scratch to replace Node.js, offering built-in bundler, transpiler, and package manager.",
+-         "url": "https://bun.sh/",
+-         "morelink": "Bun"
+-      },
+-      {
+-         "title": "Tauri",
+-         "description": "A lightweight framework for building secure, cross-platform desktop applications using web technologies and Rust.",
+-         "url": "https://tauri.app/",
+-         "morelink": "Tauri"
+-      }
+-   ]
