@@ -31,10 +31,10 @@
         "morelink": "Sustainability"
       }
       {
-  "title": "Edge-first Rendering with WebAssembly",
-  "description": "WebAssembly-powered apps running serverless at the edge allow ultra-low latency, highly interactive experiences without traditional backend servers. In 2025, many frameworks and platforms are now supporting WASM for near-native speed and streaming data visualization, making web apps as fast as desktop.",
-  "url": "https://webassembly.org/",
-  "morelink": "EdgeWASM"
-}
+     "title": "Edge-first Rendering with WebAssembly",
+     "description": "WebAssembly-powered apps running serverless at the edge allow ultra-low latency, highly interactive experiences without traditional backend servers. In 2025, many frameworks and platforms are now supporting WASM for near-native speed and streaming data visualization, making web apps as fast as desktop.",
+     "url": "https://webassembly.org/",
+     "morelink": "EdgeWASM"
+      }
    ]
 }
