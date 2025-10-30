@@ -1,23 +1,39 @@
 {
-
   "follow": [
-
-   {
-      "followLink":"https://twitter.com/petewarden",
-      "photo":"PeteWarden.jpg",
-      "name":"Pete Warden"
-    },
-
     {
-      "followLink":"https://t.co/MvdeGm0ntr",
-      "photo":"StaceyHigginbotham.jpg",
-      "name":"Stacey Higginbotham"
+      "followLink": "https://x.com/gigastacey",
+      "photo": "StaceyHigginbotham.jpg",
+      "name": "Stacey Higginbotham"
     },
-
     {
-      "followLink":"https://twitter.com/alexwilliams",
-      "photo":"AlexWilliams.jpg",
-      "name":"Alex Williams"
+      "followLink": "https://twitter.com/petewarden",
+      "photo": "PeteWarden.jpg",
+      "name": "Pete Warden"
+    },
+    {
+      "followLink": "https://twitter.com/andrewjscott",
+      "photo": "AndrewScott.jpg",
+      "name": "Andrew Scott"
+    },
+    {
+      "followLink": "https://www.linkedin.com/in/kevinjashton/",
+      "photo": "KevinAshton.jpg",
+      "name": "Kevin Ashton"
+    },
+    {
+      "followLink": "https://twitter.com/iotwatch",
+      "photo": "AlexandraDS.jpg",
+      "name": "Alexandra D-S "
+    },
+    {
+      "followLink": "https://twitter.com/iotforall",
+      "photo": "IoTForAll.jpg",
+      "name": "IoT For All"
+    },
+    {
+      "followLink": "https://twitter.com/alexwilliams",
+      "photo": "AlexWilliams.jpg",
+      "name": "Alex Williams"
     }
   ]
 }
