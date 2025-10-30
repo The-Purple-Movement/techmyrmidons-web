@@ -46,9 +46,14 @@
       "name": "Keren Elazari"
     },
     {
-      "followLink": "https://twitter.com/MikkoHypponen",
+      "followLink": "https://x.com/mikko",
       "photo": "mikko.jpg",
       "name": "Mikko Hyppönen"
+    },
+    {
+      "followLink": "https://x.com/SwiftOnSecurity",
+      "photo": "SwiftOnSecurity.jpg",
+      "name": "SwiftOnSecurity"
     }
   ]
 }
