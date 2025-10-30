@@ -1,8 +1,9 @@
 {
   "2025": [
     {
-      "title": "Gene",
-      "description": "Genetic Algorithms and AI systems."
+      "title": "AI",
+      "desc": "Artificial Intelligence overview.",
+      "url": "https://ai.google.com"
     }
   ]
 }
