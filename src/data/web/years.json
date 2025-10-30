@@ -35,6 +35,10 @@
     {
       "year": "2017",
       "url": "/data/web/2017.json"
+    },
+    {
+      "year": "2016",
+      "url": "/data/web/2016.json"
     }
   ]
 }

@@ -124,6 +124,11 @@
       "followLink": "https://twitter.com/paul_irish",
       "photo": "PaulIrish.jpg",
       "name": "Paul Irish"
+    },
+    {
+    "followLink": "https://x.com/jeresig",
+    "photo": "JohnResig.jpg",
+    "name": "John Resig"
     }
   ]
 }
