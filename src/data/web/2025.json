@@ -37,22 +37,50 @@
       "morelink": "Astro Official"
     },
     {
-      "title": "Qwik Framework",
-      "description": "A next-generation frontend framework designed for instant loading web apps by delivering resumable JavaScript.",
-      "url": "https://qwik.builder.io/",
-      "morelink": "Qwik"
-    },
-    {
-      "title": "Bun Runtime",
-      "description": "A fast, modern JavaScript runtime built from scratch to replace Node.js, offering built-in bundler, transpiler, and package manager.",
-      "url": "https://bun.sh/",
-      "morelink": "Bun"
-    },
-    {
-      "title": "Tauri",
-      "description": "A lightweight framework for building secure, cross-platform desktop applications using web technologies and Rust.",
-      "url": "https://tauri.app/",
-      "morelink": "Tauri"
-    }
-  ]
+  "title": "SolidStart",
+  "description": "SolidStart is the official framework for Solid.js, offering hybrid rendering, file-based routing, and optimized performance for modern web apps.",
+  "url": "https://start.solidjs.com",
+  "morelink": "SolidStart"
+},
+{
+  "title": "Remix Run",
+  "description": "Remix Run focuses on web fundamentals, offering nested routing, fast data loading, and seamless server rendering for resilient web applications.",
+  "url": "https://remix.run",
+  "morelink": "Remix"
+},
+{
+  "title": "SvelteKit",
+  "description": "SvelteKit enables developers to build fast, optimized web apps with minimal overhead, server-side rendering, and first-class TypeScript support.",
+  "url": "https://kit.svelte.dev",
+  "morelink": "SvelteKit"
+},
+{
+  "title": "Next.js 15",
+  "description": "Next.js 15 introduces enhanced server components, React compiler support, and improved static generation for performance-driven applications.",
+  "url": "https://nextjs.org",
+  "morelink": "Next.js"
+},
+{
+  "title": "Nuxt 4",
+  "description": "Nuxt 4 delivers hybrid rendering, type-safe routes, and Vue 3 Composition API support, making it ideal for universal Vue applications.",
+  "url": "https://nuxt.com",
+  "morelink": "Nuxt"
+},
+{
+  "title": "Vite 6",
+  "description": "Vite 6 provides next-generation frontend tooling with ultra-fast Hot Module Replacement and first-class TypeScript and JSX support.",
+  "url": "https://vitejs.dev",
+  "morelink": "Vite"
+},
+{
+  "title": "Capacitor 6",
+  "description": "Capacitor 6 by Ionic simplifies native mobile app development using web technologies and offers tighter integration with modern frameworks.",
+  "url": "https://capacitorjs.com",
+  "morelink": "Capacitor"
+},
+{
+  "title": "Electron Forge",
+  "description": "Electron Forge streamlines Electron app packaging, auto-updates, and deployment, helping developers ship cross-platform desktop apps efficiently.",
+  "url": "https://www.electronforge.io/",
+  "morelink": "ElectronForge"
 }
