@@ -1,0 +1,33 @@
+{
+   "2024": [
+      {
+        "title": "EDGE FL series of fiber lasers",
+        "description":"EDGE fiber lasers combine innovative design with the high-volume manufacturing methods Coherent perfected to eliminate the traditional compromise between quality and affordability.",
+        "url": "https://www.coherent.com/lasers/fiber/edge-fl"
+      },
+      
+      {
+        "title": "Stretto",
+        "description":"The Stretto is a high precision tunable external-cavity diode laser, available for narrow linewidth emission from ultraviolet to infrared.",
+        "url": "https://www.daylightsolutions.com/products/stretto/"
+      },
+      
+      {
+        "title": " Corona™ AFX-2000 laser",
+        "description":"The Corona™ AFX-2000 from nLIGHT is a laser with beam shaping technology for use in laser powder bed fusion processes for metal additive manufacturing.",
+        "url": "https://investors.nlight.net/news-releases/news-details/2024/nlight-Announces-Global-Launch-of-2-Kilowatt-Dynamic-Beam-Shaping-Laser-Unleashing-New-Levels-of-Productivity-for-Laser-Powder-Bed-Fusion/default.aspx"
+      },
+      
+      {
+        "title": "872 Series High-Resolution Laser Wavelength Meter",
+        "description":"The 872 Series Laser Wavelength Meter  can detect very small wavelength deviations making it ideal for experiments where a laser’s frequency must be actively regulated.",
+        "url": "https://www.bristol-inst.com/bristol-instruments-products/wavelength-meters-scientific/872-series-high-resolution-laser-wavelength-meter/"
+      },
+      
+      {
+        "title": "XLDHe High Power System",
+        "description":"XLDHe High Power System is a cryogen-free, helium-4 powered measurement system that delivers extremely high cooling power for experiments in the 1 K temperature range.",
+        "url": "https://bluefors.com/news/introducing-the-xldhe-high-power-system-ultimate-cooling-for-1-k-experiments/"
+      }
+   ]
+}

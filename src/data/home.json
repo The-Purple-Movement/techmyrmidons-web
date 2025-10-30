@@ -120,6 +120,11 @@
       "technology": "Bioinformatics",
       "logo": "bioinformatics.png",
       "folderName": "bioinformatics"
+    },
+    {
+      "technology": "Photonics",
+      "logo": "photonics.png",
+      "folderName": "photonics"
     }
   ]
 }

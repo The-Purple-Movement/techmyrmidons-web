@@ -1,0 +1,30 @@
+{
+
+  "follow": [
+
+   {
+      "followLink":"https://x.com/NaderEngheta",
+      "photo":"Nader Engheta.jpg",
+      "name":"Nader Engheta"
+    },
+    
+    {
+      "followLink":"https://x.com/quantumcascade",
+      "photo":"Federico Capasso.jpg",
+      "name":"Federico Capasso"
+    },
+    
+    {
+      "followLink":"https://x.com/andrea_alu",
+      "photo":"Andrea Alù.jpg",
+      "name":"Andrea Alù"
+    },
+    
+    {
+      "followLink":"https://x.com/MilesPadgett",
+      "photo":"Miles Padgett.jpg",
+      "name":"Miles Padgett"
+    }
+
+  ]
+}

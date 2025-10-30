@@ -1,0 +1,33 @@
+{
+   "2020": [
+      {
+        "title": "Synopsys OptoCompiler",
+        "description":"Synopsys OptoCompiler is the industry’s first unified electronic and photonic design platform that combines mature and dedicated photonic technology with Synopsys’ industry-proven electronic design tools to enable engineers to produce and verify complex PIC designs quickly and accurately.",
+        "url": "https://www.synopsys.com/photonic-solutions/optocompiler.html"
+      },
+
+      {
+        "title": "ibeoNEXT LiDAR sensor",
+        "description":"The ibeoNEXT LiDAR sensor is based on a new type of solid state, photon laser measurement technology with the capability to recognize crash barriers and road markings as well as vehicles, cyclists and pedestrians along with their position and movement.",
+        "url": "https://press.zf.com/press/en/releases/release_18882.html"
+      },
+
+      { 
+        "title": "FINEPLACER® femtoblu",
+        "description":"FINEPLACER® femtoblu is an automated micro assembly cell with a placement accuracy of 2.0 µm @ 3 Sigma and ultra-low bonding force capability.",
+        "url": "https://www.semiconductorpackagingnews.com/campaigns/74718.html/"
+      },
+      
+      { 
+        "title": "Photonic Quantum Computer Cloud",
+        "description":"Xanadu announces the release of the world's first publicly available photonic quantum computing platform.",
+        "url": "https://www.xanadu.ai/press/first-photonic-quantum-computer-on-the-cloud"
+      },
+      
+      { 
+        "title": "ClearLight CFP2-DCO",
+        "description":"ClearLight CFP2-DCO is the first in a series of coherent module solutions based on NeoPhotonics' patented Photonic Integrated Circuit (PIC) platform, which enables cloud operators and carriers to create optical interconnects with significantly greater capacity and density with reduced complexity in the high-capacity DWDM optical networks used in hyper-scale cloud and telecom infrastructure applications.",
+        "url": "https://www.prnewswire.com/news-releases/neophotonics-ships-initial-units-of-extended-tuning-range-400g-capable-clearlight-cfp2-dco-coherent-transceivers-for-end-customer-trials-300981235.html"
+      }
+   ]
+}
