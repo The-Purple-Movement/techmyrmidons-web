@@ -1,99 +1,250 @@
 {
   "2025": [
     {
-      "title": "AI",
-      "desc": "Artificial Intelligence overview.",
-      "url": "https://ai.google.com"
+      "title": "AI Foundations",
+      "description": "Artificial Intelligence concepts including neural networks, transformers, and reinforcement learning shaping the 2025 landscape.",
+      "url": "https://ai.google.com/",
+      "morelink": "Google AI"
     },
     {
-      "title": "Progressive Hydration",
-      "description": "Fine-grained hydration strategies that progressively activate interactivity to minimize JavaScript and speed up Time to Interactive.",
-      "url": "https://web.dev/progressive-hydration/",
-      "morelink": "Hydration"
+      "title": "Machine Learning Ethics",
+      "description": "Ethical frameworks and responsible AI practices ensuring fairness, accountability, and transparency in automated systems.",
+      "url": "https://aiethicslab.com/",
+      "morelink": "AI Ethics"
     },
     {
-      "title": "Composable Data Mesh for Frontend",
-      "description": "Decoupled data products and contract-driven APIs that enable teams to compose complex UIs from reusable data services.",
-      "url": "https://martinfowler.com/articles/data-mesh-principles.html",
-      "morelink": "DataMesh"
+      "title": "Quantum Computing Advances",
+      "description": "Exploring qubit stability, quantum error correction, and hybrid classical-quantum computing models emerging in 2025.",
+      "url": "https://quantumai.google/",
+      "morelink": "QuantumAI"
     },
     {
-      "title": "Zero-trust Web Authentication",
-      "description": "Stronger, passwordless authentication patterns (WebAuthn, passkeys) combined with continuous risk signals for secure sessions.",
-      "url": "https://webauthn.guide/",
-      "morelink": "WebAuthn"
+      "title": "Edge AI Deployments",
+      "description": "Running AI models on IoT and embedded systems for real-time inference without cloud dependency.",
+      "url": "https://developer.nvidia.com/embedded",
+      "morelink": "NVIDIA Edge"
     },
     {
-      "title": "Sustainable Web Practices",
-      "description": "Design and engineering patterns focused on energy-efficient web apps, lower carbon footprints, and measurable sustainability metrics.",
-      "url": "https://www.w3.org/",
-      "morelink": "Sustainability"
-    },
-    {
-      "title": "Astro.js",
-      "description": "Astro.js is a cutting-edge static site generator designed to make building fast, content-focused websites easier than ever. It embraces the modern concept of shipping less JavaScript by default, making web experiences lightning fast, lightweight, and user-friendly. Unlike traditional frameworks that rely heavily on client-side hydration, Astro renders the majority of your site to static HTML during build time, dramatically improving performance metrics such as Time to Interactive (TTI) and Core Web Vitals.",
-      "url": "https://astro.build",
-      "morelink": "Astro Official"
-    },
-    {
-      "title": "SolidStart",
-      "description": "SolidStart is the official framework for Solid.js, offering hybrid rendering, file-based routing, and optimized performance for modern web apps.",
-      "url": "https://start.solidjs.com",
-      "morelink": "SolidStart"
-    },
-    {
-      "title": "Remix Run",
-      "description": "Remix Run focuses on web fundamentals, offering nested routing, fast data loading, and seamless server rendering for resilient web applications.",
-      "url": "https://remix.run",
-      "morelink": "Remix"
-    },
-    {
-      "title": "SvelteKit",
-      "description": "SvelteKit enables developers to build fast, optimized web apps with minimal overhead, server-side rendering, and first-class TypeScript support.",
-      "url": "https://kit.svelte.dev",
-      "morelink": "SvelteKit"
+      "title": "Astro.js 4.0",
+      "description": "The future of static web generation with hybrid rendering, content collections, and AI-driven site optimization.",
+      "url": "https://astro.build/",
+      "morelink": "Astro"
     },
     {
       "title": "Next.js 15",
-      "description": "Next.js 15 introduces enhanced server components, React compiler support, and improved static generation for performance-driven applications.",
-      "url": "https://nextjs.org",
+      "description": "Next.js 15 introduces React Compiler, Partial Prerendering, and Server Actions for a new era of dynamic web apps.",
+      "url": "https://nextjs.org/",
       "morelink": "Next.js"
     },
     {
+      "title": "Svelte 5 with Runed",
+      "description": "Svelte 5’s new Runed reactivity system simplifies state management and enhances compile-time optimizations.",
+      "url": "https://svelte.dev/",
+      "morelink": "Svelte"
+    },
+    {
+      "title": "SolidStart 2.0",
+      "description": "Hybrid rendering framework for Solid.js offering granular streaming and faster hydration times.",
+      "url": "https://start.solidjs.com/",
+      "morelink": "SolidStart"
+    },
+    {
+      "title": "Remix v3",
+      "description": "Remix evolves with React Server Components, progressive enhancement, and optimized data routes.",
+      "url": "https://remix.run/",
+      "morelink": "Remix"
+    },
+    {
       "title": "Nuxt 4",
-      "description": "Nuxt 4 delivers hybrid rendering, type-safe routes, and Vue 3 Composition API support, making it ideal for universal Vue applications.",
-      "url": "https://nuxt.com",
+      "description": "Nuxt 4 continues to innovate with hybrid rendering, Nitro 3 engine, and enhanced TypeScript support.",
+      "url": "https://nuxt.com/",
       "morelink": "Nuxt"
     },
     {
       "title": "Vite 6",
-      "description": "Vite 6 provides next-generation frontend tooling with ultra-fast Hot Module Replacement and first-class TypeScript and JSX support.",
-      "url": "https://vitejs.dev",
+      "description": "The ultra-fast frontend build tool adds Rust-powered compilation and improved JSX handling.",
+      "url": "https://vitejs.dev/",
       "morelink": "Vite"
     },
     {
-      "title": "Capacitor 6",
-      "description": "Capacitor 6 by Ionic simplifies native mobile app development using web technologies and offers tighter integration with modern frameworks.",
-      "url": "https://capacitorjs.com",
-      "morelink": "Capacitor"
+      "title": "Bun 1.2",
+      "description": "A blazing fast JavaScript runtime with built-in SQLite, npm compatibility, and edge deployment tools.",
+      "url": "https://bun.sh/",
+      "morelink": "Bun"
     },
     {
-      "title": "Electron Forge",
-      "description": "Electron Forge streamlines Electron app packaging, auto-updates, and deployment, helping developers ship cross-platform desktop apps efficiently.",
-      "url": "https://www.electronforge.io/",
-      "morelink": "ElectronForge"
+      "title": "Deno 2.0",
+      "description": "Secure runtime for JavaScript and TypeScript with npm support and edge functions integration.",
+      "url": "https://deno.com/",
+      "morelink": "Deno"
+    },
+    {
+      "title": "WebGPU Standardization",
+      "description": "High-performance graphics and compute directly in the browser, enabling 3D and ML workloads.",
+      "url": "https://developer.mozilla.org/en-US/docs/Web/API/WebGPU_API",
+      "morelink": "WebGPU"
+    },
+    {
+      "title": "Three.js Next",
+      "description": "3D graphics library now supporting WebGPU and real-time physics rendering.",
+      "url": "https://threejs.org/",
+      "morelink": "Three.js"
+    },
+    {
+      "title": "Babylon.js 7",
+      "description": "Powerful 3D engine supporting XR, physics, and cinematic-level rendering for web applications.",
+      "url": "https://www.babylonjs.com/",
+      "morelink": "Babylon.js"
+    },
+    {
+      "title": "Rust for Web",
+      "description": "Rust-based frameworks like Leptos, Dioxus, and Yew lead the charge in WebAssembly UI development.",
+      "url": "https://yew.rs/",
+      "morelink": "Rust"
+    },
+    {
+      "title": "WebAssembly 2025",
+      "description": "WASM with threads and component model enabling full-stack applications in the browser.",
+      "url": "https://webassembly.org/",
+      "morelink": "WASM"
+    },
+    {
+      "title": "AI-Powered Developer Tools",
+      "description": "Tools like GitHub Copilot and Cursor IDE redefine coding productivity using LLM-based assistance.",
+      "url": "https://github.com/features/copilot",
+      "morelink": "Copilot"
     },
     {
       "title": "Cursor IDE",
-      "description": "An AI-native code editor that integrates large language models to understand, autocomplete, and refactor entire codebases intelligently.",
+      "description": "An AI-native code editor that autocompletes, refactors, and explains code intelligently.",
       "url": "https://cursor.sh/",
       "morelink": "Cursor"
     },
     {
       "title": "Replit Ghostwriter 2",
-      "description": "Replit’s AI coding assistant offering real-time collaboration, deployment, and debugging assistance across multiple languages.",
+      "description": "Replit’s AI tool now supports full-stack collaboration, instant hosting, and debugging assistance.",
       "url": "https://replit.com/",
       "morelink": "Replit"
+    },
+    {
+      "title": "FastAPI 3.0",
+      "description": "Next-gen Python framework featuring async ORM, OpenAPI 3.2, and AI route integration.",
+      "url": "https://fastapi.tiangolo.com/",
+      "morelink": "FastAPI"
+    },
+    {
+      "title": "OpenTofu",
+      "description": "Open-source alternative to Terraform for infrastructure-as-code with community governance.",
+      "url": "https://opentofu.org/",
+      "morelink": "OpenTofu"
+    },
+    {
+      "title": "Kubernetes 2.0",
+      "description": "Modern Kubernetes introduces simplified APIs, autoscaling, and AI workload prediction.",
+      "url": "https://kubernetes.io/",
+      "morelink": "Kubernetes"
+    },
+    {
+      "title": "Docker Scout",
+      "description": "Automated container vulnerability detection and sustainability insights integrated with Docker Hub.",
+      "url": "https://www.docker.com/",
+      "morelink": "Docker"
+    },
+    {
+      "title": "Pulumi AI",
+      "description": "Pulumi’s AI assistant generates infrastructure code and optimizes resource utilization.",
+      "url": "https://www.pulumi.com/",
+      "morelink": "Pulumi"
+    },
+    {
+      "title": "Netlify Edge Functions",
+      "description": "Serverless functions that run globally at the edge with AI-inference support.",
+      "url": "https://www.netlify.com/",
+      "morelink": "Netlify"
+    },
+    {
+      "title": "Cloudflare D1 Database",
+      "description": "Serverless SQL database built on SQLite, deployed at the edge for low-latency data access.",
+      "url": "https://developers.cloudflare.com/d1/",
+      "morelink": "Cloudflare"
+    },
+    {
+      "title": "OpenTelemetry 2025",
+      "description": "Unified observability system integrating tracing, logging, and eBPF-based performance monitoring.",
+      "url": "https://opentelemetry.io/",
+      "morelink": "OpenTelemetry"
+    },
+    {
+      "title": "Sentry Next",
+      "description": "Error monitoring with AI-driven issue triage and code-owner recommendation system.",
+      "url": "https://sentry.io/",
+      "morelink": "Sentry"
+    },
+    {
+      "title": "Grafana 11",
+      "description": "Real-time observability dashboards integrating Prometheus v3 and OpenTelemetry support.",
+      "url": "https://grafana.com/",
+      "morelink": "Grafana"
+    },
+    {
+      "title": "Tailwind CSS 4",
+      "description": "New design tokens, logical property variants, and adaptive theme support for modern UI.",
+      "url": "https://tailwindcss.com/",
+      "morelink": "Tailwind"
+    },
+    {
+      "title": "Framer Motion 3",
+      "description": "Animation sequencing, gesture detection, and physics interpolation for React applications.",
+      "url": "https://www.framer.com/motion/",
+      "morelink": "Framer Motion"
+    },
+    {
+      "title": "HTMX 2.0",
+      "description": "Enhances HTML with modern AJAX, WebSockets, and CSS transitions directly in markup.",
+      "url": "https://htmx.org/",
+      "morelink": "HTMX"
+    },
+    {
+      "title": "AI-Powered Cloud Management",
+      "description": "AI tools predict resource spikes and auto-scale cloud workloads intelligently.",
+      "url": "https://aws.amazon.com/",
+      "morelink": "AWS AI"
+    },
+    {
+      "title": "Azure AI Studio",
+      "description": "Unified Microsoft platform for training, deploying, and managing multimodal AI models.",
+      "url": "https://azure.microsoft.com/",
+      "morelink": "Azure"
+    },
+    {
+      "title": "Google Vertex AI 2",
+      "description": "Google’s advanced AI suite for multimodal training, vector databases, and model monitoring.",
+      "url": "https://cloud.google.com/vertex-ai",
+      "morelink": "Vertex AI"
+    },
+    {
+      "title": "Turbopack",
+      "description": "Rust-based successor to Webpack with 10x faster incremental rebuilds.",
+      "url": "https://turbo.build/pack",
+      "morelink": "Turbopack"
+    },
+    {
+      "title": "ESBuild 2.0",
+      "description": "Go-based JavaScript bundler with incremental builds and plugin support.",
+      "url": "https://esbuild.github.io/",
+      "morelink": "ESBuild"
+    },
+    {
+      "title": "WebAssembly Threads",
+      "description": "Multithreading support for parallel computation in browser-based apps.",
+      "url": "https://webassembly.org/",
+      "morelink": "WASM Threads"
+    },
+    {
+      "title": "AI-Driven Design Systems",
+      "description": "Tools that auto-generate responsive UI components based on Figma mockups and design tokens.",
+      "url": "https://figma.com/",
+      "morelink": "Figma AI"
     }
   ]
 }
