@@ -1,7 +1,7 @@
 {
   "follow": [
     {
-      "followLink": "https://www.logodesignlove.com/",
+      "followLink": "https://www.linkedin.com/in/davidairey",
       "photo": "david_airey.jpg",
       "name": "David Airey"
     },
@@ -14,6 +14,21 @@
       "followLink": "https://www.behance.net/sagmeisterwalsh",
       "photo": "sagmeister_walsh.jpg",
       "name": "Sagmeister & Walsh"
+    },
+    {
+      "followLink": "https://www.linkedin.com/in/natasha-jen-499a7a5/",
+      "photo": "natasha_jen.jpg",
+      "name": "Natasha Jen"
+    },
+    {
+      "followLink": "https://www.lovefrom.com/",
+      "photo": "jony_ive.jpg",
+      "name": "Jony Ive"
+    },
+    {
+      "followLink": "https://www.linkedin.com/in/jessicahische/",
+      "photo": "jessica_hische.jpg",
+      "name": "Jessica Hische"
     }
   ]
 }
