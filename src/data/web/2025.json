@@ -1,8 +1,11 @@
 {
   "2025": [
     {
-      "title": "Generative  UX Components",
-      "description": "On-demand generation of UI components (layouts, icons, copy) using large models tailored to product data and brand tokens.",
+      "title": "Gene",
+      "description": "Genetic Algorithms and AI systems."
+    }
+  ]
+}
       "url": "https://ai.google/",
       "morelink": "GenUX"
     },
