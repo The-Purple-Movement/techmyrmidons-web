@@ -117,8 +117,13 @@
       "folderName": "space-technology"
     },
     {
-      "technology": "Bioinformatics",
+      "technology": "Bioinformatic",
       "logo": "bioinformatics.png",
+      "folderName": "bioinformatics"
+    },
+     {
+      "technology": "generative ai",
+      "logo": "generative-ai.png",
       "folderName": "bioinformatics"
     }
   ]

@@ -1,0 +1,22 @@
+{
+  "2025": [
+    {
+      "title": "Multimodal AI Systems",
+      "description": "Next-generation AI models like GPT-5 and Gemini 1.5 can process text, images, audio, and video together — enabling applications such as AI-driven video editors, assistants, and smart agents.",
+      "url": "https://www.ibm.com/think/topics/multimodal-ai"
+      
+    },
+    {
+      "title": "Generative Agents",
+      "description": "AI agents that combine LLMs with memory, reasoning, and tool-use capabilities to perform complex tasks autonomously — a major step toward real-world AI integration.",
+      "url": "https://arxiv.org/abs/2304.03442"
+    
+    },
+    {
+      "title": "Diffusion Model Frameworks",
+      "description": "Frameworks such as Hugging Face Diffusers and ComfyUI streamline the process of training and deploying text-to-image and video generation models.",
+      "url": "https://huggingface.co/docs/diffusers"
+      
+    }
+]
+}
