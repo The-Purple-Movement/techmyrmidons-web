@@ -30,5 +30,59 @@
         "url": "https://martinfowler.com/articles/micro-frontends.html",
         "morelink": "Microfrontends"
       }
+      {
+  "2024": [
+    {
+      "title": "Next.js 14",
+      "description": "Next.js 14 is a React framework that enables hybrid static & server rendering, TypeScript support, smart bundling, and route pre-fetching. The 2024 release focused on improving AI integration, server actions, and streaming, making it even faster for building modern web applications.",
+      "url": "https://nextjs.org/"
+    },
+    {
+      "title": "Bun 1.0",
+      "description": "Bun is a blazing fast JavaScript runtime, bundler, transpiler, and package manager. In 2024, Bun 1.0 gained rapid popularity for its speed improvements over Node.js and Deno, offering native TypeScript and npm compatibility out of the box.",
+      "url": "https://bun.sh/"
+    },
+    {
+      "title": "Astro",
+      "description": "Astro is a modern front-end framework for building websites with less JavaScript by default. In 2024, Astro 3 brought powerful integration for serverless deployments and partial hydration, letting developers build faster, content-heavy sites with best-in-class performance.",
+      "url": "https://astro.build/"
+    },
+    {
+      "title": "Qwik",
+      "description": "Qwik is a new kind of web framework focusing on instant loading, even for complex sites. Qwik 1.2, released in 2024, introduced better integration with edge computing and optimized resumability for dynamic web apps.",
+      "url": "https://qwik.builder.io/"
+    },
+    {
+      "title": "Svelte 5 (Rethink)",
+      "description": "Svelte is a radical new approach to building UIs. Svelte 5, known as 'Rethink', released in 2024, introduced a new reactive model, making state management and component composition more intuitive while producing extremely small bundles.",
+      "url": "https://svelte.dev/blog/svelte-5-preview"
+    },
+    {
+      "title": "React Server Components",
+      "description": "React Server Components allow developers to build fast, scalable apps by rendering components on the server, sending minimal data to the client. In 2024, support for server actions and loading patterns made RSC production-ready in the React 19 ecosystem.",
+      "url": "https://react.dev/reference/react-server"
+    },
+    {
+      "title": "HTMX",
+      "description": "HTMX enables access to AJAX, CSS Transitions, WebSockets, and Server Sent Events directly in HTML. In 2024, adoption soared as it allowed developers to build highly interactive sites without heavy JavaScript frameworks.",
+      "url": "https://htmx.org/"
+    },
+    {
+      "title": "AI-Enhanced Code Completion (Copilot X)",
+      "description": "GitHub Copilot X, released to general use in 2024, revolutionized code editing by using GPT-4-based LLMs for pair programming, chat, and code completion across IDEs. It greatly boosted productivity with AI-powered suggestions.",
+      "url": "https://github.com/features/preview/copilot-x"
+    },
+    {
+      "title": "Clerk.dev",
+      "description": "Clerk provides complete user management and authentication tools for modern web apps. In 2024, it was commended for its UI components, end-to-end security, and seamless integration with frameworks like Next.js, Remix, and Astro.",
+      "url": "https://clerk.com/"
+    },
+    {
+      "title": "DBRX",
+      "description": "DBRX is an open-source foundation LLM model specialized for database-aware applications and AI-driven data queries, rapidly adopted by SaaS startups in 2024 for integrating AI-powered analytics into their sites.",
+      "url": "https://huggingface.co/collections/databricks/dbrx-65f032b2c942cdcfd1ef80b4"
+    }
+  ]
+}
    ]
 }
