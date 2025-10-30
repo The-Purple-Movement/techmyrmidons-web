@@ -2,13 +2,13 @@
   "2025": [
     {
       "title": "Multimodal AI Systems",
-      "description": "Next-generation AI models like GPT-5 and Gemini 1.5 can process text, images, audio, and video together — enabling applications such as AI-driven video editors, assistants, and smart agents.",
+      "description": "Next-generation AI models like GPT-5 and Gemini 1.5 can process text, images, audio, and video together, enabling applications such as AI-driven video editors, assistants, and smart agents.",
       "url": "https://www.ibm.com/think/topics/multimodal-ai"
       
     },
     {
       "title": "Generative Agents",
-      "description": "AI agents that combine LLMs with memory, reasoning, and tool-use capabilities to perform complex tasks autonomously — a major step toward real-world AI integration.",
+      "description": "AI agents that combine LLMs with memory, reasoning, and tool-use capabilities to perform complex tasks autonomously, a major step toward real-world AI integration.",
       "url": "https://arxiv.org/abs/2304.03442"
     
     },
