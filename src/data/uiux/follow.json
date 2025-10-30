@@ -6,7 +6,7 @@
       "name": "Don Norman"
     },
     {
-      "followLink": "https://www.lukew.com/",
+      "followLink": "https://www.linkedin.com/in/lukew/",
       "photo": "luke_wroblewski.jpg",
       "name": "Luke Wroblewski"
     },
@@ -15,14 +15,35 @@
       "photo": "julie_zhuo.jpg",
       "name": "Julie Zhuo"
     },
-      {
+    {
       "followLink": "https://x.com/heyfarai",
       "photo": "farai-madzima.jpg",
       "name": "Farai Madzima"
+    },
+    {
+      "followLink": "https://www.linkedin.com/in/jakobnielsenphd/",
+      "photo": "jakob_nielsen.jpg",
+      "name": "Jakob Nielsen"
+    },
+    {
+      "followLink": "https://www.linkedin.com/in/scottjenson/",
+      "photo": "scott_jenson.jpg",
+      "name": "Scott Jenson"
+    },
+    {
+      "followLink": "https://www.linkedin.com/in/susanweinschenk/",
+      "photo": "susan_weinschenk.jpg",
+      "name": "Susan Weinschenk"
+    },
+    {
+      "followLink": "https://www.linkedin.com/in/johnmaeda/",
+      "photo": "john_maeda.jpg",
+      "name": "John Maeda"
+    },
+    {
+      "followLink": "https://www.linkedin.com/in/ireneau/",
+      "photo": "irene_au.jpg",
+      "name": "Irene Au"
     }
-
-
   ]
 }
-
-
