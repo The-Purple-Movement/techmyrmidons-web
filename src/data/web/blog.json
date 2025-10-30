@@ -99,6 +99,10 @@
     {
       "blog": "https://www.smile.eu/blog/",
       "author": "Smile Web Dev Blog"
+    },
+    {
+      "blog": "https://anotherblog.example.com/nexttool-guide",
+      "author": "John Smith"
     }
   ]
 }
