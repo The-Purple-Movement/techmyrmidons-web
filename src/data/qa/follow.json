@@ -1,36 +1,69 @@
 {
-
   "follow": [
-
-   {
-      "followLink":"https://twitter.com/gary_masnica",
-      "photo":"gary_masnica.jpg",
-      "name":"Gary Masnica"
-    },
-
     {
-      "followLink":"https://twitter.com/PeteWalen",
-      "photo":"PeteWalen.jpg",
-      "name":"Pete Walen"
+      "followLink": "https://twitter.com/jamesmarcusbach",
+      "photo": "james_bach.jpg",
+      "name": "James Bach"
     },
-
     {
-      "followLink":"https://twitter.com/ajay184f",
-      "photo":"AjayBalamurugadas.jpg",
-      "name":"Ajay Balamurugadas"
+      "followLink": "https://twitter.com/michaelbolton",
+      "photo": "michael_bolton.jpg",
+      "name": "Michael Bolton"
     },
-
     {
-      "followLink":"https://twitter.com/angelovstanton",
-      "photo":"AntonAngelov.jpg",
-      "name":"Anton Angelov"
+      "followLink": "https://twitter.com/lisacrispin",
+      "photo": "lisacrispin.jpg",
+      "name": "Lisa Crispin"
     },
-
     {
-      "followLink":"https://twitter.com/lisacrispin",
-      "photo":"lisacrispin.jpg",
-      "name":"Lisa Crispin"
+      "followLink": "https://twitter.com/goporteous",
+      "photo": "gojko_adic.jpg",
+      "name": "Gojko Adzic"
+    },
+    {
+      "followLink": "https://twitter.com/alancpage",
+      "photo": "alan_page.jpg",
+      "name": "Alan Page"
+    },
+    {
+      "followLink": "https://twitter.com/bretpettichord",
+      "photo": "bret_pettichord.jpg",
+      "name": "Bret Pettichord"
+    },
+    {
+      "followLink": "https://twitter.com/angelovstanton",
+      "photo": "AntonAngelov.jpg",
+      "name": "Anton Angelov"
+    },
+    {
+      "followLink": "https://twitter.com/PeteWalen",
+      "photo": "PeteWalen.jpg",
+      "name": "Pete Walen"
+    },
+    {
+      "followLink": "https://twitter.com/ajay184f",
+      "photo": "AjayBalamurugadas.jpg",
+      "name": "Ajay Balamurugadas"
+    },
+    {
+      "followLink": "https://twitter.com/gary_masnica",
+      "photo": "gary_masnica.jpg",
+      "name": "Gary Masnica"
+    },
+    {
+      "followLink": "https://twitter.com/ministryoftest",
+      "photo": "ministry_of_test.jpg",
+      "name": "Ministry of Testing"
+    },
+    {
+      "followLink": "https://twitter.com/satisfice",
+      "photo": "cem_kaner.jpg",
+      "name": "Cem Kaner"
+    },
+    {
+      "followLink": "https://twitter.com/angiejones",
+      "photo": "angie_jones.jpg",
+      "name": "Angie Jones"
     }
-
   ]
 }
