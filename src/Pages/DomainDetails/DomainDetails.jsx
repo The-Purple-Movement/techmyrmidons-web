@@ -52,7 +52,7 @@ const DomainDetails = () => {
       });
     }
 
-    if (id !== "uiux" && id !== "creativedesign" && id !== "pm" && id.toLowerCase() !== "datascience") {
+    if (id !== "uiux" && id !== "creativedesign" && id !== "pm") {
       import(`../../data/${folder}/blog.json`).then((response) => {
         setBlogs(response.blog);
       });
@@ -115,12 +115,6 @@ const DomainDetails = () => {
             author: item.author ?? item.title,
             blog: item.blog ?? item.url,
           }));
-          setBlogs(mapped);
-        });
-      } else if (id === "DataScience") {
-        import(`../../data/DataScience/datascience_blogs/${year}.json`).then((response) => {
-          const items = response && response[year] ? response[year] : [];
-          const mapped = items.map((item) => ({ author: item.title, blog: item.url }));
           setBlogs(mapped);
         });
       }

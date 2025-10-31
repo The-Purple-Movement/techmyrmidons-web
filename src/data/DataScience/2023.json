@@ -35,6 +35,66 @@
       "description": "Data science platform for datasets, competitions, and community-driven machine learning projects.",
       "url": "https://www.kaggle.com/",
       "morelink": "kaggle"
+    },
+    {
+      "title": "XGBoost",
+      "description": "Optimized gradient boosting library designed for speed and performance in supervised learning tasks.",
+      "url": "https://xgboost.ai/",
+      "morelink": "xgboost"
+    },
+    {
+      "title": "LightGBM",
+      "description": "A fast, distributed, high-performance gradient boosting framework based on decision tree algorithms.",
+      "url": "https://lightgbm.readthedocs.io/",
+      "morelink": "lightgbm"
+    },
+    {
+      "title": "Apache Spark",
+      "description": "Unified analytics engine for large-scale data processing with built-in modules for streaming and ML.",
+      "url": "https://spark.apache.org/",
+      "morelink": "apache-spark"
+    },
+    {
+      "title": "MLflow",
+      "description": "Open-source platform to manage the ML lifecycle, including experimentation, reproducibility, and deployment.",
+      "url": "https://mlflow.org/",
+      "morelink": "mlflow"
+    },
+    {
+      "title": "ONNX",
+      "description": "Open Neural Network Exchange format for representing machine learning models across frameworks.",
+      "url": "https://onnx.ai/",
+      "morelink": "onnx"
+    },
+    {
+      "title": "Seaborn",
+      "description": "Statistical data visualization library built on Matplotlib to create attractive and informative graphics.",
+      "url": "https://seaborn.pydata.org/",
+      "morelink": "seaborn"
+    },
+    {
+      "title": "Altair",
+      "description": "Declarative statistical visualization library for Python, based on Vega and Vega-Lite.",
+      "url": "https://altair-viz.github.io/",
+      "morelink": "altair"
+    },
+    {
+      "title": "Featuretools",
+      "description": "Automated feature engineering library that helps create features for machine learning quickly.",
+      "url": "https://www.featuretools.com/",
+      "morelink": "featuretools"
+    },
+    {
+      "title": "Auto-sklearn",
+      "description": "Automated machine learning toolkit which automatically finds strong models for tabular data.",
+      "url": "https://automl.github.io/auto-sklearn/",
+      "morelink": "auto-sklearn"
+    },
+    {
+      "title": "SHAP",
+      "description": "Explainable AI library for interpreting predictions using Shapley values to quantify feature importance.",
+      "url": "https://github.com/slundberg/shap",
+      "morelink": "shap"
     }
   ]
 }
