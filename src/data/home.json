@@ -126,6 +126,10 @@
       "logo": "bioinformatics.png",
       "folderName": "bioinformatics"
     },
+    {
+      "technology": "Photonics",
+      "logo": "photonics.png",
+      "folderName": "photonics"
      {
       "technology": "generative ai",
       "logo": "generative-ai.png",

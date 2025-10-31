@@ -1,0 +1,39 @@
+{
+   "2019": [
+      {
+        "title": "LDMblue high-power diode laser",
+        "description":"LDMblue revolutionizes the processing of copper, gold and other highly reflective metals in multiple ways.",
+        "url": "https://www.laserline.com/en-int/blue-diode-laser/"
+      },
+      
+      {
+        "title": "SOPRANO",
+        "description":"SOPRANO is a femtosecond laser for material-processing and multiphoton imaging designed for industrial as well as scientific environments and to deliver reliable 24/7 operation.",
+        "url": "https://www.cyclelasers.com/femtosecond-lasers/soprano-ca/"
+      },
+      
+      {
+        "title": "Leica BLK3D",
+        "description":"The BLK3D combines a calibrated stereo camera, measurement sensors, software, and on-device edge detection capabilities to make in-picture measurements with professional-grade accuracy.",
+        "url": "https://blk3d.eu/blk3d/"
+      },
+      
+      {
+        "title": "SPINDLE®",
+        "description":"The SPINDLE® is an attachment for widefield microscopes that captures high-precision, super-resolution 3D imagery of cellular structures down to the single molecular level.",
+        "url": "https://www.doublehelixoptics.com/products/spindle"
+      },
+      
+      {
+        "title": "L-1200 laser system",
+        "description":"The laser cutting and engraving system L-1200 offers unique precision and cut quality at highest cutting speeds, applicable to any material to be processed by individually choosing the right laser power.",
+        "url": "https://www.eurolaser.com/laser-systems/laser-systems-at-a-glance/l-1200"
+      },
+      
+      {
+        "title": "SLIDEVIEW VS200",
+        "description":"The SLIDEVIEW™ VS200 system is designed to capture a wide variety of samples and stains with multiple magnifications, flexible slide sizes, and five versatile imaging modes.",
+        "url": "https://evidentscientific.com/en/products/slide-scanners/vs200"
+      }
+   ]
+}

@@ -1,0 +1,33 @@
+{
+   "2023": [
+      {
+        "title": "Santec SPA-100 O-Band Swept Photonics Analyzer",
+        "description":"The SPA-100 O-Band Swept Photonics Analyzer from Santec leverages the sweeping range of a tunable laser and analyzes compact components such as photonic integrated circuits (PICs), fiber optic elements, and short cable assemblies.",
+        "url": "https://inst.santec.com/news/spa-100-oband-released"
+      },
+      
+      {
+        "title": "Meller Flat Sapphire Windows",
+        "description":"Meller Flat Sapphire Windows is a custom fabricated sapphire windows that are ideally suited for protecting sensitive vison systems and sensors in hypersonic aircraft and weapon systems.",
+        "url": "https://melleroptics.com/flat-sapphire-windows-for-hypersonic-aircraft-weapons/"
+      },
+            
+      {
+        "title": "IRis-C",
+        "description":"The IRis-C is a compact, easy to use, affordable mid-infrared dualcomb spectrometer with a fully integrated electronic and optical design, yet customizable sample interface",
+        "url": "https://bkinstruments.co.kr/site/down.asp?fileName=IRsweep-IRis-C-Datasheet.pdf"
+      },
+
+      {
+        "title": "Gocator® 2540/50",
+        "description":"Gocator 2540/50 laser line profilers deliver the 2500 series’ signature blazing fast scan rates up to 10 kHz, with the added advantage of wider fields of view for greater scan coverage.",
+        "url": "https://lmi3d.com/gocator-2540-2550-high-speed-wider-fov-3d-laser-profile-sensors/"
+      },
+      
+      {
+        "title": "Photonics' VISIQ software",
+        "description":"VISIQ is the first software platform to enable coherent signal analysis on high-performance real-time oscilloscopes from the three leading oscilloscope manufacturers.",
+        "url": "https://www.quantifiphotonics.com/products/software/visiq-coherent-optical-signal-analysis-software/"
+      }
+   ]
+}

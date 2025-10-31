@@ -200,6 +200,14 @@ const Landing = () => {
               description="Bioinformatics is an interdisciplinary field of science that develops methods and software tools for understanding biological data that is large and complex."
               
             />
+            <Card
+              image="/assets/landing/photonics.png"
+              name="Photonics"
+              link="/photonics"
+              description="Photonics is the science, engineering, and technology of generating, controlling, and detecting light waves and photons via electronics."
+              
+            />
+            
              <Card
               image="/assets/landing/generative-ai.png"
               name="Generative AI"
