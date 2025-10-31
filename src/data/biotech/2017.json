@@ -1,32 +1,31 @@
 {
    "2017": [
       {
-        "title": "Ethereum",
-        "description":"Ethereum is a decentralized platform for applications that run exactly as programmed without any chance of fraud, censorship or third-party interference.",
-        "url": "https://www.ethereum.org/",
-        "morelink": "ethereum"
+        "title": "Unnat PBW343",
+        "description":"Unnat PBW 343 is a gene introgressed rust resistant version of mega-variety PBW 343.",
+        "url": "https://pdfs.semanticscholar.org/a49f/ce0530ac541efa209d7ef75730b35f2f0283.pdf"
       },
-
       {
-        "title": "Hyperledger Indy",
-        "description":"Hyperledger Indy is a distributed ledger, purpose-built for decentralized identity. It provides tools, libraries, and reusable components for creating and using independent digital identities rooted on blockchains or other distributed ledgers so that they are interoperable across administrative domains, applications, and any other 'silo'. Because distributed ledgers cannot be altered after the fact, it is essential that use cases for ledger-based identity carefully consider foundational components, including performance, scale, trust model, and privacy. In particular, Privacy by Design and privacy-preserving technologies are critically important for a public identity ledger where correlation can take place on a global scale. <br> For all these reasons, Hyperledger Indy has developed specifications, terminology, and design patterns for decentralized identity along with an implementation of these concepts that can be leveraged and consumed both inside and outside the Hyperledger Consortium.",
-        "url": "https://www.hyperledger.org/projects/hyperledger-indy",
-        "morelink": "indy"
+        "title": "Tisagenlecleucel",
+        "description":"Tisagenlecleucel is the first FDA-approved treatment that included a gene therapy step in the United States.",
+        "url": "https://www.fda.gov/drugs/resources-information-approved-drugs/fda-approves-tisagenlecleucel-b-cell-all-and-tocilizumab-cytokine-release-syndrome"
       },
-
       {
-        "title": "Hyperledger Iroha ",
-        "description":"Hyperledger Iroha is a blockchain platform implementation and one of the Hyperledger projects hosted by The Linux Foundation. Hyperledger Iroha is designed to be simple and easy to incorporate into infrastructural projects requires distributed ledger technology. Hyperledger Iroha features a simple construction; modern, domain-driven C++ design, emphasis on mobile application development and a new, chain-based Byzantine Fault Tolerant consensus algorithm, called Sumeragi. Hyperledger Iroha was initially contributed by Soramitsu, Hitachi, NTT Data and Colu.",
-        "url": "https://www.hyperledger.org/projects/iroha",
-        "morelink": "iroha"
+        "title": "Sohum",
+        "description":"Sohum is a low cost and unique device which uses brainstem auditory evoked response, the gold standard in auditory testing to check for hearing response in a newborn.",
+        "url": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=1495833"
       },
-
       {
-        "title": "Sawtooth",
-        "description":"Zend Framework is a collection of professional PHP packages with more than 76 million installations. It can be used to develop web applications and services using PHP 5.6+, and provides 100% object-oriented code using a broad spectrum of language features.Zend Framework 3 evolved from both Zend Framework 2 and 1.",
-        "url": "https://www.hyperledger.org/projects/sawtooth",
-        "morelink": "sawtooth"
+        "title": "Hemlibra",
+        "description":"Hemlibra is a bispecific factor IXa- and factor X-directed antibody indicated to prevent or reduce the frequency of bleeding episodes in patients with hemophilia A with or without factor VIII inhibitors.",
+        "url": "https://www.drugs.com/history/hemlibra.html"
+      },
+      {
+        "title": "Molecular recorder",
+        "description":"A study has encoded a primitive movie in the DNA of living bacteria cells that replayed it, using CRISPR technology.",
+        "url": "https://www.sciencedaily.com/releases/2017/07/170712145623.htm"
       }
+      
    ]
 
 }
