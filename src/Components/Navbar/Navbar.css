@@ -29,7 +29,7 @@ nav a {
   font-family: "Poppins";
   font-weight: 500;
   font-size: 1.1rem;
-  color: black;
+  color: var(--text);
   text-decoration: none;
 }
 
@@ -103,8 +103,11 @@ nav a:hover {
   }
 }
 
-@media only screen and (max-width: 500px) {
-  nav {
-    width: 60%;
-  }
+.header a {
+  color: var(--text);
+  text-decoration: none;
+}
+
+.header a:hover {
+  color: var(--link);
 }

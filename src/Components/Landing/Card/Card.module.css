@@ -8,7 +8,9 @@
   width: 310px;
   height: 475px;
 
-  background: #ffffff;
+  background: var(--card);
+  color: var(--text);
+  border: 1px solid var(--elev);
   box-shadow: 8px 8px 28px rgba(0, 0, 0, 0.12);
   border-radius: 17px;
   margin: 1rem 0;
