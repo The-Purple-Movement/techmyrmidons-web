@@ -1,0 +1,31 @@
+
+{
+  "2022": [
+    {
+      "title": "Dell Project Frontier",
+      "description": "Dell Technologies introduces Project Frontier, which will deliver an edge operations software platform, integrated with Dell’s edge portfolio, for customers to more securely manage and orchestrate edge applications and infrastructure for deployments at global scale.",
+      "url": "https://www.dell.com/en-us/blog/get-your-edge-together-with-project-frontier/"
+    },
+    {
+      "title": "HPE Aruba Networking EdgeConnect Microbranch",
+      "description": "HPE Aruba Networking EdgeConnect Microbranch solution adds advanced SD-WAN and SASE capabilities to deliver a cloudmanaged, enterprise-grade solution for the home office or small office as part of a hybrid work environment.",
+      "url": "https://www.hpe.com/psnow/doc/a00119570enw"
+    },
+    {
+      "title": "AKD1000 AI Chip",
+      "description": "BrainChip Achieves Full Commercialization of Akida AKD1000 Processor.",
+      "url": "https://investor.brainchip.com/brainchip-achieves-full-commercialization-of-akida-akd1000-processor/"
+    },
+    {
+      "title": "Netskope Borderless WAN",
+      "description": "Netskope Borderless SD-WAN includes built-in routing, a transport-agnostic approach that supports both wired and wireless WAN networking (4G/5G), app-aware QoE enforcement combined with policy-based traffic steering, and integrated network security functions critical for deployment at the edge.",
+      "url": "https://www.netskope.com/blog/introducing-netskope-borderless-sd-wan"
+    },
+    {
+      "title": "First 5G Edge Developer Community",
+      "description": "Alef announced the launch of the first edge developer community aimed at making private wireless networking easy and affordable. The global community of 5,000 developers will collaborate to build mobility-based applications that address enterprise connectivity challenges.",
+      "url": "hhttps://alefedge.com/2022/11/03/alef-launches-first-5g-edge-developer-community-to-advance-enterprise-adoption-of-mobility-as-a-service-apis/"
+    }
+  
+  ]
+}
