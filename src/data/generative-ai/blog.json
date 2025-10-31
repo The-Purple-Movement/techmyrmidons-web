@@ -1,0 +1,20 @@
+{
+  "blog": [
+
+    {
+      "blog": "https://aws.amazon.com/blogs/machine-learning/category/artificial-intelligence/generative-ai/",
+      "author":" Generative AI "
+    },
+
+    {
+      "blog": "https://github.blog/ai-and-ml/generative-ai/",
+      "author":"Latest in Generative AI"
+    },
+
+    {
+      "blog": "https://www.datacamp.com/blog/agi",
+      "author":"Artificial General Intelligence (AGI): Predictions, Risks, Challenges"
+    }
+
+  ]
+}

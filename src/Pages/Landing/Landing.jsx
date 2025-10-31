@@ -194,6 +194,13 @@ const Landing = () => {
               description="Bioinformatics is an interdisciplinary field of science that develops methods and software tools for understanding biological data that is large and complex."
               
             />
+             <Card
+              image="/assets/landing/generative-ai.png"
+              name="Generative AI"
+              link="/generative-ai"
+              description="Generative AI is a type of artificial intelligence that creates new content, such as text, images, code, or audio, based on the patterns it learned from large datasets."
+              
+            />
           </div>
         </div>
 
