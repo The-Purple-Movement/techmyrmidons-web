@@ -36,6 +36,11 @@
       "folderName": "qa"
     },
     {
+      "technology": "Biotechnology",
+      "logo": "biotechnology.png",
+      "folderName": "biotech"
+    },
+    {
       "technology": "Blockchain",
       "logo": "blockchain-logo.png",
       "folderName": "blockchain"

@@ -92,7 +92,7 @@ const Landing = () => {
               description="AI which stands for artificial intelligence refers to systems or machines that mimic human intelligence to perform tasks."
             />
             <Card
-              image="/assets/landing/ai.png"
+              image="/assets/landing/datascience.png"
               name="Data Science"
               link="/DataScience"
               description="Data Science combines statistics, programming, and domain knowledge to extract insights from data."
@@ -116,6 +116,12 @@ const Landing = () => {
               name="Quantum Computing"
               link="/quantum-computing"
               description="A rapidly-emerging technology that harnesses the laws of quantum mechanics to solve issues too hard for computers."
+            />
+            <Card
+              image="/assets/landing/biotechnology.png"
+              name="Biotechnology"
+              link="/biotech"
+              description="Biotechnology utilizes biological systems, living organisms or parts of this to develop or create different products."
             />
             <Card
               image="/assets/landing/pm.png"

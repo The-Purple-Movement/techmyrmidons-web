@@ -1,15 +1,15 @@
 {
   "2025": [
     {
-      "title": "Biotech market forecast hits $5.85T by 2034",
-      "description": "In 2025, global biotech valuation ranged from $1.03T to $1.68T with projections hitting $5.85T by 2034, driven by precision medicine, gene therapies, and synthetic biology.",
-      "url": "https://www.fortunebusinessinsights.com/biotechnology-market-102701",
+        "title": "Biotech ingredients market forecast hits USD 3.91B by 2032",
+        "description": "The global biotech ingredients market is projected to grow from USD 2.32 billion in 2025 to USD 3.91 billion by 2032, driven by precision medicine, gene therapies, and synthetic biology.",
+      "url": "https://www.fortunebusinessinsights.com/biotech-ingredients-market-113927",
       "morelink": "Fortune Business Insights"
     },
     {
       "title": "CRISPR + lipid delivery breakthroughs expand reach",
-      "description": "Biotech firms advanced CRISPR gene editing with lipid nanoparticle delivery systems in 2025, improving targeting, delivery, and scalability for in vivo applications.",
-      "url": "https://www.nature.com/articles/s41587-025-0001",
+      "description": "Researchers used a thermostable Cas9 with lipid nanoparticles to achieve efficient in vivo genome editing in liver and lungs, improving targeting, delivery, and scalability.",
+      "url": "https://www.nature.com/articles/s41587-024-02437-3",
       "morelink": "Nature Biotechnology"
     },
     {
@@ -20,38 +20,38 @@
     },
     {
       "title": "Synthetic biology scales biomanufacturing",
-      "description": "2025 saw synthetic biology advance scalable biomanufacturing for biofuels, enzymes, and pharmaceuticals, supported by engineered microbes and fermentation breakthroughs.",
-      "url": "https://www.synbiobeta.com/news",
+      "description": "2025 marks a pivot for synthetic biology with the focus shifting from niche high‑value products to commodity‑scale biomanufacturing.",
+      "url": "https://www.synbiobeta.com/read/beyond-the-hype-patrick-rose-calls-for-a-new-era-of-biomanufacturing-at-synbiobeta-2025",
       "morelink": "SynBioBeta"
     },
     {
       "title": "3D bioprinting grows for implants and organoids",
-      "description": "Bioprinting startups delivered tissue and cartilage models, while research groups printed patient-specific organoids for drug screening and regenerative medicine.",
-      "url": "https://www.labiotech.eu/medical/3d-bioprinting-clinical-advances/",
+      "description": "Research groups develop tissue and cartilage models and print patient-specific organoids for drug screening and regenerative medicine.",
+      "url": "https://www.labiotech.eu/in-depth/the-future-of-organ-transplants/",
       "morelink": "Labiotech.eu"
     },
     {
-      "title": "Real-world evidence (RWE) trials gain global traction",
-      "description": "Biopharma companies increasingly adopted RWE trials in 2025 to support regulatory submissions, integrating wearable data and digital biomarkers.",
-      "url": "https://www.biopharmadive.com/news/real-world-evidence-trials-2025-growth/608412/",
+      "title": "Retail pharmacy partnerships power real-world evidence for biopharma",
+      "description": "Biopharma companies are collaborating with community pharmacies to capture real-world patient data, enhance recruitment and post-market insights.",
+      "url": "https://www.biopharmadive.com/spons/retail-pharmacies-biopharmas-bridge-to-better-patient-experiences-and-out/737533/",
       "morelink": "BioPharma Dive"
     },
     {
-      "title": "Biotech startups boom: epigenetics & proteomics",
-      "description": "Over 5,800 startups were active in 2025, with major VC interest in epigenetics, single-cell proteomics, and spatial transcriptomics driving a new innovation wave.",
-      "url": "https://www.genengnews.com/topics/genome-editing/top-biotech-startups-to-watch-2025/",
+      "title": "Epigenetic inheritance of longevity signals in C. elegans",
+      "description": "A new study in C. elegans shows parental lysosomal changes trigger epigenome modifications to promote longevity across generations.",
+      "url": "https://www.genengnews.com/topics/omics/epigenetic-mechanisms-explain-inheritance-of-longevity-markers-in-c-elegans/",
       "morelink": "GEN"
     },
     {
-      "title": "Automation reshapes biomanufacturing",
-      "description": "Biotech labs adopted robotics, cloud-native LIMS, and AI scheduling systems for end-to-end automated workflows, improving throughput and reproducibility.",
-      "url": "https://www.biotechniques.com/news/ai-lab-automation/",
+      "title": "AI and automation redefine life-science workflows",
+      "description": "SLAS 2025 conference explores how robotics, AI-driven systems and cloud-native data platforms transform laboratory and biomanufacturing operations.",
+      "url": "https://www.biotechniques.com/lab-design-machinery/slas2025-innovation-automation-and-ai-shape-the-future-of-life-sciences/",
       "morelink": "BioTechniques"
     },
     {
-      "title": "EU & global biotech regulatory frameworks updated",
-      "description": "In 2025, the EU and other jurisdictions reformed biotech regulations, introducing harmonized R&D approval, gene therapy fast lanes, and cross-border trial rules.",
-      "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/biotech-innovation-2025",
+      "title": "EU advances biotech regulation with new Biotech Act initiative",
+      "description": "In 2025, the European Commission launched the Biotech Act public consultation to streamline biotech regulation across sectors and simplify approval pathways for clinical trials and biomanufacturing",
+      "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14627-Biotech-Act_en",
       "morelink": "EU Biotech Regulation"
     }
   ]

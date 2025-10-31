@@ -1,31 +1,29 @@
 {
    "2018": [
       {
-        "title": "Ethereum",
-        "description":"Ethereum is a decentralized platform for applications that run exactly as programmed without any chance of fraud, censorship or third-party interference.",
-        "url": "https://www.ethereum.org/",
-        "morelink": "ethereum"
+        "title": "CRISPR babies",
+        "description":"The world's first babies with CRISPR-Cas9 (Clustered Regularly Interspaced Short Palindromic Repeats)–edited genes were born.",
+        "url": "https://www.nature.com/articles/d41586-018-07607-3"
       },
-
       {
-        "title": "Hyperledger Indy",
-        "description":"Hyperledger Indy is a distributed ledger, purpose-built for decentralized identity. It provides tools, libraries, and reusable components for creating and using independent digital identities rooted on blockchains or other distributed ledgers so that they are interoperable across administrative domains, applications, and any other 'silo'. Because distributed ledgers cannot be altered after the fact, it is essential that use cases for ledger-based identity carefully consider foundational components, including performance, scale, trust model, and privacy. In particular, Privacy by Design and privacy-preserving technologies are critically important for a public identity ledger where correlation can take place on a global scale. <br> For all these reasons, Hyperledger Indy has developed specifications, terminology, and design patterns for decentralized identity along with an implementation of these concepts that can be leveraged and consumed both inside and outside the Hyperledger Consortium.",
-        "url": "https://www.hyperledger.org/projects/hyperledger-indy",
-        "morelink": "indy"
-      },  
-
-      {
-        "title": "Hyperledger Iroha ",
-        "description":"Hyperledger Iroha is a blockchain platform implementation and one of the Hyperledger projects hosted by The Linux Foundation. Hyperledger Iroha is designed to be simple and easy to incorporate into infrastructural projects requires distributed ledger technology. Hyperledger Iroha features a simple construction; modern, domain-driven C++ design, emphasis on mobile application development and a new, chain-based Byzantine Fault Tolerant consensus algorithm, called Sumeragi. Hyperledger Iroha was initially contributed by Soramitsu, Hitachi, NTT Data and Colu.",
-        "url": "https://www.hyperledger.org/projects/iroha",
-        "morelink": "iroha"
+        "title": "Genetically modified houseplant cleans indoor air",
+        "description":"Plants were genetically modified to produce cytochrome P450 2E1 (2E1), a key enzyme in mammals that helps clear toxins from the body.",
+        "url": "https://pubs.acs.org/doi/pdf/10.1021/acs.est.8b04811#"
       },
-
       {
-        "title": "Sawtooth",
-        "description":"Zend Framework is a collection of professional PHP packages with more than 76 million installations. It can be used to develop web applications and services using PHP 5.6+, and provides 100% object-oriented code using a broad spectrum of language features.Zend Framework 3 evolved from both Zend Framework 2 and 1.",
-        "url": "https://www.hyperledger.org/projects/sawtooth",
-        "morelink": "sawtooth"
+        "title": "Synthetic T-cells using microfluidics",
+        "description":"Researchers were able to replicate T cell's shape, size and flexibility, which enable it to perform its basic functions of targeting and homing in on infections.",
+        "url": "https://www.sciencedaily.com/releases/2018/06/180627160118.htm"
+      },
+      {
+        "title": "pleuraGoh",
+        "description":"PleuraGoh is a cost-effective catheter fixation device for reducing iatrogenic injuries and improve reliability of tube-thoracostomy treatment.",
+        "url": "https://www.unino.in/post.html"
+      },
+      {
+        "title": "Aptamer-Based TB Antigen Tests",
+        "description":"DNA aptamer-based diagnostic tests, ALISA and ECS, have potential utility in active case finding in high-risk groups and screening for pulmonary T",
+        "url": "https://pubs.acs.org/doi/10.1021/acsinfecdis.8b00201"
       }
    ]
 

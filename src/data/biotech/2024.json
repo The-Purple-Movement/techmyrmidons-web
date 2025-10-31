@@ -3,31 +3,31 @@
     {
       "title": "Casgevy CRISPR therapy launches in US and UK",
       "description": "Vertex and CRISPR Therapeutics launched the world’s first approved CRISPR therapy—Casgevy—for sickle cell and beta-thalassemia.",
-      "url": "https://www.crisprtx.com/",
+      "url": "https://investors.vrtx.com/news-releases/news-release-details/vertex-and-crispr-therapeutics-announce-authorization-first",
       "morelink": "CRISPR Therapeutics"
     },
     {
       "title": "Generative AI in bioinformatics surges",
-      "description": "2024 saw GenAI tools used for protein design, genomic diagnostics, and disease modeling, with open models like ESMFold and RoseTTAFold2 gaining traction.",
-      "url": "https://ai.facebook.com/research/publications/esmf/",
+      "description": "Research highlights how AlphaFold2, ESMFold, and RoseTTAFold2 are driving generative AI applications in protein structure prediction, design, and structure‑based bioinformatics",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10936637/",
       "morelink": "Meta AI"
     },
     {
       "title": "Biotech IPOs rebound to $8.52B",
       "description": "After 2022–23 stagnation, biotech IPOs rose by 68.4% to $8.52 billion globally, driven by oncology and rare disease startups.",
-      "url": "https://www.biopharmadive.com/news/biotech-ipo-market-outlook-2024/652831/",
+      "url": "https://biovoicenews.com/biotech-ipos-surge-68-4-yoy-to-8-52-billion-in-2024-amid-public-market-recovery-reveals-globaldata/",
       "morelink": "BioPharma Dive"
     },
     {
       "title": "AI in clinical trials grows",
       "description": "AI-driven patient selection, trial simulation, and real-time analysis became widely adopted by CROs and pharma companies.",
-      "url": "https://www.nature.com/articles/s41587-024-00032-x",
+      "url": "https://www.appliedclinicaltrialsonline.com/view/ai-in-clinical-trials-the-future-of-drug-discovery",
       "morelink": "Nature Biotech"
     },
     {
-      "title": "Bioprinting used in regenerative therapies",
-      "description": "3D bioprinting progressed from prototyping to clinical trial stages, including cartilage repair and drug screening via organoids.",
-      "url": "https://www.genengnews.com/news/3d-bioprinting-reaches-clinic/",
+        "title": "Bioprinting used in regenerative therapies",
+        "description": "3D bioprinting progressed from prototyping to clinical trial stages, including cartilage repair and drug screening via organoids.",
+        "url": "https://academic.oup.com/rb/article/doi/10.1093/rb/rbae033/7635242",
       "morelink": "GEN"
     }
   ]
