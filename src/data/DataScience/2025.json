@@ -35,6 +35,66 @@
       "description": "Collaborative notebook platform designed for data teams to share and build analyses together.",
       "url": "https://deepnote.com/",
       "morelink": "deepnote"
+    },
+    {
+      "title": "Delta Lake",
+      "description": "Storage layer that brings ACID transactions to data lakes for reliable data engineering and analytics.",
+      "url": "https://delta.io/",
+      "morelink": "delta-lake"
+    },
+    {
+      "title": "Trino",
+      "description": "Distributed SQL query engine for running interactive analytic queries across data sources.",
+      "url": "https://trino.io/",
+      "morelink": "trino"
+    },
+    {
+      "title": "ZenML",
+      "description": "MLOps framework that standardizes and automates reproducible ML pipelines.",
+      "url": "https://zenml.io/",
+      "morelink": "zenml"
+    },
+    {
+      "title": "Flyte",
+      "description": "Cloud-native workflow automation platform for building scalable and maintainable ML pipelines.",
+      "url": "https://flyte.org/",
+      "morelink": "flyte"
+    },
+    {
+      "title": "Pachyderm",
+      "description": "Data versioning and pipeline orchestration system that brings Git-like semantics to data.",
+      "url": "https://www.pachyderm.com/",
+      "morelink": "pachyderm"
+    },
+    {
+      "title": "Kedro",
+      "description": "Opinionated, open-source Python framework for building robust data and ML pipelines.",
+      "url": "https://kedro.org/",
+      "morelink": "kedro"
+    },
+    {
+      "title": "CausalML",
+      "description": "Libraries and tools for causal inference and uplift modeling used in data-driven decision making.",
+      "url": "https://causalml.readthedocs.io/",
+      "morelink": "causalml"
+    },
+    {
+      "title": "Apache TVM",
+      "description": "End-to-end deep learning compiler stack for optimizing and deploying models on diverse hardware.",
+      "url": "https://tvm.apache.org/",
+      "morelink": "apache-tvm"
+    },
+    {
+      "title": "OpenTelemetry",
+      "description": "Observability framework for collecting telemetry (metrics, logs, traces) from ML systems in production.",
+      "url": "https://opentelemetry.io/",
+      "morelink": "opentelemetry"
+    },
+    {
+      "title": "Seldon Core",
+      "description": "Open-source platform for deploying, scaling and monitoring machine learning models on Kubernetes.",
+      "url": "https://www.seldon.io/",
+      "morelink": "seldon-core"
     }
   ]
 }
