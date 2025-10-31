@@ -1,0 +1,35 @@
+{
+  "2017": [
+    {
+      "title": "AWS IoT Greengrass",
+      "description": "AWS IoT Greengrass is an open-source edge runtime and cloud service for building, deploying, and managing device software.",
+      "url": "https://aws.amazon.com/greengrass/"
+    },
+    {
+      "title": "EC-IoT Solution",
+      "description": "Edge-Computing-IoT (EC-IoT) Solution allows edge nodes to provide intelligent services nearby and implements network management in the cloud.",
+      "url": "https://www.huawei.com/en/news/2017/3/huawei-launched-edge-computing-iot-solution"
+    },
+    {
+      "title": "Multi-access Edge Computing",
+      "description": "ETSI’s Mobile Edge Computing Industry Specification Group  renames to Multi-access Edge Computing to address multiple MEC hosts being deployed in many different networks, owned by various operators and running edge applications in a collaborative manner.",
+      "url": "https://www.etsi.org/newsroom/news/1180-2017-03-news-etsi-multi-access-edge-computing-starts-second-phase-and-renews-leadership-team"
+    },
+    {
+      "title": "Cloudflare Workers",
+      "description": "Cloudflare Workers is a JavaScript edge runtime on Cloudflare CDN.",
+      "url": "https://workers.cloudflare.com/"
+    },
+    {
+      "title": "Azure IoT Edge",
+      "description": "Azure IoT Edge is a device-focused runtime that enables to deploy, run, and monitor containerized Linux workloads, bringing analytics closer to your devices for faster insights and offline decision-making.",
+      "url": "https://azure.microsoft.com/en-us/products/iot-edge"
+    },
+    {
+      "title": "TSN switches",
+      "description": "Broadcom Introduces First Fully Compliant TSN Ethernet Switch.",
+      "url": "https://www.broadcom.com/company/news/product-releases/12041"
+    }
+    
+  ]
+}

@@ -165,7 +165,6 @@ const Landing = () => {
               link="/foss"
               description="FOSS (Free and Open Source Software) is software that anyone can use, modify, and share freely. It promotes collaboration, transparency, and community-driven development."
             />
-
             <Card
               image="/assets/landing/database.png"
               name="Database"
@@ -177,43 +176,42 @@ const Landing = () => {
               name="Embedded Systems"
               link="/embedded-system"
               description="An embedded system is a computer system designed to perform tasks within a larger mechanical or electronic device."
-              
             />
             <Card
               image="/assets/landing/robotics.png"
               name="Robotics & Automation"
               link="/robotics-automation"
-              description="Robotics & Automation is the integration of programmable machines with automated systems to perform tasks."
-              
+              description="Robotics & Automation is the integration of programmable machines with automated systems to perform tasks." 
             />
             <Card
               image="/assets/landing/space-technology.png"
               name="Space Technology"
               link="/space-technology"
               description="Space technology is the collection of advanced engineering systems, tools, and methods developed to explore Earth’s atmosphere—including satellites, spacecraft, launch vehicles."
-              
             />
             <Card
               image="/assets/landing/bioinformatics.png"
               name="Bioinformatics"
               link="/bioinformatics"
               description="Bioinformatics is an interdisciplinary field of science that develops methods and software tools for understanding biological data that is large and complex."
-              
             />
             <Card
               image="/assets/landing/photonics.png"
               name="Photonics"
               link="/photonics"
-              description="Photonics is the science, engineering, and technology of generating, controlling, and detecting light waves and photons via electronics."
-              
+              description="Photonics is the science, engineering, and technology of generating, controlling, and detecting light waves and photons via electronics."          
             />
-            
              <Card
               image="/assets/landing/generative-ai.png"
               name="Generative AI"
               link="/generative-ai"
               description="Generative AI is a type of artificial intelligence that creates new content, such as text, images, code, or audio, based on the patterns it learned from large datasets."
-              
+            />
+            <Card
+              image="/assets/landing/edgecomputing.png"
+              name="Edge Computing"
+              link="/edgecomputing"
+              description="Edge computing is a distributed computing model that brings computation and data storage closer to the sources of data."    
             />
           </div>
         </div>

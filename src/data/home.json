@@ -134,6 +134,11 @@
       "technology": "Generative AI",
       "logo": "generative-ai.png",
       "folderName": "generative-ai"
+    },
+    {
+      "technology": "Edge Computing",
+      "logo": "edgecomputing.png",
+      "folderName": "edgecomputing"
     }
   ]
 }

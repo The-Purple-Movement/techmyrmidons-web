@@ -1,0 +1,15 @@
+{
+  "follow": [
+    {
+      "followLink": "https://x.com/karpathy",
+      "photo": "Andrej Karpathy.jpg",
+      "name": "Andrej Karpathy"
+    },
+    {
+      "followLink": "https://x.com/Werner",
+      "photo": "Werner Vogels.jpg",
+      "name": "Werner Vogels"
+    }
+
+  ]
+}

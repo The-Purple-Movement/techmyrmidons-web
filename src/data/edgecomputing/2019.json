@@ -1,0 +1,30 @@
+{
+  "2019": [
+    {
+      "title": "Azure Stack Edge",
+      "description": "Azure Stack Edge acts as a cloud storage gateway and enables eyes-off data transfers to Azure, while retaining local access to files.",
+      "url": "https://azure.microsoft.com/en-au/products/azure-stack/edge"
+    },
+    {
+      "title": "Home Edge Project",
+      "description": "HomeEdge is a robust, reliable and intelligent home edge computing open source framework and ecosystem running on a variety of devices at home.",
+      "url": "https://lfedge.org/projects/home-edge/"
+    },
+    {
+      "title": "NVIDIA EGX",
+      "description": "NVIDIA EGX is an accelerated computing platform that enables companies to perform low-latency AI at the edge to perceive, understand and act in real time on continuous streaming data between 5G base stations, warehouses, retail stores, factories and beyond.",
+      "url": "https://www.nvidia.com/en-us/data-center/products/egx/"
+    },
+    {
+      "title": "Project EVE",
+      "description": "Project EVE (Edge Virtualization Engine) is a framework for edge application management in the enterprise.",
+      "url": "https://lfedge.org/projects/eve/"
+    },
+    {
+      "title": "ASUS Tinker Edge T",
+      "description": "Tinker Edge T is a single-board computer (SBC) capable of performing four tera-operations per second (TOPS) using only 0.5 watts per unit of computation.",
+      "url": "https://www.asus.com/uk/networking-iot-servers/aiot-industrial-solutions/all-series/tinker-edge-t/"
+    }
+  
+  ]
+}

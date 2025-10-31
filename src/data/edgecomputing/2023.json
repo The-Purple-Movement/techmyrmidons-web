@@ -1,0 +1,25 @@
+
+{
+  "2023": [
+    {
+      "title": "Raspberry Pi 5",
+      "description": "Raspberry Pi 5 featuring a 64-bit quad-core Arm Cortex-A76 processor running at 2.4GHz delivers a 2–3× increase in CPU performance relative to Raspberry Pi 4.",
+      "url": "https://www.raspberrypi.com/products/raspberry-pi-5/"
+    },
+    {
+      "title": "Dell NativeEdge",
+      "description": "Dell NativeEdge is an edge operations software platform, designed to help businesses simplify and optimize secure edge deployments.",
+      "url": "https://www.dell.com/en-us/lp/dt/edge-solutions-nativeedge"
+    },
+    {
+      "title": "VMware Edge Cloud Orchestrator™",
+      "description": "VMware Edge Cloud Orchestrator uses a single console for edge compute infrastructure, networking, and security, organizations will be able to run edge-native applications focused on business outcomes.",
+      "url": "https://blogs.vmware.com/sase/2023/08/22/manage-the-software-defined-edge-with-vmware-edge-cloud-orchestrator/"
+    },
+    {
+      "title": "AMD Completes 4th Gen EPYC Family with the AMD EPYC 8004 Processors",
+      "description": "AMD introduced the EPYC 8004 Series processors in 2023, purpose-built for cloud services, intelligent edge, and telecommunications deployments. Featuring efficient Zen 4c cores, these chips deliver optimized performance, power efficiency, and scalability for edge servers and IoT applications, extending AMD’s leadership in data center and edge computing.",
+      "url": "https://ir.amd.com/news-events/press-releases/detail/1156/amd-completes-4th-gen-epyc-family-with-the-amd-epyc-8004-processors-purpose-built-for-cloud-services-intelligent-edge-and-telco"
+    }
+  ]
+}
