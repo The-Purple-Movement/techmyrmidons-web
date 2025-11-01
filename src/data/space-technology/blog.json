@@ -1,38 +1,72 @@
 {
   "blog": [
-
     {
       "blog": "https://www.space.com/",
-      "author":"Space.com"
+      "author": "Space.com"
     },
-
     {
       "blog": "https://www.universetoday.com/",
-      "author":"Universe Today"
+      "author": "Universe Today"
     },
-
     {
       "blog": "https://earthsky.org/space/",
-      "author":"EarthSky"
+      "author": "EarthSky"
     },
-
     {
       "blog": "https://www.nasa.gov/nasa-blogs/",
-      "author":"NASA Blogs"
+      "author": "NASA"
     },
-
     {
       "blog": "https://www.sierraspace.com/blog/",
-      "author":"Sierra Space"
+      "author": "Sierra Space"
     },
-
     {
       "blog": "https://nss.org/category/blog/",
-      "author":"NSS"
+      "author": "NSS"
     },
     {
       "blog": "https://cosmicfrontiers.org/",
-      "author":"Cosmic Frontiers"
+      "author": "Cosmic Frontiers"
+    },
+    {
+      "blog": "https://www.insights.onegiantleap.com/blogs/3-trends-for-the-space-tech-sector-in-2025/",
+      "author": "LEAP:IN"
+    },
+    {
+      "blog": "https://www.amadeuscapital.com/space-tech-stack-2025-mapping-value-from-ground-to-orbit-and-back/",
+      "author": "Amadeus Capital"
+    },
+    {
+      "blog": "https://blog.satsearch.co/2025-01-24-whats-next-for-newspace-in-2025-and-beyond",
+      "author": "Satsearch"
+    },
+    {
+      "blog": "https://www.lockheedmartin.com/en-us/news/features/2024/space-technology-trends-2025.html",
+      "author": "Lockheed Martin"
+    },
+    {
+      "blog": "https://www.captechu.edu/blog/space-cybersecurity-and-ai-trends-watch-2025-and-beyond",
+      "author": "CapTech University"
+    },
+    {
+      "blog": "https://www.wazoku.com/blog/emerging-space-technologies-revolutionizing-space-and-satellite-capabilities/",
+      "author": "Wazoku"
+    },
+    {
+      "blog": "https://www.materion.com/insights/blog/six-key-trends-shaping-space-technology",
+      "author": "Materion"
+    },
+    {
+      "blog": "https://www.ses.com/blog/ses-2025-predictions-multi-orbit-satellites-will-drive-innovation-enterprises-governments-and",
+      "author": "SES"
+    },
+    {
+      "blog": "https://eos.com/blog/eosda-reflects-on-satellite-industry-trends-for-2025/",
+      "author": "EOSDA"
+    },
+    {
+      "blog": "https://www.telesat.com/blog/accelerating-innovation-in-space-telesat-lightspeed-and-the-trends-shaping-2025/",
+      "author": "Telesat"
     }
   ]
 }

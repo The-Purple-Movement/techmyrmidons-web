@@ -1,19 +1,56 @@
 {
   "blog": [
-
     {
       "blog": "https://pal-robotics.com/blog/",
-      "author":"PAL"
+      "author": "PAL Robotics"
     },
-
     {
       "blog": "https://www.universal-robots.com/blog/",
-      "author":"Universal Robots"
+      "author": "Universal Robots"
     },
-
     {
       "blog": "https://standardbots.com/blog/robotics-blog",
-      "author":"Standard Bots"
+      "author": "Standard Bots"
+    },
+    {
+      "blog": "https://www.automate.org/robotics/blogs",
+      "author": "Association for Advancing Automation"
+    },
+    {
+      "blog": "https://aiut.com/en/blog/robotics-trends-for-2025/",
+      "author": "AIUT"
+    },
+    {
+      "blog": "https://dorna.ai/blog/robotics-trend/",
+      "author": "Dorna Robotics"
+    },
+    {
+      "blog": "https://addverb.com/blog/trends-in-robotics-technology-shaping-industries/",
+      "author": "Addverb"
+    },
+    {
+      "blog": "https://www.hitbotrobot.com/the-top-5-robotics-automation-trends/",
+      "author": "HitBotRobot"
+    },
+    {
+      "blog": "https://www.uipath.com/blog/automation",
+      "author": "UiPath"
+    },
+    {
+      "blog": "https://www.extendaretail.com/blog/wms/warehouse-automation-trends-in-2025-from-robotics-to-ai-and-machine-learning/",
+      "author": "ExtendA Retail"
+    },
+    {
+      "blog": "https://innowise.com/blog/rpa-market-trends/",
+      "author": "Innowise"
+    },
+    {
+      "blog": "https://durolabs.co/blog/robotics-trends/",
+      "author": "Duro Labs"
+    },
+    {
+      "blog": "https://www.marketsandmarkets.com/blog/SE/future-industrial-automation",
+      "author": "MarketsandMarkets"
     }
   ]
 }

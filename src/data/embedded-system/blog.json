@@ -1,20 +1,56 @@
 {
   "blog": [
-
     {
       "blog": "https://embeddedrelated.com/",
-      "author":"EmbeddedRelated"
+      "author": "EmbeddedRelated"
     },
-
     {
       "blog": "http://embedded.com/",
-      "author":"Embedded"
+      "author": "Embedded"
     },
-
     {
       "blog": "https://interrupt.memfault.com/",
-      "author":"Interrupt"
+      "author": "Interrupt"
+    },
+    {
+      "blog": "https://www.ezurio.com/resources/blog/the-top-trends-in-embedded-development-for-2025-beyond",
+      "author": "Ezurio"
+    },
+    {
+      "blog": "https://www.wirtek.com/blog/q3-2025-7-embedded-software-trends-powering-smarter-energy-systems",
+      "author": "Wirtek"
+    },
+    {
+      "blog": "https://www.embedded.com/embedded-world-2025-recap-of-latest-innovations/",
+      "author": "Embedded.com"
+    },
+    {
+      "blog": "https://www.promwad.com/news/top-5-trends-in-embedded-systems-2025",
+      "author": "Promwad"
+    },
+    {
+      "blog": "https://www.jaycon.com/7-embedded-vision-technologies-of-2025/",
+      "author": "Jaycon"
+    },
+    {
+      "blog": "https://intechhouse.com/blog/5-top-embedded-system-trends-to-watch-in-2025/",
+      "author": "InTechHouse"
+    },
+    {
+      "blog": "https://www.n-ix.com/embedded-software-trends/",
+      "author": "N-iX"
+    },
+    {
+      "blog": "https://blog.cranksoftware.com/embedded-devices-and-hmi-trends-to-look-out-for-in-2025",
+      "author": "Crank Software"
+    },
+    {
+      "blog": "https://www.momenta.one/insights/industrial-innovation-trends-momenta",
+      "author": "Momenta"
+    },
+    {
+      "blog": "https://bacancysystems.com/blog/embedded-systems-trends",
+      "author": "Bacancy Systems"
     }
-
   ]
 }
