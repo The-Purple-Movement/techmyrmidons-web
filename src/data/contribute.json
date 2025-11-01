@@ -1,0 +1,122 @@
+{
+  "domains": [
+    {
+      "name": "Android",
+      "description": "Mobile app development for Android devices",
+      "path": "/android"
+    },
+    {
+      "name": "iOS",
+      "description": "Mobile app development for Apple devices",
+      "path": "/ios"
+    },
+    {
+      "name": "DevOps",
+      "description": "Development operations, CI/CD, and infrastructure",
+      "path": "/devops"
+    },
+    {
+      "name": "Front-End",
+      "description": "Web front-end technologies and frameworks",
+      "path": "/frontend"
+    },
+    {
+      "name": "Blockchain",
+      "description": "Distributed ledger technologies and cryptocurrencies",
+      "path": "/blockchain"
+    },
+    {
+      "name": "Artificial Intelligence",
+      "description": "Machine learning, deep learning, and AI applications",
+      "path": "/ai"
+    },
+    {
+      "name": "AR/VR",
+      "description": "Augmented and virtual reality technologies",
+      "path": "/arvr"
+    },
+    {
+      "name": "QA",
+      "description": "Quality assurance and testing methodologies",
+      "path": "/qa"
+    },
+    {
+      "name": "Quantum Computing",
+      "description": "Quantum algorithms and computing technologies",
+      "path": "/quantum-computing"
+    },
+    {
+      "name": "Product Management",
+      "description": "Product development and management strategies",
+      "path": "/pm"
+    },
+    {
+      "name": "IoT",
+      "description": "Internet of Things devices and ecosystems",
+      "path": "/iot"
+    },
+    {
+      "name": "UI/UX",
+      "description": "User interface and experience design",
+      "path": "/uiux"
+    },
+    {
+      "name": "Cyber Security",
+      "description": "Security practices and threat protection",
+      "path": "/cybersecurity"
+    },
+    {
+      "name": "Creative Design",
+      "description": "Graphic design and creative tools",
+      "path": "/creative-design"
+    },
+    {
+      "name": "Marketing",
+      "description": "Digital marketing strategies and tools",
+      "path": "/marketing"
+    },
+    {
+      "name": "FOSS",
+      "description": "Free and open source software projects",
+      "path": "/foss"
+    }
+  ],
+  "contributionTypes": [
+    {
+      "title": "Add New Technologies/Tools",
+      "description": "Help expand our knowledge base by adding new technologies and tools for each domain.",
+      "examples": [
+        "Add emerging technologies in the domain's JSON files",
+        "Include detailed descriptions and resource links",
+        "Ensure proper categorization within the domain structure"
+      ]
+    },
+    {
+      "title": "Add Blogs and Tutorials",
+      "description": "Share valuable learning resources by adding blogs and tutorials to blog.json.",
+      "examples": [
+        "Add high-quality tutorial links in blog.json",
+        "Include diverse content covering beginner to advanced topics",
+        "Provide brief descriptions of what readers will learn"
+      ]
+    },
+    {
+      "title": "Add People to Follow",
+      "description": "Suggest industry experts and thought leaders in follow.json with their photos in the images directory.",
+      "examples": [
+        "Add influential people in the domain to follow.json",
+        "Include their social media profiles and areas of expertise",
+        "Add professional photos to the images directory"
+      ]
+    },
+    {
+      "title": "Update Yearly Trends",
+      "description": "Keep the platform current by updating yearly JSON files with the latest tech trends.",
+      "examples": [
+        "Update yearly JSON files with current technology trends",
+        "Remove outdated or deprecated technologies",
+        "Add emerging tools and frameworks gaining popularity"
+      ]
+    }
+  ]
+}
