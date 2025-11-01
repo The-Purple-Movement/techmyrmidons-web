@@ -1,24 +1,64 @@
 {
-    "blog": [
-        {
-            "author": "PostgreSQL Wiki",
-            "blog": "https://wiki.postgresql.org/wiki/Main_Page"
-        },
-        {
-            "author": "MongoDB Developer Blog",
-            "blog": "https://www.mongodb.com/developer/learn/"
-        },
-        {
-            "author": "Redis Blog",
-            "blog": "https://redis.com/blog/"
-        },
-        {
-            "author": "Neo4j Developer Blog",
-            "blog": "https://neo4j.com/developer/blog/"
-        },
-        {
-            "author": "AWS Database Blog",
-            "blog": "https://aws.amazon.com/blogs/database/"
-        }
-    ]
+  "blog": [
+    {
+      "blog": "https://wiki.postgresql.org/wiki/Main_Page",
+      "author": "PostgreSQL Wiki"
+    },
+    {
+      "blog": "https://www.mongodb.com/developer/learn/",
+      "author": "MongoDB Developer Blog"
+    },
+    {
+      "blog": "https://redis.com/blog/",
+      "author": "Redis Blog"
+    },
+    {
+      "blog": "https://neo4j.com/developer/blog/",
+      "author": "Neo4j Developer Blog"
+    },
+    {
+      "blog": "https://aws.amazon.com/blogs/database/",
+      "author": "AWS Database Blog"
+    },
+    {
+      "blog": "https://blogs.oracle.com/database/",
+      "author": "Oracle Database Blog"
+    },
+    {
+      "blog": "https://db-engines.com/en/blog",
+      "author": "DB-Engines"
+    },
+    {
+      "blog": "https://www.dbta.com/Columns/Emerging-Technologies/",
+      "author": "Database Trends & Applications"
+    },
+    {
+      "blog": "https://www.rapydo.io/blog/database-trends-and-innovations-a-comprehensive-outlook-for-2025",
+      "author": "Rapydo"
+    },
+    {
+      "blog": "https://blog.bytebytego.com/p/understanding-database-types",
+      "author": "ByteByteGo"
+    },
+    {
+      "blog": "https://budibase.com/blog/data/data-management-trends/",
+      "author": "Budibase"
+    },
+    {
+      "blog": "https://www.semaphore.io/blog/futuristic-databases",
+      "author": "Semaphore"
+    },
+    {
+      "blog": "https://www.influxdata.com/blog/database-ecosystem-guide-2025/",
+      "author": "InfluxData"
+    },
+    {
+      "blog": "https://www.percona.com/blog/how-can-ai-talk-to-my-database-part-two-mysql-and-gemini/",
+      "author": "Percona Blog"
+    },
+    {
+      "blog": "https://red9.com/blog/database-blogs/",
+      "author": "Red9"
+    }
+  ]
 }
