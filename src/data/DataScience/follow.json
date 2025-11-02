@@ -14,6 +14,51 @@
       "followLink": "https://twitter.com/fchollet",
       "photo": "francois_chollet.jpg",
       "name": "François Chollet"
+    },
+    {
+      "followLink": "https://twitter.com/AndrewYNg",
+      "photo": "andrew.jpg",
+      "name": "Andrew Ng"
+    },
+    {
+      "followLink": "https://twitter.com/ylecun",
+      "photo": "YannLeCun.jpg",
+      "name": "Yann LeCun"
+    },
+    {
+      "followLink": "https://twitter.com/rasbt",
+      "photo": "sebastian_raschka.jpg",
+      "name": "Sebastian Raschka"
+    },
+    {
+      "followLink": "https://twitter.com/racheltho",
+      "photo": "rachel-thomas.jpg",
+      "name": "Rachel Thomas"
+    },
+    {
+      "followLink": "https://twitter.com/hmason",
+      "photo": "hilary_mason.jpg",
+      "name": "Hilary Mason"
+    },
+    {
+      "followLink": "https://en.wikipedia.org/wiki/Peter_Norvig",
+      "photo": "peter_norvig.jpg",
+      "name": "Peter Norvig"
+    },
+    {
+      "followLink": "https://twitter.com/thom_wolf",
+      "photo": "thomas_wolf.jpg",
+      "name": "Thomas Wolf"
+    },
+    {
+      "followLink": "https://twitter.com/matei_zaharia",
+      "photo": "matei_zaharia.jpg",
+      "name": "Matei Zaharia"
+    },
+    {
+      "followLink": "https://en.wikipedia.org/wiki/Daphne_Koller",
+      "photo": "daphne_koller.jpg",
+      "name": "Daphne Koller"
     }
   ]
 }

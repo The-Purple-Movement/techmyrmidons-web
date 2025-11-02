@@ -1,0 +1,28 @@
+{
+  "2024": [
+    {
+      "title": "Large Language Models (LLMs)",
+      "description": "LLMs like GPT-4, Claude, and Gemini revolutionized AI by understanding and generating human-like text. They are used in chatbots, content generation, and software development assistance.",
+      "url": "https://openai.com/research/gpt-4",
+      "morelink": "LLMs"
+    },
+    {
+      "title": "AI Image Generation Models",
+      "description": "Tools like DALL·E, Midjourney, and Stable Diffusion powered creative industries, allowing artists and developers to create realistic art, product renders, and concept visuals from text prompts.",
+      "url": "https://www.cloudflare.com/en-gb/learning/ai/ai-image-generation/",
+      "morelink": "vue"
+    },
+    {
+      "title": "PyTorch",
+      "description": "A deep learning framework developed by Meta, known for its dynamic computation graph and flexibility. PyTorch powers research and production models in text, image, and audio generation.",
+      "url": "https://pytorch.org/",
+      "morelink": "angular"
+    },
+    {
+      "title": "Keras",
+      "description": "A high-level neural networks API that simplifies model creation. Keras integrates seamlessly with TensorFlow, making it popular for prototyping and teaching generative model concepts.",
+      "url": "https://keras.io/",
+      "morelink": "angular"
+    }
+]
+}

@@ -35,6 +35,66 @@
       "description": "Interactive graphing and analytics library for Python, R, and JavaScript.",
       "url": "https://plotly.com/python/",
       "morelink": "plotly"
+    },
+    {
+      "title": "Optuna",
+      "description": "Automatic hyperparameter optimization software framework to accelerate model tuning.",
+      "url": "https://optuna.org/",
+      "morelink": "optuna"
+    },
+    {
+      "title": "Ray",
+      "description": "Distributed computing framework for scaling Python workloads, useful for hyperparameter search and training.",
+      "url": "https://www.ray.io/",
+      "morelink": "ray"
+    },
+    {
+      "title": "BentoML",
+      "description": "Model serving and deployment framework that packages ML models as production-ready APIs.",
+      "url": "https://bentoml.org/",
+      "morelink": "bentoml"
+    },
+    {
+      "title": "Apache Airflow",
+      "description": "Platform to programmatically author, schedule, and monitor workflows, widely used for ML pipelines.",
+      "url": "https://airflow.apache.org/",
+      "morelink": "apache-airflow"
+    },
+    {
+      "title": "Prefect",
+      "description": "Modern workflow orchestration for data and ML pipelines with a Python-native API.",
+      "url": "https://www.prefect.io/",
+      "morelink": "prefect"
+    },
+    {
+      "title": "Great Expectations",
+      "description": "Open-source framework for validating, documenting, and profiling data to ensure quality.",
+      "url": "https://greatexpectations.io/",
+      "morelink": "great-expectations"
+    },
+    {
+      "title": "Evidently AI",
+      "description": "Tools for monitoring ML model quality and data drift in production.",
+      "url": "https://evidentlyai.com/",
+      "morelink": "evidently-ai"
+    },
+    {
+      "title": "Apache Superset",
+      "description": "Modern data exploration and visualization platform for business intelligence workflows.",
+      "url": "https://superset.apache.org/",
+      "morelink": "apache-superset"
+    },
+    {
+      "title": "Modin",
+      "description": "Drop-in replacement for pandas that enables parallel and distributed DataFrame processing.",
+      "url": "https://modin.readthedocs.io/",
+      "morelink": "modin"
+    },
+    {
+      "title": "KServe",
+      "description": "Standardized server for deploying ML models on Kubernetes with autoscaling and inference features.",
+      "url": "https://kserve.github.io/",
+      "morelink": "kserve"
     }
   ]
 }

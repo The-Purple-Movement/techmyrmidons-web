@@ -1,0 +1,45 @@
+{
+   "2021": [
+      {
+        "title": "QSL103A Picosecond Microchip Laser",
+        "description":"The QSL103A is a robust, high-powered source of picosecond pulses delivered from a compact laser head.",
+        "url": "https://www.thorlabs.com/thorproduct.cfm?partnumber=QSL103A"
+      },
+      
+      {
+        "title": "Spectra-Physics Quasar UV80 laser",
+        "description":"The Quasar UV80 from Spectra-Physics is a UV/Green Hybrid Fiber Laser that operates at a wavelength of 355 nm and uses TimeShift technology which enables pulse energy programmability in the time domain as well as pulse splitting and burst mode operation.",
+        "url": "https://www.gophotonics.com/products/lasers/spectra-physics/29-165-quasar-uv80"
+      },
+      
+      {
+        "title": "Focal-πShaper_1070_Q_HP",
+        "description":"Focal-πShaper_1070_Q_HP series refractive beam shapers control the intensity distribution of a focused spot.",
+        "url": "https://www.laserfocusworld.com/directory/finished-optics-coatings-components/microscope-objectives/company/14047355/adloptica-gmbh"
+      },
+      
+      {
+        "title": "MicroCalibir uncooled thermal camera platform",
+        "description":"MicroCalibir™ uncooled thermal camera platform features the smallest VGA IR core module on the market, making it ideal for OEM drones, handhelds, helmet-mounted and vehicular integration products.",
+        "url": "https://www.teledynevisionsolutions.com/company/news/dalsa/teledyne-introduces-its-new-compact-thermal-camera-core/"
+      },
+      
+      {
+        "title": "Envise",
+        "description":"Envise™ the world's first photonic computing platform for AI, offering unmatched performance and energy efficiency to power next-generation computing.",
+        "url": "https://lightmatter.co/products/envise/"
+      },
+      
+      {
+        "title": "See3CAM_CU27 NIR Camera",
+        "description":"See3CAM_CU27 is a Full HD USB 3.1 Gen 1 camera based on the SONY® STARVIS™ IMX462 sensor that is capable of capturing high-quality images in near-infrared regions.",
+        "url": "https://www.e-consystems.com/usb-cameras/sony-starvis-imx462-ultra-low-light-camera.asp#:~:text=See3CAM_CU27%20is%20a%20Full%20HD%20USB%203.1,capable%20of%20capturing%20high%2Dquality%20images%20in%20near%2Dinfrared"
+      },
+      
+      {
+        "title": "NanoDrop Eight UV-Vis Microvolume Spectrophotometer",
+        "description":"See3CAM_CU27 is a Full HD USB 3.1 Gen 1 camera based on the SONY® STARVIS™ IMX462 sensor that is capable of capturing high-quality images in near-infrared regions.",
+        "url": "The compact Thermo Scientific NanoDrop Eight Spectrophotometer measures eight samples at a time in less than 20 seconds. It is an ideal choice for pharma/biotech and academic researchers needing a higher throughput capacity for measuring nucleic acid and protein samples."
+      }
+   ]
+}

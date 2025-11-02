@@ -4,25 +4,29 @@
             "name": "Bruce Momjian",
             "designation": "PostgreSQL Core Team Member",
             "github": "https://github.com/bmomjian",
-            "twitter": "https://twitter.com/bmomjian"
+            "twitter": "https://twitter.com/bmomjian", 
+            "photo": "Bruce_Momjian.jpg"
         },
         {
             "name": "Mark Callaghan",
             "designation": "Database Expert, formerly Facebook/Meta",
             "github": "https://github.com/mdcallag",
-            "twitter": "https://twitter.com/markcallaghandb"
+            "twitter": "https://twitter.com/markcallaghandb", 
+            "photo": "Mark_Callaghan.jpg"
         },
         {
             "name": "Kelsey Hightower",
             "designation": "Principal Engineer @ Google Cloud",
             "github": "https://github.com/kelseyhightower",
-            "twitter": "https://twitter.com/kelseyhightower"
+            "twitter": "https://twitter.com/kelseyhightower",
+            "photo": "Kelsey_Hightower.jpg"
         },
         {
             "name": "Werner Vogels",
             "designation": "CTO @ Amazon",
             "github": "https://github.com/werner",
-            "twitter": "https://twitter.com/werner"
+            "twitter": "https://twitter.com/werner",
+            "photo": "Werner_Vogels.jpg"
         }
     ]
 }

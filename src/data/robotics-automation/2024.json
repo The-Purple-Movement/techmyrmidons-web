@@ -1,0 +1,34 @@
+ {
+  "2024": [
+    {
+      "title": "NVIDIA Isaac Manipulator",
+      "description": "AI-based toolkit for robotic manipulation, integrating perception, planning, and control with NVIDIA Omniverse and DeepStream.",
+      "url": "https://developer.nvidia.com/isaac"
+    },
+    {
+      "title": "Open Robotics Ignition Gazebo",
+      "description": "Next-generation successor to Gazebo Classic, offering modular architecture, real-time simulation, and cloud support.",
+      "url": "https://gazebosim.org/home"
+    },
+    {
+      "title": "Universal Robots URSim",
+      "description": "Simulator for UR collaborative robots allowing users to test URScript programs and cell layouts virtually.",
+      "url": "https://www.universal-robots.com/download/"
+    },
+    {
+      "title": "Boston Dynamics Spot SDK",
+      "description": "Software development kit enabling developers to control and integrate Spot robot with custom payloads and autonomous missions.",
+      "url": "https://dev.bostondynamics.com/"
+    },
+    {
+      "title": "NVIDIA Omniverse Replicator",
+      "description": "Synthetic data generation engine used for training perception models in robotics and automation pipelines.",
+      "url": "https://developer.nvidia.com/omniverse/replicator"
+    },
+    {
+      "title": "Luxonis DepthAI",
+      "description": "Edge AI vision platform combining depth sensing and object detection for robotics and automation applications.",
+      "url": "https://docs.luxonis.com/en/latest/"
+    }
+  ]
+ }

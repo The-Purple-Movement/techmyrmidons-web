@@ -1,0 +1,40 @@
+{
+  "2024": [
+    {
+      "title": "Google Trends",
+      "description": "Explore trending search topics and keywords across regions and time-periods to inform content strategy.",
+      "url": "https://trends.google.com/",
+      "note": "Useful for identifying seasonal topics in 2024."
+    },
+    {
+      "title": "SparkToro",
+      "description": "Audience-research tool to surface where your target audience reads, listens and engages online.",
+      "url": "https://sparktoro.com/",
+      "note": "Handy for research-driven marketing in 2024."
+    },
+    {
+      "title": "MailerLite",
+      "description": "Lightweight email-marketing for newsletters and automation, focused on small-business usability.",
+      "url": "https://www.mailerlite.com/",
+      "note": "Affordable choice for creators and SMBs in 2024."
+    },
+    {
+      "title": "Buffer",
+      "description": "Simple social publishing and analytics to schedule posts and measure engagement across platforms.",
+      "url": "https://buffer.com/",
+      "note": "Alternative to heavier social suites for 2024 workflows."
+    },
+    {
+      "title": "Adobe Express",
+      "description": "Easy visual content and template tool for marketing creatives and short videos.",
+      "url": "https://www.adobe.com/express/",
+      "note": "Design-focused tool aimed at non-designers in 2024."
+    },
+    {
+      "title": "Sendinblue",
+      "description": "Integrated email, SMS and marketing automation platform with a free tier for small teams.",
+      "url": "https://www.sendinblue.com/",
+      "note": "Good for multi-channel campaigns in 2024."
+    }
+  ]
+}

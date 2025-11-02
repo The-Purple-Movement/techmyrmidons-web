@@ -1,0 +1,33 @@
+{
+   "2017": [
+      {
+        "title": "Clarity 2.0",
+        "description":"Clarity is a Graphic User Interface (GUI) software package that allows a user with little or no machine vision software experience to develop a machine vision application for use on JADAK’s smart cameras.",
+        "url": "https://www.jadaktech.com/resource/webinar-overview-of-clarity-2-0-machine-vision-and-image-analysis-software/"
+      },
+
+      {
+        "title": "BERTWave™ MP2110A",
+        "description":"The BERTWave MP2110A is an all-in-one instrument with built-in 4 channel Sampling Oscilloscope and BERT designed for manufacturing inspection of 10G to 1.6T optical modules.",
+        "url": "https://www.anritsu.com/en-us/test-measurement/products/mp2110a"
+      },
+
+      { 
+        "title": "LuphoScan 260 HD",
+        "description":"The LUPHOScan HD non-contact 3D optical profilometer/equipment delivers the highest accuracy for radius and irregularity on challenging surfaces such as high departure aspheres and freeforms.",
+        "url": "https://www.taylor-hobson.com/products/non-contact-3d-optical-profilers/luphos/luphoscan-260-420-hd"
+      },
+      
+      { 
+        "title": "Olympus Europa LEXT OLS5000",
+        "description":"The Olympus LEXT OLS5000 3D Measuring Laser Microscope precisely measures shape and surface roughness at the submicron level.",
+        "url": "https://www.olympus-global.com/news/2017/nr00633.html"
+      },
+      
+      { 
+        "title": "DPO7OE1",
+        "description":"The DPO7OE Series Optical probes can be used as Optical Reference Receivers (ORR) for high speed serial data signals (using selectable Bessel-Thomson ORR filters), or can be used as a conventional O/E converter for general wide-bandwidth optical signal acquisition.",
+        "url": "https://www.tek.com/en/datasheet/dpo7oe-series-optical-probes"
+      }
+   ]
+}

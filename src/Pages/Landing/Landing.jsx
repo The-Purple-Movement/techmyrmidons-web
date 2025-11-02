@@ -70,8 +70,7 @@ const Landing = () => {
               image="/assets/landing/frontend.png"
               name="Front-End"
               link="/frontend"
-              description="
-            The term Front-End mainly referes to the User Interface which an user view and interacts with and its working"
+              description="The term Front-End mainly referes to the User Interface which an user view and interacts with and its working"
             />
             <Card 
               image="/assets/landing/backend.png" 
@@ -93,7 +92,7 @@ const Landing = () => {
               description="AI which stands for artificial intelligence refers to systems or machines that mimic human intelligence to perform tasks."
             />
             <Card
-              image="/assets/landing/ai.png"
+              image="/assets/landing/datascience.png"
               name="Data Science"
               link="/DataScience"
               description="Data Science combines statistics, programming, and domain knowledge to extract insights from data."
@@ -117,6 +116,12 @@ const Landing = () => {
               name="Quantum Computing"
               link="/quantum-computing"
               description="A rapidly-emerging technology that harnesses the laws of quantum mechanics to solve issues too hard for computers."
+            />
+            <Card
+              image="/assets/landing/biotechnology.png"
+              name="Biotechnology"
+              link="/biotech"
+              description="Biotechnology utilizes biological systems, living organisms or parts of this to develop or create different products."
             />
             <Card
               image="/assets/landing/pm.png"
@@ -186,6 +191,28 @@ const Landing = () => {
               name="Space Technology"
               link="/space-technology"
               description="Space technology is the collection of advanced engineering systems, tools, and methods developed to explore Earth’s atmosphere—including satellites, spacecraft, launch vehicles."
+              
+            />
+            <Card
+              image="/assets/landing/bioinformatics.png"
+              name="Bioinformatics"
+              link="/bioinformatics"
+              description="Bioinformatics is an interdisciplinary field of science that develops methods and software tools for understanding biological data that is large and complex."
+              
+            />
+            <Card
+              image="/assets/landing/photonics.png"
+              name="Photonics"
+              link="/photonics"
+              description="Photonics is the science, engineering, and technology of generating, controlling, and detecting light waves and photons via electronics."
+              
+            />
+            
+             <Card
+              image="/assets/landing/generative-ai.png"
+              name="Generative AI"
+              link="/generative-ai"
+              description="Generative AI is a type of artificial intelligence that creates new content, such as text, images, code, or audio, based on the patterns it learned from large datasets."
               
             />
           </div>

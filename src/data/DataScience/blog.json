@@ -1,8 +1,78 @@
 {
-    "years": [
-      { "year": "2023", "url": "/data/datascience_blogs/2023.json" },
-      { "year": "2024", "url": "/data/datascience_blogs/2024.json" },
-      { "year": "2025", "url": "/data/datascience_blogs/2025.json" }
-    ]
-  }
-  
+  "blog": [
+    {
+      "blog": "https://example.com/datascience/feature-stores",
+      "author": "Feature Stores: The Missing Piece in ML Production"
+    },
+    {
+      "blog": "https://example.com/datascience/causal-inference-product",
+      "author": "Causal Inference for Product Decisions"
+    },
+    {
+      "blog": "https://example.com/datascience/delta-lake-pipelines",
+      "author": "Efficient Data Pipelines with Delta Lake"
+    },
+    {
+      "blog": "https://example.com/datascience/scaling-with-ray",
+      "author": "Scaling Model Training with Ray"
+    },
+    {
+      "blog": "https://example.com/datascience/ml-observability",
+      "author": "Observability for ML: Metrics, Drift, and Alerts"
+    },
+    {
+      "blog": "https://example.com/datascience/bentoml-deploy",
+      "author": "From Notebook to Production with BentoML"
+    },
+    {
+      "blog": "https://example.com/datascience/causalml-personalization",
+      "author": "CausalML Techniques for Personalization"
+    },
+    {
+      "blog": "https://example.com/datascience/tvm-tinyml",
+      "author": "Compiler Optimizations for TinyML with TVM"
+    },
+    {
+      "blog": "https://example.com/datascience/zenml-pipelines",
+      "author": "Building Reproducible Pipelines with ZenML"
+    },
+    {
+      "blog": "https://example.com/datascience/seldon-deploy",
+      "author": "Deploying Models at Scale with Seldon Core"
+    },
+    {
+      "blog": "https://example.com/datascience/model-monitoring",
+      "author": "Model Monitoring Best Practices"
+    },
+    {
+      "blog": "https://example.com/datascience/data-augmentation",
+      "author": "Data Augmentation Techniques"
+    },
+    {
+      "blog": "https://example.com/datascience/privacy-ml",
+      "author": "Privacy-Preserving ML"
+    },
+    {
+      "blog": "https://example.com/datascience/graph-ml",
+      "author": "Graph ML in Production"
+    },
+    {
+      "blog": "https://example.com/datascience/real-time-inference",
+      "author": "Real-time Inference Architectures"
+    }
+  ],
+  "years": [
+    {
+      "year": "2023",
+      "url": "/data/DataScience/2023.json"
+    },
+    {
+      "year": "2024",
+      "url": "/data/DataScience/2024.json"
+    },
+    {
+      "year": "2025",
+      "url": "/data/DataScience/2025.json"
+    }
+  ]
+}

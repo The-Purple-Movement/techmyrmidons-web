@@ -1,0 +1,39 @@
+{
+   "2022": [
+      {
+        "title": "MPO 100",
+        "description":"MPO 100 is a multi-user tool that combines both the requirements of 3D lithography with resolutions in the 100 nm range and 3D microprinting with structure heights of over one centimeter, all in one device.",
+        "url": "https://heidelberg-instruments.com/wp-content/uploads/2022/01/20220117-EN-PR-MPO-100-Product-Launch_V118.pdf"
+      },
+      
+      {
+        "title": "Wildcat+ 640 series",
+        "description":"The Wildcat+ 640 series camera offers superior, high resolution SWIR imaging capabilities, comes in a versatile and industry-proven Wildcat camera package and offers advanced on-board image processing.",
+        "url": "https://www.exosens.com/products/wildcat-640"
+      },
+      
+      {
+        "title": "Eyeonic Vision System",
+        "description":"Eyeonic Vision System features the highest resolution, highest precision and longest range while remaining the only FMCW LiDAR solution to offer polarization information.",
+        "url": "https://www.silc.com/eyeonic-vision-system-variants/"
+      },
+      
+      {
+        "title": "Quantum X align",
+        "description":"Quantum X align automatically detects chip edges, fiber cores, fiducials on chip surfaces, on wafers, and on prestructured substrates. It then prints freeform microoptics directly in place with nanometer-scale alignment accuracy, ensuring that the optics are printed aligned to optical axes.",
+        "url": "https://www.nanoscribe.com/en/products/quantum-x-align/"
+      },
+      
+      {
+        "title": "GF Fotonix™ platform",
+        "description":"GF Fotonix™ platform is an open silicon photonics platform that includes integrated lasers, optical amplifiers, and a full suite of photonic components to form a complete solution that is accessible through a Process Design Kit (PDK).",
+        "url": "https://gf.com/technology-platforms/silicon-photonics/"
+      },
+      
+      {
+        "title": "Synopsys Cloud",
+        "description":"Synopsys Cloud is a chip design automation platform that enables you to manage and access EDA licenses instantly from on-premises or from the cloud.",
+        "url": "https://news.synopsys.com/2022-03-30-Synopsys-Launches-Industrys-First-Broad-Scale-Cloud-SaaS-Solution-to-Transform-Chip-Development-Landscape#:~:text=Synopsys%20Launches%20Industry's%20First%20Broad,vice%20president%20and%20CTO%2C%20AMD."
+      }
+   ]
+}

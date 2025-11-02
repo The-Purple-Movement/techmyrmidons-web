@@ -1,0 +1,41 @@
+{
+  "years": [
+    {
+      "year" : "2025",
+      "url" : "/data/bioinformatics/2025.json"
+    },
+    {
+      "year" : "2024",
+      "url" : "/data/bioinformatics/2024.json"
+    },
+    {
+      "year" : "2023",
+      "url" : "/data/bioinformatics/2023.json"
+    },
+    {
+      "year" : "2022",
+      "url" : "/data/bioinformatics/2022.json"
+    },
+
+    {
+      "year" : "2021",
+      "url" : "/data/quantum-computing/2021.json"
+    },
+    {
+      "year" : "2020",
+      "url" : "/data/bioinformatics/2020.json"
+    },
+    {
+      "year" : "2019",
+      "url" : "/data/bioinformatics/2019.json"
+    },
+    {
+      "year" : "2018",
+      "url" : "/data/bioinformatics/2018.json"
+    },
+     {
+      "year" : "2017",
+      "url" : "/data/bioinformatics/2017.json"
+    }
+  ]
+}

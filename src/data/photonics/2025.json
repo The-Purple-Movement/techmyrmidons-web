@@ -1,0 +1,33 @@
+{
+   "2025": [
+      {
+        "title": "Photonic Designer",
+        "description":"Photonic Designer integrates real-world measurement data directly into the simulation workflow, to optimize models and streamline compliance and validation.",
+        "url": "https://www.keysight.com/us/en/product/W3803B/photonic-designer.html"
+      },
+      
+      {
+        "title": "IPG Photonics RI platform",
+        "description":"The RI platform simplifies OEM integration and minimizes laser damage or shutdown, offering greater reliability for manufacturers.",
+        "url": "https://www.ipgphotonics.com/newsroom/news/ipg-releases-high-power-lasers-on-new-ri-platform"
+      },
+      
+      {
+        "title": "Double-sided electro-optical PIC Wafer Tester",
+        "description":"Double-sided electro-optical wafer-level tester (WLT-D2) uniquely enables simultaneous electrical and optical probing on opposing sides of the wafer, thus addressing the requirements of cutting-edge designs such as TSMC’s COUPE (Compact Universal Photonic Engine).",
+        "url": "https://www.ficontec.com/electro-optical-wafer-level-tester-double-sided/"
+      },
+      
+      {
+        "title": "1280JSX+MMT Camera",
+        "description":"1280JSX+MMT is specifically designed for the warfighter with cutting-edge laser tracking and decoding of multiple asynchronous sources, simultaneously for covert applications, supporting day/night operations with enhanced HD image quality and real-time, field-ready performance.",
+        "url": "https://www.sensorsinc.com/products/detail/1280jsx-mmt-camera"
+      },
+      
+      {
+        "title": "SPAD Alpha",
+        "description":"SPAD Alpha is an award-winning photon-counting camera for high-speed imaging.",
+        "url": "https://piimaging.com/spad-alpha/"
+      }
+   ]
+}

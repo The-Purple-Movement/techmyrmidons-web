@@ -1,27 +1,29 @@
 {
     "2021": [
        {
-         "title": "Ethereum",
-         "description":"Ethereum is a decentralized platform for applications that run exactly as programmed without any chance of fraud, censorship or third-party interference.",
-         "url": "https://www.ethereum.org/"
+         "title": "dbGENVOC",
+         "description":"dbGENVOC is a browsable online database of GENomic Variants of Oral Cancer and is a free resource.",
+         "url": "https://research.nibmg.ac.in/dbcares/dbgenvoc/home.php"
        },
- 
        {
-         "title": "Hyperledger Indy",
-         "description":"Hyperledger Indy is a distributed ledger, purpose-built for decentralized identity. It provides tools, libraries, and reusable components for creating and using independent digital identities rooted on blockchains or other distributed ledgers so that they are interoperable across administrative domains, applications, and any other 'silo'. Because distributed ledgers cannot be altered after the fact, it is essential that use cases for ledger-based identity carefully consider foundational components, including performance, scale, trust model, and privacy. In particular, Privacy by Design and privacy-preserving technologies are critically important for a public identity ledger where correlation can take place on a global scale. <br> For all these reasons, Hyperledger Indy has developed specifications, terminology, and design patterns for decentralized identity along with an implementation of these concepts that can be leveraged and consumed both inside and outside the Hyperledger Consortium.",
-         "url": "https://www.hyperledger.org/projects/hyperledger-indy"
+         "title": "Lymphoid organoids using discarded Tonsils",
+         "description":"Lymphoid organs procured from tonsillectomy surgeries as discarded tissue is used to develop an accessible system that replicates an antigen-specific adaptive immune response to a vaccine and supports key aspects of adaptive immunity.",
+         "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7891554/"
        },
- 
        {
-         "title": "Hyperledger Iroha ",
-         "description":"Hyperledger Iroha is a blockchain platform implementation and one of the Hyperledger projects hosted by The Linux Foundation. Hyperledger Iroha is designed to be simple and easy to incorporate into infrastructural projects requires distributed ledger technology. Hyperledger Iroha features a simple construction; modern, domain-driven C++ design, emphasis on mobile application development and a new, chain-based Byzantine Fault Tolerant consensus algorithm, called Sumeragi. Hyperledger Iroha was initially contributed by Soramitsu, Hitachi, NTT Data and Colu.",
-         "url": "https://www.hyperledger.org/projects/iroha"
+         "title": "Isomorphic Labs",
+         "description":"Isomorphic Labs is a commercial venture which aims to reimagine the entire drug discovery process from first principles with an AI-first approach  to model and understand some of the fundamental mechanisms of life.",
+         "url": "https://www.isomorphiclabs.com/"
        },
- 
        {
-         "title": "Sawtooth",
-         "description":"Zend Framework is a collection of professional PHP packages with more than 76 million installations. It can be used to develop web applications and services using PHP 5.6+, and provides 100% object-oriented code using a broad spectrum of language features.Zend Framework 3 evolved from both Zend Framework 2 and 1.",
-         "url": "https://www.hyperledger.org/projects/sawtooth"
+         "title": "ZyCoV-D",
+         "description":"ZyCoV-D is a DNA plasmid-based COVID-19 vaccine developed by Cadila Healthcare, with support from the Biotechnology Industry Research Assistance Council, approved for emergency use in India.",
+         "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=1747669"
+       },
+       {
+         "title": "SWADESH",
+         "description":"SWADESH is a unique brain initiative focusing on certified neuroimaging, neurochemical, neuropsychological data and analytics that are made accessible to researchers for managing brain disorders.",
+         "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=1775313"
        }
     ]
  

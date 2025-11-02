@@ -1,13 +1,12 @@
-{
-
+﻿{
   "follow": [
-
-   {
-      "followLink":"https://twitter.com/NathanBenaich",
-      "photo":"Nathan.jpg",
-      "name":"Nathan Benaich"
+    {
+      "followLink": "https://twitter.com/AndrewYNg",
+      "photo": "andrew.jpg",
+      "name": "Andrew Ng"
     },
     {
+<<<<<<< HEAD
       "followLink":"https://twitter.com/j2bryson",
       "photo":"Joanna.jpg",
       "name":"Joanna J Bryson"
@@ -66,16 +65,116 @@
       "followLink":"https://twitter.com/johnchavens",
       "photo":"johnc.jpg",
       "name":"John C. Havens"
+=======
+      "followLink": "https://twitter.com/ylecun",
+      "photo": "yann-lecun.jpg",
+      "name": "Yann LeCun"
     },
     {
-      "followLink":"https://twitter.com/AlecRad",
-      "photo":"Alec-Radford.jpg",
-      "name":"Alec Radford"
+      "followLink": "https://twitter.com/fchollet",
+      "photo": "Fchollet.jpg",
+      "name": "François Chollet"
+>>>>>>> 9654d464e8d9d03493683163f08309e64876ff74
     },
     {
-      "followLink":"https://twitter.com/jjkardwell",
-      "photo":"JJ-Kardwell.jpg",
-      "name":"J.J.Kardwell"
+      "followLink": "https://twitter.com/NathanBenaich",
+      "photo": "Nathan.jpg",
+      "name": "Nathan Benaich"
+    },
+    {
+      "followLink": "https://twitter.com/j2bryson",
+      "photo": "Joanna.jpg",
+      "name": "Joanna J Bryson"
+    },
+    {
+      "followLink": "https://twitter.com/alexjc",
+      "photo": "alexjc.png",
+      "name": "Alex J. Champandard"
+    },
+    {
+      "followLink": "https://twitter.com/lehtimaeki",
+      "photo": "juhani.jpg",
+      "name": "Juhani Lehtimäki"
+    },
+    {
+      "followLink": "https://twitter.com/soumithchintala",
+      "photo": "Soumith.jpg",
+      "name": "Soumith Chintala"
+    },
+    {
+      "followLink": "https://twitter.com/adampaulcoates",
+      "photo": "adam.png",
+      "name": "Adam Coates"
+    },
+    {
+      "followLink": "https://twitter.com/cybercodetwins",
+      "photo": "cybercode.jpg",
+      "name": "CyberCode Twins"
+    },
+    {
+      "followLink": "https://twitter.com/jeggers",
+      "photo": "jana.jpg",
+      "name": "Jana Eggers"
+    },
+    {
+      "followLink": "https://twitter.com/drfeifei",
+      "photo": "fei-fei-li.jpg",
+      "name": "Fei-Fei Li"
+    },
+    {
+      "followLink": "https://twitter.com/MFordFuture",
+      "photo": "martin.jpg",
+      "name": "Martin Ford"
+    },
+    {
+      "followLink": "https://twitter.com/ageitgey",
+      "photo": "Adam-Geitgey.jpg",
+      "name": "Adam Geitgey"
+    },
+    {
+      "followLink": "https://twitter.com/johnchavens",
+      "photo": "johnc.jpg",
+      "name": "John C. Havens"
+    },
+    {
+      "followLink": "https://twitter.com/elonmusk",
+      "photo": "elon.jpg",
+      "name": "Elon Musk"
+    },
+    {
+      "followLink": "https://twitter.com/AlecRad",
+      "photo": "Alec-Radford.jpg",
+      "name": "Alec Radford"
+    },
+    {
+      "followLink": "https://twitter.com/jjkardwell",
+      "photo": "JJ-Kardwell.jpg",
+      "name": "J.J.Kardwell"
+    },
+    {
+      "followLink": "https://twitter.com/ilyasut",
+      "photo": "ilya-sutskever.jpg",
+      "name": "Ilya Sutskever"
+    },
+    {
+      "followLink": "https://twitter.com/geoffreyhinton",
+      "photo": "geoffrey-hinton.jpg",
+      "name": "Geoffrey Hinton"
+    },
+    {
+      "followLink": "https://twitter.com/goodfellow_ian",
+      "photo": "ian-goodfellow.jpg",
+      "name": "Ian Goodfellow"
+    },
+    {
+      "followLink": "https://twitter.com/karpathy",
+      "photo": "andrej-karpathy.webp",
+      "name": "Andrej Karpathy"
+    },
+    {
+      "followLink": "https://twitter.com/math_rachel",
+      "photo": "rachel-thomas.jpg",
+      "name": "Rachel Thomas"
     }
   ]
 }

@@ -1,0 +1,50 @@
+{
+  "blog": [
+
+    {
+      "blog": "https://laserphotonics.com/blog/",
+      "author":"Laser Photonics"
+    },
+
+    {
+      "blog": "https://ilphotonics.com/blog/",
+      "author":"IL Photonics"
+    },
+
+    {
+      "blog": "https://optics.org/news/4",
+      "author":"SPIE"
+    },
+
+    {
+      "blog": "https://www.rp-photonics.com/spotlight.html",
+      "author":"The Photonics Spotlight"
+    },
+
+    {
+      "blog": "https://spie.org/news/photonics-focus/",
+      "author":"SPIE"
+    },
+
+    {
+      "blog": "https://www.azooptics.com/",
+      "author":"AZoOptics"
+    },
+
+    {
+      "blog": "https://www.findlight.net/blog/",
+      "author":"FindLight"
+    },
+
+    {
+      "blog": "https://www.optica-opn.org/",
+      "author":"Optica"
+    },
+
+    {
+      "blog": "https://www.photonics.com/",
+      "author":"Photonics Media"
+    }
+
+  ]
+}
