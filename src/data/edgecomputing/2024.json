@@ -1,0 +1,29 @@
+{
+  "2024": [
+    {
+      "title": "EdgeAISim",
+      "description": "EdgeAISim is a Toolkit for Simulation and Modelling of AI Models in Edge Computing Environments.",
+      "url": "https://github.com/MuhammedGolec/EdgeAISIM"
+    },
+    {
+      "title": "Jetson Orin Nano Super Developer Kit",
+      "description": "The NVIDIA Jetson Orin Nano™ Super Developer Kit empowers the development of AI-powered robots, smart drones, and intelligent cameras built on the Jetson Orin series.",
+      "url": "https://www.nvidia.com/en-in/autonomous-machines/embedded-systems/jetson-orin/nano-super-developer-kit/"
+    },
+    {
+      "title": "BMC Helix Edge",
+      "description": "BMC Helix Edge transforms Internet of Things (IoT) Edge infrastructure management by providing an analytics and remediation framework.",
+      "url": "https://www.helixops.ai/products/bmc-helix-edge.html"
+    },
+    {
+      "title": "Open Edge Platform",
+      "description": "Intel’s Open Edge Platform is a secure, optimized open platform for delivering scalable edge solutions.",
+      "url": "https://github.com/open-edge-platform"
+    },
+    {
+      "title": "OpenNebula 6.10",
+      "description": "OpenNebula 6.10 ‘Bubble’ features the first complete implementation of the Sunstone UI functionality on the FireEdge server.",
+      "url": "https://opennebula.io/opennebula-6-10-bubble/"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "2018": [
+    {
+      "title": "MobiledgeX",
+      "description": "MobiledgeX offers a global edge cloud system across mobile operators to transform, manage, and monetize edge network infrastructure.",
+      "url": "https://www.telekom.com/en/media/media-information/archive/greater-network-performance-advancing-5g-516112"
+    },
+    {
+      "title": "edgeEngine",
+      "description": "The mimik edgeEngine provides a light weight container environment to facilitate the development of JavaScript based microservices based on a serverless architecture.",
+      "url": "https://www.npmjs.com/package/@mimik/mimik-edge-cli"
+    },
+    {
+      "title": "Edge TPU",
+      "description": "Google Edge TPU is Google's purpose-built  Application Specific Integrated Circuit designed to run AI at the edge.",
+      "url": "https://developers.google.com/coral"
+    },
+    {
+      "title": "Cloud IoT Edge",
+      "description": "Cloud IoT Edge is the software that extends Google Cloud’s powerful data processing and machine learning capabilities to gateways, cameras, and end devices, making IoT applications smarter, more secure and more reliable.",
+      "url": "https://cloud.google.com/blog/products/gcp/bringing-intelligence-edge-cloud-iot"
+    },
+    {
+      "title": "StarlingX",
+      "description": "StarlingX is an open source project that offers the services needed for distributed edge cloud either to choose from or to deploy it as one package.",
+      "url": "https://www.starlingx.io/blog/starlingx-initial-release/"
+    }
+  ]
+}

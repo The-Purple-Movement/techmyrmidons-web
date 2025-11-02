@@ -1,0 +1,40 @@
+{
+  "years": [
+    {
+      "year": "2025",
+      "url": "/data/edgecomputing/2025.json"
+    },
+    {
+      "year": "2024",
+      "url": "/data/edgecomputing/2024.json"
+    },
+    {
+      "year": "2023",
+      "url": "/data/edgecomputing/2023.json"
+    },
+    {
+      "year": "2022",
+      "url": "/data/edgecomputing/2022.json"
+    },
+    {
+      "year": "2021",
+      "url": "/data/edgecomputing/2021.json"
+    },
+    {
+      "year": "2020",
+      "url": "/data/edgecomputing/2020.json"
+    },
+    {
+      "year": "2019",
+      "url": "/data/edgecomputing/2019.json"
+    },
+    {
+      "year": "2018",
+      "url": "/data/edgecomputing/2018.json"
+    },
+    {
+      "year": "2017",
+      "url": "/data/edgecomputing/2017.json"
+    }
+  ]
+}

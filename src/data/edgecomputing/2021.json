@@ -1,0 +1,31 @@
+
+{
+  "2021": [
+    {
+      "title": "VMware Edge Compute Stack",
+      "description": "VMware Edge Compute Stack is a highly sophisticated product portfolio that enables organizations to build, run, manage, connect, and protect edge-native applications across multiple clouds at both the near and far edge locations.",
+      "url": "https://blogs.vmware.com/sase/2022/08/30/vmware-edge-compute-stack-new-in-2022/"
+    },
+    {
+      "title": "Google Distributed Cloud Edge",
+      "description": "Google Distributed Cloud Edge is a fully managed product that brings Google Cloud infrastructure and services closer to where data is being generated and consumed.",
+      "url": "https://cloud.google.com/distributed-cloud"
+    },
+    {
+      "title": "Kinetic Grid",
+      "description": "The Kinetic Grid platform is the only edge-to-edge system that delivers on this promise, combining colocation, networking and interconnection infrastructure into a nationwide platform for modern applications.",
+      "url": "https://www.vapor.io/grid-platform"
+    },
+    {
+      "title": "Infiot ZETO",
+      "description": "Infiot ZETO is a 100% SaaS-based converged remote connectivity platform, a single unified software that integrates zero trust security methodologies with network and application optimization.",
+      "url": "https://www.cybersecurityintelligence.com/infiot-8793.html"
+    },
+    {
+      "title": "Catalyst IR8100",
+      "description": "Cisco Catalyst IR8100 Heavy Duty Series Routers are built to withstand extreme temperatures and the harshest environments.",
+      "url": "https://www.cisco.com/site/us/en/products/networking/industrial-routers-gateways/catalyst-ir8100-heavy-duty-series/index.html"
+    }
+  
+  ]
+}

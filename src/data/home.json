@@ -94,8 +94,7 @@
       "technology": "Creative Design",
       "logo": "cdesign.png",
       "folderName": "creativedesign"
-    }
-    ,
+    },
     {
       "technology": "Data Science",
       "logo": "datascience.png",
@@ -122,7 +121,7 @@
       "folderName": "space-technology"
     },
     {
-      "technology": "Bioinformatic",
+      "technology": "Bioinformatics",
       "logo": "bioinformatics.png",
       "folderName": "bioinformatics"
     },
@@ -132,9 +131,14 @@
       "folderName": "photonics"
     },
     {
-      "technology": "generative ai",
+      "technology": "Generative AI",
       "logo": "generative-ai.png",
-      "folderName": "bioinformatics"
+      "folderName": "generative-ai"
+    },
+    {
+      "technology": "Edge Computing",
+      "logo": "edgecomputing.png",
+      "folderName": "edgecomputing"
     }
   ]
 }

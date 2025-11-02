@@ -1,0 +1,30 @@
+{
+  "2020": [
+    {
+      "title": "AMCOP 1.0",
+      "description": "Aarna.ml Multi Cluster Orchestration Platform (AMCOP) 1.0 is an is open source, lightweight 5G + edge computing orchestration and lifecycle management product optimized for Kubernetes environments.",
+      "url": "https://www.aarna.ml/post/announcing-aarna-ml-multi-cluster-orchestration-platform-amcop-1-0"
+    },
+    {
+      "title": "Avassa",
+      "description": "Avassa is an application management platform for distributed container applications.",
+      "url": "https://avassa.io/"
+    },
+    {
+      "title": "IBM Edge Application Manager",
+      "description": "IBM Edge Application Manager is an autonomous management solution to enable AI, analytics and IoT enterprise workloads to be deployed and remotely managed, delivering real-time analysis and insight at scale.",
+      "url": "https://www.ibm.com/docs/en/eam/4.5.x"
+    },
+    {
+      "title": "Operator Platform Project",
+      "description": "The GSMA’s Operator Platform Project intends to develop a framework for operators to expose and monetise their network capabilities. Operators will offer through the Operator Platform edge compute, storage and connectivity to their customers.",
+      "url": "https://www.gsma.com/solutions-and-impact/technologies/networks/gsma_resources/operator-platform-concept-whitepaper/"
+    },
+    {
+      "title": "AWS Panorama",
+      "description": "AWS Panorama is a new machine learning (ML) Appliance and SDK, which allows organizations to bring computer vision (CV) to their on-premises cameras to make automated predictions with high accuracy and low latency.",
+      "url": "https://aws.amazon.com/panorama/"
+    }
+  
+  ]
+}
