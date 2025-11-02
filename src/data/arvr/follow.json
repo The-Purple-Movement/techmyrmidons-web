@@ -51,6 +51,16 @@
       "followLink":"https://www.linkedin.com/in/alexschwartz/",
       "photo":"AlexSchwartz.jpg",
       "name":"Alex Schwartz"
+    },
+    {
+      "followLink": "https://twitter.com/JustinPBarnett",
+      "photo": "JustinPBarnett.jpg",
+      "name": "Justin P. Barnett"
+    },
+    {
+      "followLink": "https://twitter.com/localjoost",
+      "photo": "JoostVanSchaik.jpg",
+      "name": "Joost van Schaik"
     }
   ]
 }

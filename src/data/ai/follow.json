@@ -1,11 +1,9 @@
-{
-
+﻿{
   "follow": [
-
-   {
-      "followLink":"https://twitter.com/NathanBenaich",
-      "photo":"Nathan.jpg",
-      "name":"Nathan Benaich"
+    {
+      "followLink": "https://twitter.com/AndrewYNg",
+      "photo": "andrew.jpg",
+      "name": "Andrew Ng"
     },
     {
       "followLink":"https://twitter.com/j2bryson",
@@ -68,14 +66,44 @@
       "name":"John C. Havens"
     },
     {
-      "followLink":"https://twitter.com/AlecRad",
-      "photo":"Alec-Radford.jpg",
-      "name":"Alec Radford"
+      "followLink": "https://twitter.com/NathanBenaich",
+      "photo": "Nathan.jpg",
+      "name": "Nathan Benaich"
     },
     {
-      "followLink":"https://twitter.com/jjkardwell",
-      "photo":"JJ-Kardwell.jpg",
-      "name":"J.J.Kardwell"
+      "followLink": "https://twitter.com/AlecRad",
+      "photo": "Alec-Radford.jpg",
+      "name": "Alec Radford"
+    },
+    {
+      "followLink": "https://twitter.com/jjkardwell",
+      "photo": "JJ-Kardwell.jpg",
+      "name": "J.J.Kardwell"
+    },
+    {
+      "followLink": "https://twitter.com/ilyasut",
+      "photo": "ilya-sutskever.jpg",
+      "name": "Ilya Sutskever"
+    },
+    {
+      "followLink": "https://twitter.com/geoffreyhinton",
+      "photo": "geoffrey-hinton.jpg",
+      "name": "Geoffrey Hinton"
+    },
+    {
+      "followLink": "https://twitter.com/goodfellow_ian",
+      "photo": "ian-goodfellow.jpg",
+      "name": "Ian Goodfellow"
+    },
+    {
+      "followLink": "https://twitter.com/karpathy",
+      "photo": "andrej-karpathy.webp",
+      "name": "Andrej Karpathy"
+    },
+    {
+      "followLink": "https://twitter.com/math_rachel",
+      "photo": "rachel-thomas.jpg",
+      "name": "Rachel Thomas"
     }
   ]
 }

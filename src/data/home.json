@@ -36,6 +36,11 @@
       "folderName": "qa"
     },
     {
+      "technology": "Biotechnology",
+      "logo": "biotechnology.png",
+      "folderName": "biotech"
+    },
+    {
       "technology": "Blockchain",
       "logo": "blockchain-logo.png",
       "folderName": "blockchain"
@@ -115,6 +120,21 @@
       "technology": "Space Technology",
       "logo": "space-technology.png",
       "folderName": "space-technology"
+    },
+    {
+      "technology": "Bioinformatic",
+      "logo": "bioinformatics.png",
+      "folderName": "bioinformatics"
+    },
+    {
+      "technology": "Photonics",
+      "logo": "photonics.png",
+      "folderName": "photonics"
+    },
+    {
+      "technology": "generative ai",
+      "logo": "generative-ai.png",
+      "folderName": "bioinformatics"
     }
   ]
 }

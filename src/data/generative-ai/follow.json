@@ -1,0 +1,24 @@
+{
+  "follow": [
+    {
+      "followLink": "https://www.linkedin.com/in/andrewyng/",
+      "photo": "andrew.jpeg",
+      "name": "Andrew Ng"
+    },
+    {
+      "followLink": "https://katecrawford.net/",
+      "photo": "kate.jpg",
+      "name": "Kate Crawford "
+    },
+     {
+      "followLink": "https://x.com/drfeifei?lang=en",
+      "photo": "fei.webp",
+      "name": "Fei-Fei Li  "
+    },
+    {
+      "followLink": "https://x.com/drfeifei?lang=en",
+      "photo": "demis.jpeg",
+      "name": "Demis Hassabis"
+    }
+]
+}

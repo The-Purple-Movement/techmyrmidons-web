@@ -1,0 +1,33 @@
+{
+   "2019": [
+      {
+        "title": "DEE2",
+        "description":"DEE2 makes large scale gene expression data sets accessible to bioinformaticians, biologists and students alike.",
+        "url": "https://dee2.io/"
+      },
+      
+      {
+        "title": "NCBoost",
+        "description":"NCBoost classifies pathogenic non-coding variants in Mendelian diseases through supervised learning on purifying selection signals in humans.",
+        "url": "https://github.com/RausellLab/NCBoost"
+      },
+      
+      {
+        "title": "Genomic GPS",
+        "description":"Genomic GPS allows sharing of information to a degree sufficient for approximating relative genetic distance of an individual from either another individual or a group.",
+        "url": "https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1792-2"
+      },
+      
+      {
+        "title": "OmicsSIMLA",
+        "description":"OmicsSIMLA is a simulation tool for generating multi-omics data with disease status.",
+        "url": "https://omicssimla.sourceforge.io/"
+      },
+      
+      {
+        "title": "Protein Repeatability Scanner",
+        "description":"The RES tool allows to detect the repeatability of an input sequence.",
+        "url": "https://cbdm-01.zdv.uni-mainz.de/~munoz/res/"
+      }
+   ]         
+}

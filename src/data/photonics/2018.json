@@ -1,0 +1,33 @@
+{
+   "2018": [
+      {
+        "title": "VPIlinkConfigurator 4.2",
+        "description":"VPIlinkConfigurator 4.2 enhances the user interface and design automation tools as well as enhances simulation capabilities comprising new design and analysis tools for high bit rate connectivity requests.",
+        "url": "https://www.vpiphotonics.com/News/2018/LinkConfigurator_42_News.php"
+      },
+      
+      {
+        "title": "VPIlinkDesigner 4.2",
+        "description":"VPIlinkConfigurator 4.2 improves the network design workflow and provides new built-in functionality that simplifies and accelerates link engineering tasks.",
+        "url": "https://www.vpiphotonics.com/News/2018/LinkDesigner_42_News.php"
+      },
+      
+      {
+        "title": "L-Edit Photonics",
+        "description":"L-Edit Photonics enables the fast creation of a photonic design using a drag and drop methodology in an IC layout editor, without having to write a single line of code.",
+        "url": "https://eda.sw.siemens.com/en-US/ic/ic-custom/photonic/l-edit-photonics/"
+      },
+      
+      {
+        "title": "Micro-Scale Nuclear Fusion",
+        "description":"Laser-heated nanowires produce microscale nuclear fusion with record efficiency.",
+        "url": "https://www.laserfocusworld.com/lasers-sources/article/16555352/laser-heated-nanowires-produce-microscale-nuclear-fusion-with-record-efficiency"
+      },
+      
+      {
+        "title": "XI™ series",
+        "description":"The XI™ is a handheld Raman spectrometer with cloud AI technology with a 785 nm laser. It is fully integrated with the Data A1 smartphone and maintains constant WiFi/Bluetooth and 4G LTE connections.",
+        "url": "https://www.cbrnetechindex.com/p/6263/CloudMinds-Technology-Inc/XI-series"
+      }
+   ]
+}

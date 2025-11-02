@@ -1,6 +1,18 @@
 {
   "blog": [
     {
+      "blog": "https://distill.pub",
+      "author": "Distill.pub - Deep Learning Visualized"
+    },
+    {
+      "blog": "https://towardsdatascience.com/tagged/deep-learning",
+      "author": "Towards Data Science - Deep Learning"
+    },
+    {
+      "blog": "https://ruder.io",
+      "author": "Sebastian Ruder's Blog"
+    },
+    {
       "blog": "https://www.uipath.com/blog/ai",
       "author": "AI Trends - UiPath"
     },
@@ -79,6 +91,26 @@
     {
       "blog": "https://blogs.nvidia.com/",
       "author": "NVIDIA Blog"
+    },
+    {
+      "blog": "https://www.fast.ai/",
+      "author": "Fast.ai Blog"
+    },
+    {
+      "blog": "https://thegradient.pub/",
+      "author": "The Gradient"
+    },
+    {
+      "blog": "https://colah.github.io/",
+      "author": "Christopher Olah's Blog"
+    },
+    {
+      "blog": "https://blog.paperswithcode.com/",
+      "author": "Papers With Code"
+    },
+    {
+      "blog": "https://www.deeplearning.ai/blog/",
+      "author": "DeepLearning.AI"
     }
   ]
 }

@@ -1,0 +1,44 @@
+  {
+    "blog": [
+
+  {
+    "blog": "https://www.rna-seqblog.com/",
+    "author": "RNA-Seq Blog"
+  },
+
+  {
+    "blog": "https://blog.stephenturner.us/",
+    "author": "Paired Ends"
+  },
+
+  {
+    "blog": "https://divingintogeneticsandgenomics.kit.com/profile/posts",
+    "author": "Chatomics!"
+  },
+
+  {
+    "blog": "https://dromicsedu.com/news-and-blogs",
+    "author": "Dr. Omics"
+  },
+
+  {
+    "blog": "https://homolog.us/blogs/",
+    "author": "Homolog.us"
+  },
+
+  {
+    "blog": "https://omicsomics.blogspot.com/",
+    "author": "Omics! Omics!"
+  },
+
+  {
+    "blog": "https://www.nxn.se/",
+    "author": "nxn"
+  },
+
+  {
+    "blog": "https://www.fiosgenomics.com/blog/",
+    "author": "Fios Genomics"
+  }
+  ]
+}

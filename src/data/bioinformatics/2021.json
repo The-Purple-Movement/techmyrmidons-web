@@ -1,0 +1,33 @@
+{
+  "2021": [
+    {
+      "title": "AlphaFold Protein Structure Database",
+      "description": "AlphaFold DB provides open access to over 200 million protein structure predictions to accelerate scientific research.",
+      "url": "https://alphafold.ebi.ac.uk/"
+    },
+    
+    {
+      "title": "PopDel",
+      "description": "PopDel (Population-wide Deletion Calling) is a lightweight tool for calling and genotyping deletions (of a few hundred base-pairs and upwards) in short read paired-end data.",
+      "url": "https://github.com/kehrlab/PopDel"
+    },
+        
+    {
+      "title": "Pluto",
+      "description": "The Pluto platform simplifies secure, collaborative data sharing and bioinformatics analysis for academic, biotech, and pharmaceutical organizations.",
+      "url": "https://pluto.bio/"
+    },
+    
+    {
+      "title": "Cellenics",
+      "description": "Cellenics is an open-source platform aimed at empowering research biologists to analyze their own single-cell and spatial RNA sequencing datasets.",
+      "url": "https://www.biomage.net/"
+    },
+    
+    {
+      "title": "SeqFu",
+      "description": "SeqFu is a general-purpose program to manipulate and parse information from FASTA/FASTQ files, supporting gzipped input files. ",
+      "url": "https://telatin.github.io/seqfu2/"
+    }
+  ]
+}
