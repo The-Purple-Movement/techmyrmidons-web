@@ -130,7 +130,8 @@
       "technology": "Photonics",
       "logo": "photonics.png",
       "folderName": "photonics"
-     {
+    },
+    {
       "technology": "generative ai",
       "logo": "generative-ai.png",
       "folderName": "bioinformatics"
