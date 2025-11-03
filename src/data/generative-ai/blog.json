@@ -1,20 +1,68 @@
 {
   "blog": [
-
     {
       "blog": "https://aws.amazon.com/blogs/machine-learning/category/artificial-intelligence/generative-ai/",
-      "author":" Generative AI "
+      "author": "AWS"
     },
-
     {
       "blog": "https://github.blog/ai-and-ml/generative-ai/",
-      "author":"Latest in Generative AI"
+      "author": "GitHub"
     },
-
     {
       "blog": "https://www.datacamp.com/blog/agi",
-      "author":"Artificial General Intelligence (AGI): Predictions, Risks, Challenges"
+      "author": "DataCamp"
+    },
+    {
+      "blog": "https://tredence.com/blog/generative-ai-trends-2025",
+      "author": "Tredence"
+    },
+    {
+      "blog": "https://www.artificialintelligence-news.com/news/generative-ai-trends-2025-llms-data-scaling-enterprise-adoption/",
+      "author": "Artificial Intelligence News"
+    },
+    {
+      "blog": "https://www.sayonetech.com/blog/generative-ai-trends/",
+      "author": "SayOne Technologies"
+    },
+    {
+      "blog": "https://huggingface.co/blog/video_gen",
+      "author": "Hugging Face"
+    },
+    {
+      "blog": "https://huggingface.co/blog/llama2",
+      "author": "Hugging Face"
+    },
+    {
+      "blog": "https://huggingface.co/blog/generative-ai-models-on-intel-cpu",
+      "author": "Hugging Face"
+    },
+    {
+      "blog": "https://huggingface.co/blog/alicia-truepic/identify-ai-generated-content",
+      "author": "Hugging Face"
+    },
+    {
+      "blog": "https://aws.amazon.com/executive-insights/content/top-generative-ai-skills-and-education-trends-for-2025/",
+      "author": "AWS Executive Insights"
+    },
+    {
+      "blog": "https://www.forbes.com/sites/janakirammsv/2025/01/12/5-generative-ai-trends-to-watch-out-for-in-2025/",
+      "author": "Forbes"
+    },
+    {
+      "blog": "https://www.explodingtopics.com/blog/generative-ai-stats",
+      "author": "Exploding Topics"
+    },
+    {
+      "blog": "https://www.superannotate.com/blog/generative-ai-trends",
+      "author": "SuperAnnotate"
+    },
+    {
+      "blog": "https://www.eimt.edu.eu/the-future-of-generative-ai-trends-to-watch-in-2025-and-beyond",
+      "author": "EIMT"
+    },
+    {
+      "blog": "https://www.amplifai.com/blog/generative-ai-statistics",
+      "author": "AmplifAI"
     }
-
   ]
 }

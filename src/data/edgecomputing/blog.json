@@ -2,7 +2,7 @@
   "blog": [
     {
       "blog": "https://www.redhat.com/en/blog/channel/edge-computing",
-      "author": "Red Hat Blog"
+      "author": "Red Hat"
     },
     {
       "blog": "https://www.edgecomputing-news.com/news/",
@@ -18,7 +18,47 @@
     },
     {
       "blog": "https://opennebula.io/blog/newsletter/",
-      "author": " OpenNebula Blog"
+      "author": "OpenNebula"
+    },
+    {
+      "blog": "https://www.digi.com/blog/post/edge-computing-trends",
+      "author": "Digi"
+    },
+    {
+      "blog": "https://www.otava.com/blog/2025-trends-in-edge-computing-security/",
+      "author": "Otava"
+    },
+    {
+      "blog": "https://www.geeksforgeeks.org/blogs/edge-computing-trends/",
+      "author": "GeeksforGeeks"
+    },
+    {
+      "blog": "https://www.gcore.com/blog/edge-cloud-trends-2025",
+      "author": "Gcore"
+    },
+    {
+      "blog": "https://www.mayuraconsultancy.com/blog/top-edge-computing-trends",
+      "author": "Mayura Consultancy"
+    },
+    {
+      "blog": "https://redliodesigns.com/blog/edge-computing-in-web-development-2025-key-benefits",
+      "author": "Redlio Designs"
+    },
+    {
+      "blog": "https://www.accenture.com/in-en/insights/cloud/edge-computing-index",
+      "author": "Accenture"
+    },
+    {
+      "blog": "https://medium.com/@PhaniBhushanAthlur/top-edge-computing-platforms-compared-challenges-trends-and-how-to-use-ai-at-the-edge-514358d0ba8b",
+      "author": "Phani Bhushan Athlur"
+    },
+    {
+      "blog": "https://www.scalecomputing.com/blog/5-predictions-edge-computing-virtualization-2025",
+      "author": "Scale Computing"
+    },
+    {
+      "blog": "https://www.ibm.com/think/topics/edge-computing",
+      "author": "IBM"
     }
   ]
 }
