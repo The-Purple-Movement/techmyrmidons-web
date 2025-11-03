@@ -1,22 +1,49 @@
 {
-
   "follow": [
-
-   {
-      "followLink":"https://www.linkedin.com/in/soravjain/",
-      "photo":"sorav-jain-digital-marketing-influencer.png",
-      "name":"Sorav Jain"
+    {
+      "followLink": "https://www.linkedin.com/in/soravjain/",
+      "photo": "sorav-jain.jpg",
+      "name": "Sorav Jain"
     },
     {
-      "followLink": "https://www.linkedin.com/in/neilpatel/",
-      "photo": "neil_patel.png",
+      "followLink": "https://twitter.com/neilpatel",
+      "photo": "neil_patel.jpg",
       "name": "Neil Patel"
     },
     {
-      "followLink": "https://www.linkedin.com/in/annhandley/",
-      "photo": "ann_handley.png",
+      "followLink": "https://twitter.com/randfish",
+      "photo": "rand_fishkin.jpg",
+      "name": "Rand Fishkin"
+    },
+    {
+      "followLink": "https://twitter.com/annhandley",
+      "photo": "ann_handley.jpg",
       "name": "Ann Handley"
+    },
+    {
+      "followLink": "https://twitter.com/garyvee",
+      "photo": "gary_vaynerchuk.jpg",
+      "name": "Gary Vaynerchuk"
+    },
+    {
+      "followLink": "https://twitter.com/sethgodin",
+      "photo": "seth_godin.jpg",
+      "name": "Seth Godin"
+    },
+    {
+      "followLink": "https://twitter.com/moz",
+      "photo": "moz.jpg",
+      "name": "Moz"
+    },
+    {
+      "followLink": "https://twitter.com/markwschaefer",
+      "photo": "mark_schaefer.jpg",
+      "name": "Mark Schaefer"
+    },
+    {
+      "followLink": "https://twitter.com/dannysullivan",
+      "photo": "danny_sullivan.jpg",
+      "name": "Danny Sullivan"
     }
-
   ]
 }

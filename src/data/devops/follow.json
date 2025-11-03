@@ -7,21 +7,18 @@
       "photo":"adrianco.jpg",
       "name":"Adrian Cockcroft"
     },
-
     {
       "followLink":"https://twitter.com/allspaw",
       "photo":"allspaw.jpg",
       "name":"John Allspaw"
     },
-
     {
       "followLink":"https://twitter.com/joemckendrick",
       "photo":"joemckendrick.jpg",
       "name":"Joe McKendrick"
     },
-
     {
-      "followLink":"https://twitter.com/hullsean",
+      "followLink":"https://www.crunchbase.com/person/sean-hull",
       "photo":"hullsean.jpg",
       "name":"Sean Hull"
     },
@@ -81,7 +78,7 @@
       "name":"Sascha"
     },
     {
-      "followLink":"https://twitter.com/lnxchk",
+      "followLink":"https://www.linkedin.com/in/mandiwalls/",
       "photo":"MandiWalls.jpg",
       "name":"Mandi Walls"
     },

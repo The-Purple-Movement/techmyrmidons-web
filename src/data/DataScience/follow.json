@@ -1,6 +1,26 @@
 {
   "follow": [
     {
+      "followLink": "https://twitter.com/ylecun",
+      "photo": "yann_lecun.jpg",
+      "name": "Yann LeCun"
+    },
+    {
+      "followLink": "https://twitter.com/AndrewYNg",
+      "photo": "andrew_ng.jpg",
+      "name": "Andrew Ng"
+    },
+    {
+      "followLink": "https://twitter.com/karpathy",
+      "photo": "andrej_karpathy.jpg",
+      "name": "Andrej Karpathy"
+    },
+    {
+      "followLink": "https://twitter.com/fchollet",
+      "photo": "francois_chollet.jpg",
+      "name": "François Chollet"
+    },
+    {
       "followLink": "https://twitter.com/quaesita",
       "photo": "cassie_kozyrkov.jpg",
       "name": "Cassie Kozyrkov"
@@ -11,54 +31,34 @@
       "name": "Jeremy Howard"
     },
     {
-      "followLink": "https://twitter.com/fchollet",
-      "photo": "francois_chollet.jpg",
-      "name": "François Chollet"
+      "followLink": "https://twitter.com/hadleywickham",
+      "photo": "hadley_wickham.jpg",
+      "name": "Hadley Wickham"
     },
     {
-      "followLink": "https://twitter.com/AndrewYNg",
-      "photo": "andrew.jpg",
-      "name": "Andrew Ng"
+      "followLink": "https://twitter.com/kaggle",
+      "photo": "kaggle.jpg",
+      "name": "Kaggle"
     },
     {
-      "followLink": "https://twitter.com/ylecun",
-      "photo": "YannLeCun.jpg",
-      "name": "Yann LeCun"
+      "followLink": "https://twitter.com/kdnuggets",
+      "photo": "kdnuggets.jpg",
+      "name": "KDnuggets"
     },
     {
-      "followLink": "https://twitter.com/rasbt",
-      "photo": "sebastian_raschka.jpg",
-      "name": "Sebastian Raschka"
+      "followLink": "https://twitter.com/tdietterich",
+      "photo": "tom_dietterich.jpg",
+      "name": "Tom Dietterich"
     },
     {
-      "followLink": "https://twitter.com/racheltho",
-      "photo": "rachel-thomas.jpg",
-      "name": "Rachel Thomas"
+      "followLink": "https://twitter.com/random_forests",
+      "photo": "josh_gordon.jpg",
+      "name": "Josh Gordon"
     },
     {
-      "followLink": "https://twitter.com/hmason",
-      "photo": "hilary_mason.jpg",
-      "name": "Hilary Mason"
-    },
-    {
-      "followLink": "https://en.wikipedia.org/wiki/Peter_Norvig",
-      "photo": "peter_norvig.jpg",
-      "name": "Peter Norvig"
-    },
-    {
-      "followLink": "https://twitter.com/thom_wolf",
-      "photo": "thomas_wolf.jpg",
-      "name": "Thomas Wolf"
-    },
-    {
-      "followLink": "https://twitter.com/matei_zaharia",
-      "photo": "matei_zaharia.jpg",
-      "name": "Matei Zaharia"
-    },
-    {
-      "followLink": "https://en.wikipedia.org/wiki/Daphne_Koller",
-      "photo": "daphne_koller.jpg",
-      "name": "Daphne Koller"
+      "followLink": "https://twitter.com/kjhealy",
+      "photo": "kieran_healy.jpg",
+      "name": "Kieran Healy"
     }
   ]
 }

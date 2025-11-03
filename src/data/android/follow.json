@@ -12,20 +12,32 @@
       "name": "Andy Rubin"
     },
     {
+      "followLink": "https://twitter.com/sundarpichai",
+      "photo": "sundarpichai.jpg",
+      "test": "android-follow",
+      "name": "Sundarpichai"
+    },
+    {
       "followLink": "https://twitter.com/crafty",
       "photo": "NickButcher.jpg",
       "test": "android-follow",
       "name": "Nick Butcher"
     },
     {
-      "followLink": "https://twitter.com/lehtimaeki",
+      "followLink": "https://twitter.com/sama",
+      "photo": "SamAltman.jpg",
+      "test": "ai-follow",
+      "name": "Sam Altman"
+    },
+    {
+      "followLink": "https://www.linkedin.com/in/juhani-lehtim%C3%A4ki-78b327186/",
       "photo": "JuhaniLehtimaki.jpg",
       "test": "android-follow",
       "name": "Juhani Lehtimäki"
     },
     {
-      "followLink": "https://twitter.com/droidxav",
-      "photo": "XavierDucrohet.jpg",
+      "followLink": "https://www.linkedin.com/in/xducrohet/",
+      "photo": "XavierDucrohet.jfif",
       "test": "android-follow",
       "name": "Xavier Ducrohet"
     },
@@ -34,12 +46,6 @@
       "photo": "GinaTrapani.png",
       "test": "android-follow",
       "name": "Gina Trapani"
-    },
-    {
-      "followLink": "https://twitter.com/jkendrick",
-      "photo": "JamesKendrick.jpg",
-      "test": "android-follow",
-      "name": "James Kendrick"
     },
     {
       "followLink": "https://twitter.com/romainguy",
@@ -84,12 +90,6 @@
       "name": "Joaquim Vergès"
     },
     {
-      "followLink": "https://twitter.com/sundarpichai",
-      "photo": "sundarpichai.jpg",
-      "test": "android-follow",
-      "name": "Sundarpichai"
-    },
-    {
       "followLink": "https://twitter.com/amsanjeev",
       "photo": "Amrit_Sanjeev.jpg",
       "test": "android-follow",
@@ -107,12 +107,6 @@
       "photo": "AndrejKarpathy.jpg",
       "test": "ai-follow",
       "name": "Andrej Karpathy"
-    },
-    {
-      "followLink": "https://twitter.com/sama",
-      "photo": "SamAltman.jpg",
-      "test": "ai-follow",
-      "name": "Sam Altman"
     },
     {
       "followLink": "https://twitter.com/jackclarkSF",

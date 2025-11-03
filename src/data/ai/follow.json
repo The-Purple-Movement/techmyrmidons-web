@@ -6,79 +6,69 @@
       "name": "Andrew Ng"
     },
     {
-      "followLink": "https://twitter.com/ylecun",
-      "photo": "yann-lecun.jpg",
-      "name": "Yann LeCun"
+      "followLink":"https://twitter.com/j2bryson",
+      "photo":"Joanna.jpg",
+      "name":"Joanna J Bryson"
     },
     {
-      "followLink": "https://twitter.com/fchollet",
-      "photo": "Fchollet.jpg",
-      "name": "François Chollet"
+      "followLink":"https://twitter.com/elonmusk",
+      "photo":"elon.jpg",
+      "name":"Elon Musk"
+    },
+    {
+      "followLink":"https://twitter.com/alexjc",
+      "photo":"alexjc.png",
+      "name":"Alex J. Champandard"
+    },
+    {
+      "followLink":"https://twitter.com/lehtimaeki",
+      "photo":"juhani.jpg",
+      "name":"Juhani Lehtimäki"
+    },
+    {
+      "followLink":"https://twitter.com/soumithchintala",
+      "photo":"Soumith.jpg",
+      "name":"Soumith Chintala"
+    },
+    {
+      "followLink":"https://twitter.com/adampaulcoates",
+      "photo":"adam.png",
+      "name":"Adam Coates"
+    },
+    {
+      "followLink":"https://twitter.com/cybercodetwins",
+      "photo":"cybercode.jpg",
+      "name":"CyberCode Twins"
+    },
+    {
+      "followLink":"https://twitter.com/jeggers",
+      "photo":"jana.jpg",
+      "name":"Jana Eggers"
+    },
+    {
+      "followLink":"https://twitter.com/drfeifei",
+      "photo":"fei-fei-li.jpg",
+      "name":"Fei-Fei Li"
+    },
+    {
+      "followLink":"https://twitter.com/MFordFuture",
+      "photo":"martin.jpg",
+      "name":"Martin Ford"
+    },
+    {
+      "followLink":"https://twitter.com/ageitgey",
+      "photo":"Adam-Geitgey.jpg",
+      "name":"Adam Geitgey"
+    },
+    {
+      "followLink":"https://twitter.com/johnchavens",
+      "photo":"johnc.jpg",
+      "name":"John C. Havens"
     },
     {
       "followLink": "https://twitter.com/NathanBenaich",
       "photo": "Nathan.jpg",
       "name": "Nathan Benaich"
-    },
-    {
-      "followLink": "https://twitter.com/j2bryson",
-      "photo": "Joanna.jpg",
-      "name": "Joanna J Bryson"
-    },
-    {
-      "followLink": "https://twitter.com/alexjc",
-      "photo": "alexjc.png",
-      "name": "Alex J. Champandard"
-    },
-    {
-      "followLink": "https://twitter.com/lehtimaeki",
-      "photo": "juhani.jpg",
-      "name": "Juhani Lehtimäki"
-    },
-    {
-      "followLink": "https://twitter.com/soumithchintala",
-      "photo": "Soumith.jpg",
-      "name": "Soumith Chintala"
-    },
-    {
-      "followLink": "https://twitter.com/adampaulcoates",
-      "photo": "adam.png",
-      "name": "Adam Coates"
-    },
-    {
-      "followLink": "https://twitter.com/cybercodetwins",
-      "photo": "cybercode.jpg",
-      "name": "CyberCode Twins"
-    },
-    {
-      "followLink": "https://twitter.com/jeggers",
-      "photo": "jana.jpg",
-      "name": "Jana Eggers"
-    },
-    {
-      "followLink": "https://twitter.com/drfeifei",
-      "photo": "fei-fei-li.jpg",
-      "name": "Fei-Fei Li"
-    },
-    {
-      "followLink": "https://twitter.com/MFordFuture",
-      "photo": "martin.jpg",
-      "name": "Martin Ford"
-    },
-    {
-      "followLink": "https://twitter.com/ageitgey",
-      "photo": "Adam-Geitgey.jpg",
-      "name": "Adam Geitgey"
-    },
-    {
-      "followLink": "https://twitter.com/johnchavens",
-      "photo": "johnc.jpg",
-      "name": "John C. Havens"
-    },
-    {
-      "followLink": "https://twitter.com/elonmusk",
-      "photo": "elon.jpg",
-      "name": "Elon Musk"
     },
     {
       "followLink": "https://twitter.com/AlecRad",

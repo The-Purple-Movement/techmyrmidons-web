@@ -7,58 +7,45 @@
       "photo":"robert.jpg",
       "name":"Dr. Robert Zubrin"
     },
-
     {
       "followLink":"https://x.com/Peter_J_Beck",
       "photo":"peter.jpg",
       "name":"Peter Beck"
     },
-
     {
       "followLink":"https://x.com/ProfSaraSeager",
       "photo":"sara.jpg",
       "name":"Dr. Sara Seager"
     },
-
     {
-      "followLink":"https://www.instagram.com/kelliegerardi/",
+      "followLink":"https://www.kelliegerardi.com/",
       "photo":"kellie.webp",
       "name":"Kellie Gerardi"
     },
-
     {
-      "followLink":"https://www.instagram.com/kevinjdebruin/",
-      "photo":"kevin.webp",
+      "followLink":"https://www.linkedin.com/in/kevindebruin2589/",
+      "photo":"kevin.jpg",
       "name":"Kevin J. DeBruin"
     },
-
     {
       "followLink":"https://www.linkedin.com/in/nobu-okada-4a525517/?originalSubdomain=jp",
       "photo":"Nobu.webp",
       "name":"Nobu Okada"
     },
-
-     {
-      "followLink":"https://x.com/LeoLabs_Space",
+    {
+      "followLink":"https://www.linkedin.com/in/daniel-ceperley-aa27903/",
       "photo":"Dan.jpeg",
-      "name":"Dan Ceperley"
+      "name":"Daniel Ceperley"
     },
-
-     {
+    {
       "followLink":"https://x.com/Cmdr_Hadfield?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
-      "photo":"Chris.webp",
+      "photo":"Chris.jpg",
       "name":"Chris Hadfield"
     },
-
-     {
+    {
       "followLink":"https://x.com/SciAstro",
       "photo":"John_m.jpeg",
       "name":"John M. Grunsfeld"
     }
-    
-  
-    
-    
-
   ]
 }

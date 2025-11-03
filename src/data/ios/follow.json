@@ -1,64 +1,79 @@
 {
-
   "follow": [
-
-   {
-      "followLink":"https://twitter.com/rwenderlich",
-      "photo":"raywenderlich.jpg",
-      "name":"Ray Wenderlich"
-    },
-
     {
-      "followLink":"https://twitter.com/mattgemmell",
-      "photo":"MattGemmell.jpg",
-      "name":"Matt Gemmell"
-    },
-
-    {
-      "followLink":"https://twitter.com/clattner_llvm",
-      "photo":"ChrisLattner.jpg",
-      "name":"Chris Lattner"
-    }
-    ,
-    {
-      "followLink":"https://twitter.com/simonng",
-      "photo":"SimonNg.jpg",
-      "name":"Simon Ng"
+      "followLink": "https://twitter.com/tim_cook",
+      "photo": "TimCook.jpg",
+      "name": "Tim Cook"
     },
     {
-      "followLink":"https://twitter.com/tim_cook",
-      "photo":"TimCook.jpg",
-      "name":"Tim Cook"
+      "followLink": "https://twitter.com/clattner_llvm",
+      "photo": "ChrisLattner.jpg",
+      "name": "Chris Lattner"
     },
     {
-      "followLink":"https://twitter.com/mattjgalloway",
-      "photo":"matt_galloway.jpg",
-      "name":"Matt Galloway"
+      "followLink": "https://twitter.com/johnsundell",
+      "photo": "JohnSundell.jpg",
+      "name": "John Sundell"
     },
     {
-      "followLink":"https://twitter.com/ashfurrow",
-      "photo":"AshFurrow.jpg",
-      "name":"Ash Furrow"
+      "followLink": "https://twitter.com/ashfurrow",
+      "photo": "AshFurrow.jpg",
+      "name": "Ash Furrow"
     },
     {
-      "followLink":"https://twitter.com/olebegemann",
-      "photo":"OleBegemann.jpg",
-      "name":"Ole Begemann"
+      "followLink": "https://twitter.com/rwenderlich",
+      "photo": "raywenderlich.jpg",
+      "name": "Ray Wenderlich"
     },
     {
-      "followLink":"https://twitter.com/chriseidhof",
-      "photo":"ChrisEidhof.jpg",
-      "name":"Chris Eidhof"
+      "followLink": "https://twitter.com/daveverwer",
+      "photo": "DaveVerwer.jpg",
+      "name": "Dave Verwer"
     },
     {
-      "followLink":"https://twitter.com/mattt",
-      "photo":"Mattt.jpg",
-      "name":"Mattt"
+      "followLink": "https://twitter.com/chriseidhof",
+      "photo": "ChrisEidhof.jpg",
+      "name": "Chris Eidhof"
     },
     {
-      "followLink":"https://twitter.com/daveverwer",
-      "photo":"DaveVerwer.jpg",
-      "name":"Dave Verwer"
+      "followLink": "https://twitter.com/olebegemann",
+      "photo": "OleBegemann.jpg",
+      "name": "Ole Begemann"
+    },
+    {
+      "followLink": "https://twitter.com/mattt",
+      "photo": "Mattt.jpg",
+      "name": "Mattt"
+    },
+    {
+      "followLink": "https://twitter.com/mattjgalloway",
+      "photo": "matt_galloway.jpg",
+      "name": "Matt Galloway"
+    },
+    {
+      "followLink": "https://twitter.com/simonng",
+      "photo": "SimonNg.jpg",
+      "name": "Simon Ng"
+    },
+    {
+      "followLink": "https://twitter.com/mattgemmell",
+      "photo": "MattGemmell.jpg",
+      "name": "Matt Gemmell"
+    },
+    {
+      "followLink": "https://twitter.com/steipete",
+      "photo": "PeterSteinberger.jpg",
+      "name": "Peter Steinberger"
+    },
+    {
+      "followLink": "https://twitter.com/orta",
+      "photo": "OrtaTherox.jpg",
+      "name": "Orta Therox"
+    },
+    {
+      "followLink": "https://twitter.com/krausefx",
+      "photo": "FelixKrause.jpg",
+      "name": "Felix Krause"
     }
   ]
 }
