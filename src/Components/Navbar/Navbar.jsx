@@ -29,6 +29,18 @@ function Navbar() {
             <a href="#cards" onClick={showNavBar}>
               Domains
             </a>
+            <Link to="/contribute" onClick={showNavBar}>
+              Contribute
+            </Link>
+            <button className="nav-btn nav-close-btn">
+              <FaTimes onClick={showNavBar} />
+            </button>
+          </>
+        ) : location.pathname === "/contribute" ? (
+          <>
+            <Link to="/" onClick={showNavBar}>
+              Home
+            </Link>
             <button className="nav-btn nav-close-btn">
               <FaTimes onClick={showNavBar} />
             </button>
@@ -49,6 +61,9 @@ function Navbar() {
             <a href="#people" onClick={showNavBar}>
               People
             </a>
+            <Link to="/contribute" onClick={showNavBar}>
+              Contribute
+            </Link>
             <button className="nav-btn nav-close-btn">
               <FaTimes onClick={showNavBar} />
             </button>
